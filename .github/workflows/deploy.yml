@@ -3,6 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # 仅当代码/配置变动时才重新部署；app 写入的 data/db.json 不会触发部署
+    paths:
+      - 'client/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
