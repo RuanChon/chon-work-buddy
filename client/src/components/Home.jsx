@@ -1,7 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useStore } from '../useStore.jsx';
-import { fetchHotNews } from '../api.js';
+import { fetchHotNews, refreshHotNews } from '../api.js';
+import { loadSettings } from '../sync.js';
 
+const NEWS_BATCH_SIZE = 10;
 const pad = (value) => String(value).padStart(2, '0');
 const localDate = (date = new Date()) =>
   `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
@@ -15,14 +17,21 @@ function daysUntil(date) {
 export default function Home({ onNavigate }) {
   const { data, apply } = useStore();
   const [news, setNews] = useState({ date: '', items: [] });
+  const [visibleNews, setVisibleNews] = useState([]);
   const [newsState, setNewsState] = useState('loading');
+  const [newsRefreshing, setNewsRefreshing] = useState(false);
+  const [newsNotice, setNewsNotice] = useState('');
+  const seenNewsIds = useRef(new Set());
 
   useEffect(() => {
     let alive = true;
     fetchHotNews()
       .then((result) => {
         if (!alive) return;
+        const initialItems = (result.items || []).slice(0, NEWS_BATCH_SIZE);
         setNews(result);
+        setVisibleNews(initialItems);
+        seenNewsIds.current = new Set(initialItems.map((item) => item.id));
         setNewsState(result.items?.length ? 'ready' : 'empty');
       })
       .catch(() => {
@@ -47,6 +56,36 @@ export default function Home({ onNavigate }) {
       const plan = draft.plans.find((item) => item.id === id);
       if (plan) plan.done = !plan.done;
     });
+  };
+
+  const refreshNews = async () => {
+    if (newsRefreshing) return;
+    setNewsRefreshing(true);
+    setNewsNotice('正在重新抓取最新资讯…');
+
+    try {
+      const settings = loadSettings();
+      const result = await refreshHotNews({
+        github: settings.mode === 'github' ? settings.github : null,
+        previousGeneratedAt: news.generatedAt
+      });
+      const unseenItems = (result.items || []).filter((item) => !seenNewsIds.current.has(item.id));
+      const nextItems = unseenItems.slice(0, NEWS_BATCH_SIZE);
+
+      setNews(result);
+      if (!nextItems.length) {
+        setNewsNotice('已是最新内容，暂时没有更多不重复资讯。');
+        return;
+      }
+
+      nextItems.forEach((item) => seenNewsIds.current.add(item.id));
+      setVisibleNews(nextItems);
+      setNewsNotice(nextItems.length < NEWS_BATCH_SIZE ? `本次发现 ${nextItems.length} 条新资讯` : '');
+    } catch (error) {
+      setNewsNotice(error.message || '重新抓取失败，请稍后再试。');
+    } finally {
+      setNewsRefreshing(false);
+    }
   };
 
   return (
@@ -137,18 +176,40 @@ export default function Home({ onNavigate }) {
           <div className="dashboard-card-head news-card-head">
             <div>
               <span className="dashboard-kicker">每日热点</span>
-              <h3>今日时政新闻</h3>
-              <small>{news.date ? `${news.date} · 每天 08:00 更新` : '每天 08:00 更新'}</small>
+              <h3>今日热点资讯</h3>
+              <small>
+                {news.date ? `${news.date} · 每天 08:00 更新` : '每天 08:00 更新'} · 时政 / 科普 / 社会
+              </small>
             </div>
-            <span className="live-dot" aria-label="自动更新" />
+            <div className="news-tools">
+              <span className="live-dot" aria-label="自动更新" />
+              <button
+                className={'news-refresh' + (newsRefreshing ? ' is-refreshing' : '')}
+                type="button"
+                aria-label="换一批热点"
+                title="换一批热点"
+                onClick={refreshNews}
+                disabled={newsRefreshing}
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M20 11a8 8 0 0 0-14.8-4.2L3 9m1-5v5h5M4 13a8 8 0 0 0 14.8 4.2L21 15m-1 5v-5h-5" />
+                </svg>
+              </button>
+            </div>
           </div>
 
           {newsState === 'loading' && <p className="news-empty">正在加载今日热点…</p>}
           {newsState === 'error' && <p className="news-empty">热点加载失败，请稍后刷新。</p>}
           {newsState === 'empty' && <p className="news-empty">今天暂时没有抓取到热点。</p>}
+          {newsNotice && <p className="news-refresh-note" role="status">{newsNotice}</p>}
           {newsState === 'ready' && (
-            <ol className="headline-list">
-              {news.items.slice(0, 10).map((item) => (
+            <ol
+              key={visibleNews.map((item) => item.id).join('-')}
+              className="headline-list headline-list-enter"
+              aria-live="polite"
+              aria-busy={newsRefreshing}
+            >
+              {visibleNews.map((item) => (
                 <li key={item.id}>
                   <a href={item.url} target="_blank" rel="noreferrer">
                     <span>{item.title}</span>

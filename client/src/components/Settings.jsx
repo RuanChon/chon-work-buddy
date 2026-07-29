@@ -35,7 +35,7 @@ export default function Settings({ onClose, onSaved }) {
         <div className="set-github">
           <p className="muted">
             把仓库当成共享数据库：数据存于 <code>data/db.json</code>。
-            需一个<strong>仅限本仓库</strong>的 Fine-grained PAT（Contents: Read &amp; Write）。
+            需一个<strong>仅限本仓库</strong>的 Fine-grained PAT（Contents 和 Actions 均为 Read &amp; Write）。
             令牌只保存在你本机浏览器，不会上传。
           </p>
           <label className="set-row"><span>Owner</span><input value={g.owner} onChange={(e) => setG('owner', e.target.value)} /></label>

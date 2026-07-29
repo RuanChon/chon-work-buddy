@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const { getState, mergeState, FILES_DIR } = require('./db');
-const { readHotNews, scheduleHotNewsRefresh } = require('./hotNews');
+const { readHotNews, scheduleHotNewsRefresh, updateHotNews } = require('./hotNews');
 
 const app = express();
 app.use(cors());
@@ -31,6 +31,20 @@ app.put('/api/state', (req, res) => {
 app.get('/api/hot-news', (req, res) => {
   res.set('Cache-Control', 'no-store');
   res.json(readHotNews());
+});
+
+let hotNewsRefreshTask = null;
+app.post('/api/hot-news/refresh', async (req, res) => {
+  try {
+    hotNewsRefreshTask ||= updateHotNews().finally(() => {
+      hotNewsRefreshTask = null;
+    });
+    const data = await hotNewsRefreshTask;
+    res.set('Cache-Control', 'no-store');
+    res.json(data);
+  } catch (error) {
+    res.status(502).json({ error: error.message || '热点抓取失败' });
+  }
 });
 
 // 上传图片 / 语音，返回可访问 URL

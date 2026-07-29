@@ -5,13 +5,19 @@ const cheerio = require('cheerio');
 
 const HOT_NEWS_FILE = path.join(__dirname, '..', 'data', 'hot-news.json');
 const FETCH_TIMEOUT_MS = 20000;
-const SOURCE_LIMIT = 8;
+const SOURCE_LIMIT = 30;
 
 const SOURCES = [
   {
     id: 'people',
     name: '人民网',
     homepage: 'https://www.people.com.cn/',
+    pages: [
+      { url: 'https://www.people.com.cn/', topic: '综合' },
+      { url: 'https://politics.people.com.cn/', topic: '时政' },
+      { url: 'https://society.people.com.cn/', topic: '社会' },
+      { url: 'https://scitech.people.com.cn/', topic: '科普' }
+    ],
     accepts(url) {
       return (
         (url.hostname === 'people.com.cn' || url.hostname.endsWith('.people.com.cn')) &&
@@ -27,6 +33,7 @@ const SOURCES = [
     id: 'qiushi',
     name: '求是网',
     homepage: 'https://www.qstheory.cn/',
+    pages: [{ url: 'https://www.qstheory.cn/', topic: '时政' }],
     accepts(url) {
       return (
         (url.hostname === 'qstheory.cn' || url.hostname.endsWith('.qstheory.cn')) &&
@@ -71,6 +78,13 @@ function normalizeUrl(href, homepage) {
   }
 }
 
+function topicFromUrl(url, fallback) {
+  if (url.hostname.startsWith('scitech.') || url.hostname.startsWith('health.')) return '科普';
+  if (url.hostname.startsWith('society.') || url.hostname.startsWith('legal.')) return '社会';
+  if (url.hostname.startsWith('politics.') || url.hostname.startsWith('opinion.')) return '时政';
+  return fallback;
+}
+
 async function fetchHtml(url) {
   const response = await fetch(url, {
     headers: {
@@ -84,31 +98,46 @@ async function fetchHtml(url) {
 }
 
 async function fetchSource(source, today) {
-  const html = await fetchHtml(source.homepage);
-  const $ = cheerio.load(html);
+  const pageResults = await Promise.allSettled(
+    (source.pages || [{ url: source.homepage, topic: '综合' }]).map(async (page) => ({
+      ...page,
+      html: await fetchHtml(page.url)
+    }))
+  );
   const seen = new Set();
   const candidates = [];
 
-  $('a[href]').each((_, element) => {
-    const title = cleanTitle($(element).text());
-    if (title.length < 8 || title.length > 90 || /^(更多|点击查看|查看往期)/.test(title)) return;
+  for (const result of pageResults) {
+    if (result.status !== 'fulfilled') continue;
+    const page = result.value;
+    const $ = cheerio.load(page.html);
 
-    const url = normalizeUrl($(element).attr('href'), source.homepage);
-    if (!url || !source.accepts(url)) return;
+    $('a[href]').each((_, element) => {
+      const title = cleanTitle($(element).text());
+      if (title.length < 8 || title.length > 90 || /^(更多|点击查看|查看往期)/.test(title)) return;
 
-    const key = title.toLocaleLowerCase('zh-CN');
-    if (seen.has(key)) return;
-    seen.add(key);
+      const url = normalizeUrl($(element).attr('href'), page.url);
+      if (!url || !source.accepts(url)) return;
 
-    candidates.push({
-      id: crypto.createHash('sha1').update(`${source.id}:${url.href}`).digest('hex').slice(0, 16),
-      source: source.id,
-      sourceName: source.name,
-      title,
-      url: url.href,
-      publishedDate: source.dateFrom(url)
+      const key = title.toLocaleLowerCase('zh-CN');
+      if (seen.has(key)) return;
+      seen.add(key);
+
+      candidates.push({
+        id: crypto.createHash('sha1').update(`${source.id}:${url.href}`).digest('hex').slice(0, 16),
+        source: source.id,
+        sourceName: source.name,
+        topic: topicFromUrl(url, page.topic),
+        title,
+        url: url.href,
+        publishedDate: source.dateFrom(url)
+      });
     });
-  });
+  }
+
+  if (!pageResults.some((result) => result.status === 'fulfilled')) {
+    throw new Error(`${source.name} 页面均抓取失败`);
+  }
 
   return candidates.filter((item) => item.publishedDate === today).slice(0, SOURCE_LIMIT);
 }
