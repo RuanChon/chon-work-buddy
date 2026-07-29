@@ -24,20 +24,39 @@ export async function uploadFile(file) {
   return r.json(); // { url, id }
 }
 
-export async function fetchHotNews() {
+export async function fetchHotNews({ github } = {}) {
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
-  const url = isPublic
-    ? 'https://api.github.com/repos/RuanChon/chon-work-buddy/contents/data/hot-news.json?ref=main'
-    : BASE + '/api/hot-news';
-  const r = await fetch(url, {
-    headers: isPublic ? { Accept: 'application/vnd.github+json' } : undefined,
-    cache: 'no-store'
-  });
-  if (!r.ok) throw new Error('fetch hot news failed');
-  const result = await r.json();
-  if (!isPublic) return result;
-  if (result.encoding !== 'base64' || !result.content) throw new Error('hot news content invalid');
-  return JSON.parse(decodeGithubContent(result.content));
+  if (!isPublic) {
+    const response = await fetch(BASE + '/api/hot-news', { cache: 'no-store' });
+    if (!response.ok) throw new Error('fetch hot news failed');
+    return response.json();
+  }
+
+  const owner = github?.owner || 'RuanChon';
+  const repo = github?.repo || 'chon-work-buddy';
+  const branch = github?.branch || 'main';
+  const apiHeaders = { Accept: 'application/vnd.github+json' };
+  if (github?.token) apiHeaders.Authorization = `Bearer ${github.token}`;
+
+  try {
+    const response = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/data/hot-news.json?ref=${encodeURIComponent(branch)}`,
+      { headers: apiHeaders, cache: 'no-store' }
+    );
+    if (!response.ok) throw new Error(`GitHub API ${response.status}`);
+    const file = await response.json();
+    if (file.encoding !== 'base64' || !file.content) throw new Error('hot news content invalid');
+    return JSON.parse(decodeGithubContent(file.content));
+  } catch {
+    // 未认证的 Contents API 只有较低的频率额度。额度耗尽或网络异常时，
+    // 回退到公开原始文件，至少保证首页仍能展示最近一次成功抓取的数据。
+    const fallback = await fetch(
+      `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/data/hot-news.json?v=${Date.now()}`,
+      { cache: 'no-store' }
+    );
+    if (!fallback.ok) throw new Error('fetch hot news failed');
+    return fallback.json();
+  }
 }
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));

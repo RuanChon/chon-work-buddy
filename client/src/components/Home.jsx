@@ -25,7 +25,10 @@ export default function Home({ onNavigate }) {
 
   useEffect(() => {
     let alive = true;
-    fetchHotNews()
+    const settings = loadSettings();
+    fetchHotNews({
+      github: settings.mode === 'github' ? settings.github : null
+    })
       .then((result) => {
         if (!alive) return;
         const initialItems = (result.items || []).slice(0, NEWS_BATCH_SIZE);
