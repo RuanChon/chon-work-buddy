@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-29T15:51:37.519Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-29T23:48:25.939Z",
   "sources": [
     {
       "id": "people",
@@ -15,338 +15,280 @@
   ],
   "items": [
     {
-      "id": "c42efaba090bcf65",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "浙江东阳：一块小门牌，十年挂不上？",
-      "url": "http://society.people.com.cn/n1/2026/0729/c428181-40769920.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "0e64cccb5e5ac6f1",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
-      "url": "https://www.qstheory.cn/20260729/fb6b0302a6c943a58ca8ff72ae20bc33/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "80c431abe2b97ed1",
+      "id": "f19073995e2cb475",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民锐评：门牌虽小，照见干部作风",
-      "url": "http://opinion.people.com.cn/n1/2026/0729/c436867-40770112.html",
-      "publishedDate": "2026-07-29"
+      "title": "总书记的人民情怀丨“始终同人民同呼吸、共命运、心连心”",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770506.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "b2e62914b6333c4e",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "深刻理解和把握新质生产力的理论价值与实践要求",
-      "url": "https://www.qstheory.cn/20260729/e2bcca6298ce4d9491c8ce86bb237984/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "5c6ab28587de4570",
+      "id": "8a45ab64fc7fa135",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "李强会见斯洛伐克总统佩列格里尼",
-      "url": "http://politics.people.com.cn/n1/2026/0729/c1024-40770471.html",
-      "publishedDate": "2026-07-29"
+      "title": "促进海内外中华儿女团结奋斗",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770507.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "e0674e0edd66338c",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "中央宣传部授予王戟同志“时代楷模”称号",
-      "url": "https://www.qstheory.cn/20260729/7219005888164ab0a8e8c038f9a5ff1f/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "a179c59c697840a9",
+      "id": "14133a0935368689",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赵乐际会见斯洛伐克总统佩列格里尼",
-      "url": "http://politics.people.com.cn/n1/2026/0729/c1024-40770447.html",
-      "publishedDate": "2026-07-29"
+      "title": "李强赵乐际分别会见斯洛伐克总统佩列格里尼",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c1024-40770510.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "f19ec77d5d99992a",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "轮椅上“跑出”的加速度——记国防科大研究员王戟",
-      "url": "https://www.qstheory.cn/20260729/6e9271c51f8b4b848d16ea46fd4ec5c3/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "570389366962cec9",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "把广大海外侨胞和归侨侨眷紧密团结起来",
-      "url": "https://www.qstheory.cn/20260729/5023c1bb74bc482aaba4ecee5a9c6d0f/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "198d99d5a60ae740",
+      "id": "4c50c90e6643423c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报评论员:促进团结奋斗 汇聚磅礴力量",
-      "url": "http://opinion.people.com.cn/n1/2026/0729/c461529-40769757.html",
-      "publishedDate": "2026-07-29"
+      "title": "新时代伟大实践彰显马克思主义强大生命力",
+      "url": "http://opinion.people.com.cn/n1/2026/0730/c461530-40770546.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "0ee9a79b5205857c",
-      "source": "qiushi",
-      "sourceName": "求是网",
+      "id": "99b9d84a3a63e2d0",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
-      "title": "国际冲突出现了哪些新变化？",
-      "url": "https://www.qstheory.cn/20260729/8405cf565b9141f4aca7c24a0db43f74/c.html",
-      "publishedDate": "2026-07-29"
+      "title": "告别\"中国冲击\"旧叙事 拥抱\"中国机遇\"新答案",
+      "url": "http://opinion.people.com.cn/n1/2026/0730/c461529-40770518.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "5bd5f599e24a7c4f",
+      "id": "bc5218adc5d2d645",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "中宣部授予王戟同志\"时代楷模\"称号",
-      "url": "http://politics.people.com.cn/n1/2026/0729/c461001-40770269.html",
-      "publishedDate": "2026-07-29"
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770523.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "a8cf34a67b70e9d2",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "修齐治平、兴亡有责的家国情怀②",
-      "url": "https://www.qstheory.cn/20260729/f5ef4be0cbf543c6ac4fb5808743fa6c/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "ee2e0340a0b41439",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "陕西文化\"新三样\"破圈出海",
-      "url": "http://sn.people.com.cn/n2/2026/0729/c226647-41653238.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "6c8259f08953eaf4",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "“求是号”聚合传播平台正式上线",
-      "url": "https://www.qstheory.cn/20260729/517446cd2ff34934a8a2d3ef856e05ff/c.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "9cb9b473969bdc25",
+      "id": "0e131f04fdf55850",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "\"王的猜想\"击中了坚守的自我",
-      "url": "http://opinion.people.com.cn/n1/2026/0729/c1003-40770476.html",
-      "publishedDate": "2026-07-29"
+      "title": "天津市河东区:\"反向\"考核机制校准政绩坐标",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770508.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "99807443275cf849",
+      "id": "6c11e555375f8ae4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "透过税收大数据看\"十五五\"开局经济运行稳中向好",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770258.html",
-      "publishedDate": "2026-07-29"
+      "title": "确保知识产权强国建设取得决定性进展",
+      "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770512.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "39621fe2fa5d876d",
+      "id": "f4ec0b091cb18cdd",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "从\"看景\"到\"入戏\" 外国游客\"沉浸式\"游啥?",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770170.html",
-      "publishedDate": "2026-07-29"
+      "title": "多个重大水运工程建设为何驶入\"快车道\"",
+      "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770513.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "a22734a0147bab2b",
+      "id": "9fa0a69d46c710fc",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "多地用电负荷攀升 迎峰度夏电力保供有序推进",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770350.html",
-      "publishedDate": "2026-07-29"
+      "title": "京津冀算力\"一张网\"这样建",
+      "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770541.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "0b7c2340bf881f39",
+      "id": "cef841af3cc0e6b6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "我国成功发射天链三号01星",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770481.html",
-      "publishedDate": "2026-07-29"
+      "title": "要\"通\"更要\"活\"",
+      "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770542.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "1773cae953716fb0",
+      "id": "d7617b2d417694f9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "海南自贸港发布第23批6项制度集成创新案例",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770472.html",
-      "publishedDate": "2026-07-29"
+      "title": "美联储年内连续第5次维持利率不变 内部分歧明显",
+      "url": "http://world.people.com.cn/n1/2026/0730/c1002-40770504.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "4df27bbe2686daea",
+      "id": "46d4a66eecd2e316",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "C919飞机高原型完成首次飞行试验",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770230.html",
-      "publishedDate": "2026-07-29"
+      "topic": "社会",
+      "title": "重庆江津发生涉林火情 暂无人员伤亡",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770503.html",
+      "publishedDate": "2026-07-30"
     },
     {
-      "id": "6b20e39713e15a9c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "商务部回应美将部分中国科研机构列入制裁清单",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770205.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "f338d017e0886c90",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "通苏嘉甬高铁跨张家港河斜拉桥合龙",
-      "url": "http://pic.people.com.cn/n1/2026/0729/c1016-40770501.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "70e6059ff5998e3d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "高质量发展故事汇｜工业母机从“引进”到“自主”",
-      "url": "http://finance.people.com.cn/n1/2026/0729/c1004-40770284.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "dd7f475f752a40c0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "行进中国丨闽东老街，藏着百年肌理",
-      "url": "http://fj.people.com.cn/n2/2026/0729/c181466-41653415.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "e20a7def8bfae175",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "广西平乐：稻浪飘香迎丰收",
-      "url": "http://gx.people.com.cn/n2/2026/0729/c179464-41652865.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "de18e30808fa45d5",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "浙江丽水：夏日梯田引客来",
-      "url": "http://zj.people.com.cn/n2/2026/0729/c186327-41653574.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "6d366010b0d83bb2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中原古砚展 暑假好去处",
-      "url": "http://henan.people.com.cn/n2/2026/0729/c351638-41653125.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "e6f790b31f7cb31f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "云雾之下 “瞰”见“离天空最近的茶园”",
-      "url": "http://yn.people.com.cn/n2/2026/0729/c372456-41653500.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "c6702703c2eff4f3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "以扎实举措推进农业农村现代化",
-      "url": "http://theory.people.com.cn/n1/2026/0729/c40531-40770023.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "dda459e39a3ecd27",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "在新的赶考之路上创造新的历史伟业",
-      "url": "http://theory.people.com.cn/n1/2026/0729/c40531-40770064.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "1489def76c237224",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "坚持科学思想方法推进党的建设",
-      "url": "http://dangjian.people.com.cn/n1/2026/0729/c117092-40770014.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "11c0ae12e44daf23",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "吉林白山完善机制压责督责",
-      "url": "http://fanfu.people.com.cn/n1/2026/0729/c64371-40770107.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "052a58b866deb7a6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "冀鲁豫边区组织体系建设的经验与启示",
-      "url": "http://cpc.people.com.cn/n1/2026/0729/c443712-40769947.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "4a458a324fcff7a8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "思想解读类融媒体片《制胜》即将播出",
-      "url": "http://politics.people.com.cn/n1/2026/0729/c461001-40770452.html",
-      "publishedDate": "2026-07-29"
-    },
-    {
-      "id": "b546ab26251534f8",
+      "id": "6dffe85b8883dcd9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "中央宣传部、司法部就“九五”普法规划答记者问",
-      "url": "http://politics.people.com.cn/n1/2026/0729/c461001-40770330.html",
-      "publishedDate": "2026-07-29"
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770533.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "ee63c76156af6e37",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "思想解读类融媒体片《制胜》即将播出",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770534.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "31e38f34e05ddb17",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "外交部批日本右翼势力借助新型技术向舆论“投毒”",
+      "url": "http://world.people.com.cn/n1/2026/0730/c1002-40770590.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "0e39fb53e31246c9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "国台办：希望台方尽快取消对两岸航空运输不合理限制",
+      "url": "http://tw.people.com.cn/n1/2026/0730/c14657-40770585.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "7ffd882f41726763",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "加快农业农村现代化——全国政协专题协商会发言摘编",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770580.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "861f760ffa91fdaf",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "全民健身新目标：40%的人常锻炼",
+      "url": "http://ent.people.com.cn/n1/2026/0730/c1012-40770564.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "c4214d6de7516521",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "动起来，让生活更精彩",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770549.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "e1c7cb9213e0e9cc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "国家防办安排部署汛期旅游安全工作",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770525.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "2b3b952c46632db0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "水利部向17省份发出“一省一单”靶向预警",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770526.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "768e6a2d685c53a5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨拧紧“总开关”，政绩观不走偏",
+      "url": "http://opinion.people.com.cn/n1/2026/0730/c461529-40770527.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "d51bd560c99df92e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨以体育赛事增强城市发展动力",
+      "url": "http://opinion.people.com.cn/n1/2026/0730/c461530-40770547.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "4eacd6e5877b7fc1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“超现场”，让近2万人同赏一场歌剧",
+      "url": "http://ent.people.com.cn/n1/2026/0730/c1012-40770578.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "61756063a1478024",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "上海赠送的小熊猫与台北市民见面",
+      "url": "http://tw.people.com.cn/n1/2026/0730/c14657-40770641.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "5431fedc3ac1af66",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "拉回“走在悬崖边的孩子”",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770593.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "3d7f4316cbcbed6e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "合力修补“折翼的青春”",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770594.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "ad44ff23b1cb14be",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "田里遭了灾，农业保险怎么赔",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770570.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "c9e131ae0d1e3b84",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "暑期旅行，保险怎么选",
+      "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770517.html",
+      "publishedDate": "2026-07-30"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "qiushi",
+      "message": "未找到可用标题"
+    }
+  ]
 }
