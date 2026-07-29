@@ -26,13 +26,18 @@ export async function uploadFile(file) {
 
 export async function fetchHotNews() {
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
-  const hourlyVersion = new Date().toISOString().slice(0, 13);
   const url = isPublic
-    ? `https://raw.githubusercontent.com/RuanChon/chon-work-buddy/main/data/hot-news.json?v=${hourlyVersion}`
+    ? 'https://api.github.com/repos/RuanChon/chon-work-buddy/contents/data/hot-news.json?ref=main'
     : BASE + '/api/hot-news';
-  const r = await fetch(url, { cache: 'no-store' });
+  const r = await fetch(url, {
+    headers: isPublic ? { Accept: 'application/vnd.github+json' } : undefined,
+    cache: 'no-store'
+  });
   if (!r.ok) throw new Error('fetch hot news failed');
-  return r.json();
+  const result = await r.json();
+  if (!isPublic) return result;
+  if (result.encoding !== 'base64' || !result.content) throw new Error('hot news content invalid');
+  return JSON.parse(decodeGithubContent(result.content));
 }
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));

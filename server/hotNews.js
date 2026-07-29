@@ -14,9 +14,9 @@ const SOURCES = [
     homepage: 'https://www.people.com.cn/',
     pages: [
       { url: 'https://www.people.com.cn/', topic: '综合' },
-      { url: 'https://politics.people.com.cn/', topic: '时政' },
-      { url: 'https://society.people.com.cn/', topic: '社会' },
-      { url: 'https://scitech.people.com.cn/', topic: '科普' }
+      { url: 'http://politics.people.com.cn/', topic: '时政' },
+      { url: 'http://society.people.com.cn/', topic: '社会' },
+      { url: 'http://scitech.people.com.cn/', topic: '科普' }
     ],
     accepts(url) {
       return (
@@ -70,7 +70,12 @@ function cleanTitle(value) {
 function normalizeUrl(href, homepage) {
   try {
     const url = new URL(href, homepage);
-    if (url.protocol === 'http:') url.protocol = 'https:';
+    // 人民网频道 CDN 当前为部分 *.people.com.cn 子域名返回不匹配的
+    // HTTPS 证书；站点提供的官方 HTTP 原文地址可以正常访问。
+    const isPeopleChannel =
+      url.hostname !== 'www.people.com.cn' && url.hostname.endsWith('.people.com.cn');
+    if (isPeopleChannel) url.protocol = 'http:';
+    else if (url.protocol === 'http:') url.protocol = 'https:';
     url.hash = '';
     return url;
   } catch {
