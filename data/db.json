@@ -8,7 +8,15 @@
     }
   ],
   "practice": [],
-  "plans": [],
+  "plans": [
+    {
+      "id": "40a605d9-9ba9-4f8f-b3a2-3c9dcae9dbde",
+      "kind": "daily",
+      "date": "2026-07-29",
+      "text": "生成绩效模版，并建站",
+      "done": false
+    }
+  ],
   "mistakes": [],
   "papers": [],
   "checkins": {
