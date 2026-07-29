@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { StoreProvider, useStore } from './useStore.jsx';
 import Sidebar from './components/Sidebar.jsx';
 import Countdown from './components/Countdown.jsx';
@@ -36,6 +36,7 @@ function Main() {
   const [sec, setSec] = useState('countdown');
   const [showSettings, setShowSettings] = useState(false);
   const [toast, setToast] = useState(null);
+  const toastTimer = useRef(null);
 
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
   const settings = loadSettings();
@@ -43,8 +44,9 @@ function Main() {
   const needToken = isPublic && !githubConfigured;
 
   const flash = (msg, ms = 2600) => {
+    if (toastTimer.current) clearTimeout(toastTimer.current);
     setToast(msg);
-    setTimeout(() => setToast(null), ms);
+    toastTimer.current = setTimeout(() => setToast(null), ms);
   };
 
   // 点击「同步到公网」：已配置则立即推送；未配置则打开设置引导填 Token
@@ -63,13 +65,17 @@ function Main() {
     setShowSettings(false);
     const st = loadSettings();
     const okGithub = st.mode === 'github' && !!st.github?.token;
-    if (okGithub) {
-      flash('同步中…');
-      const ok = await syncNow();
-      flash(ok ? '已开启公网同步并上传当前数据 ☁' : '已保存，但同步失败，请检查 Token', 3200);
-    } else {
-      flash('已保存（本地模式，数据仅存当前浏览器）');
+    if (!okGithub) {
+      flash('已保存（本地模式，数据仅存当前浏览器）', 3000);
+      return;
     }
+    const ok = await syncNow();
+    flash(
+      ok
+        ? '已开启公网同步，当前数据已上传到公网 ☁'
+        : '已保存设置，但同步失败：请检查 Token 权限（Contents: R/W 且仅限本仓库）',
+      4200
+    );
   };
 
   return (
