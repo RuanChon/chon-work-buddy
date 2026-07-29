@@ -1,12 +1,5 @@
 {
-  "exams": [
-    {
-      "id": "e346997a-8ac4-4fab-80d0-20c9c9ab1d4d",
-      "name": "大傻蛋",
-      "date": "2026-07-31",
-      "type": "国考"
-    }
-  ],
+  "exams": [],
   "practice": [],
   "plans": [],
   "mistakes": [],
@@ -16,7 +9,9 @@
   },
   "settings": {},
   "_deleted": {
-    "exams": {},
+    "exams": {
+      "e346997a-8ac4-4fab-80d0-20c9c9ab1d4d": 1785311110123
+    },
     "practice": {},
     "plans": {},
     "mistakes": {},
