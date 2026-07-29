@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T08:14:01.678Z",
+  "sources": [
+    {
+      "id": "people",
+      "name": "人民网",
+      "homepage": "https://www.people.com.cn/"
+    },
+    {
+      "id": "qiushi",
+      "name": "求是网",
+      "homepage": "https://www.qstheory.cn/"
+    }
+  ],
+  "items": [
+    {
+      "id": "0baae952f1b95228",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "深刻理解和把握新质生产力的理论价值与实践要求",
+      "url": "https://opinion.people.com.cn/n1/2026/0729/c461530-40769789.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "82bd82a6f6980761",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "把因地制宜发展新质生产力摆在更加突出的战略位置",
+      "url": "https://opinion.people.com.cn/n1/2026/0729/c461530-40769790.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "e0674e0edd66338c",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "title": "中央宣传部授予王戟同志“时代楷模”称号",
+      "url": "https://www.qstheory.cn/20260729/7219005888164ab0a8e8c038f9a5ff1f/c.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "a33b15d28c7e5b28",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "沿着\"零点零一\"再精进",
+      "url": "https://opinion.people.com.cn/n1/2026/0729/c461529-40769772.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "f19ec77d5d99992a",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "title": "轮椅上“跑出”的加速度——记国防科大研究员王戟",
+      "url": "https://www.qstheory.cn/20260729/6e9271c51f8b4b848d16ea46fd4ec5c3/c.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "8a13a79dba622edf",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "两部门负责人就\"九五\"普法规划答记者问",
+      "url": "https://politics.people.com.cn/n1/2026/0729/c461001-40770330.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "b48c708283be71fa",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "中宣部授予王戟同志\"时代楷模\"称号",
+      "url": "https://politics.people.com.cn/n1/2026/0729/c461001-40770269.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "0ee9a79b5205857c",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "title": "国际冲突出现了哪些新变化？",
+      "url": "https://www.qstheory.cn/20260729/8405cf565b9141f4aca7c24a0db43f74/c.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "6546390b4e109cc3",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "\"细胞工厂\"赋能天津合成生物产业跃升",
+      "url": "https://tj.people.com.cn/n2/2026/0729/c375366-41652860.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "a8cf34a67b70e9d2",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "title": "修齐治平、兴亡有责的家国情怀②",
+      "url": "https://www.qstheory.cn/20260729/f5ef4be0cbf543c6ac4fb5808743fa6c/c.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "9abb92399870c4ab",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "浙江东阳:一块小门牌,十年挂不上?",
+      "url": "https://society.people.com.cn/n1/2026/0729/c428181-40769920.html",
+      "publishedDate": "2026-07-29"
+    },
+    {
+      "id": "4a876c0546f72960",
+      "source": "people",
+      "sourceName": "人民网",
+      "title": "门牌虽小,照见干部作风",
+      "url": "https://opinion.people.com.cn/n1/2026/0729/c436867-40770112.html",
+      "publishedDate": "2026-07-29"
+    }
+  ],
+  "errors": []
+}

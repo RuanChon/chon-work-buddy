@@ -8,6 +8,9 @@
     "build": "npm --prefix client install && npm --prefix client run build",
     "server": "npm --prefix server install && npm --prefix server start",
     "start": "npm run build && npm --prefix server start",
-    "dev": "npm --prefix client run dev"
+    "dev": "concurrently -k -n api,web -c yellow,cyan \"PORT=8788 npm --prefix server run dev\" \"npm --prefix client run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4"
   }
 }

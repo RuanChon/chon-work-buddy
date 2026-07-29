@@ -23,3 +23,14 @@ export async function uploadFile(file) {
   if (!r.ok) throw new Error('upload failed');
   return r.json(); // { url, id }
 }
+
+export async function fetchHotNews() {
+  const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
+  const hourlyVersion = new Date().toISOString().slice(0, 13);
+  const url = isPublic
+    ? `https://raw.githubusercontent.com/RuanChon/chon-work-buddy/main/data/hot-news.json?v=${hourlyVersion}`
+    : BASE + '/api/hot-news';
+  const r = await fetch(url, { cache: 'no-store' });
+  if (!r.ok) throw new Error('fetch hot news failed');
+  return r.json();
+}

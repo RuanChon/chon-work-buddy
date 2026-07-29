@@ -38,17 +38,47 @@ export default function Practice() {
   });
 
   const option = {
-    tooltip: { trigger: 'axis' },
-    legend: { data: ['做题数', '正确率%'] },
-    grid: { left: 40, right: 40, top: 40, bottom: 30 },
-    xAxis: { type: 'category', data: byDay.map((x) => x.d.slice(5)) },
+    color: ['#3b6cff', '#72b84a'],
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    legend: {
+      data: ['做题数', '正确率%'],
+      top: 6,
+      left: 'center',
+      itemGap: 24
+    },
+    grid: {
+      left: 18,
+      right: 18,
+      top: 68,
+      bottom: 18,
+      containLabel: true
+    },
+    xAxis: {
+      type: 'category',
+      data: byDay.map((x) => x.d.slice(5)),
+      axisTick: { alignWithLabel: true },
+      axisLabel: { margin: 12 }
+    },
     yAxis: [
-      { type: 'value', name: '题数' },
-      { type: 'value', name: '%', max: 100 }
+      { type: 'value', name: '题数', nameGap: 14, minInterval: 1 },
+      { type: 'value', name: '正确率', nameGap: 14, min: 0, max: 100, axisLabel: { formatter: '{value}%' } }
     ],
     series: [
-      { name: '做题数', type: 'bar', data: byDay.map((x) => x.tot) },
-      { name: '正确率%', type: 'line', yAxisIndex: 1, data: byDay.map((x) => x.rate) }
+      {
+        name: '做题数',
+        type: 'bar',
+        barMaxWidth: 24,
+        data: byDay.map((x) => x.tot),
+        itemStyle: { borderRadius: [5, 5, 0, 0] }
+      },
+      {
+        name: '正确率%',
+        type: 'line',
+        yAxisIndex: 1,
+        smooth: true,
+        symbolSize: 7,
+        data: byDay.map((x) => x.rate)
+      }
     ]
   };
 
@@ -80,35 +110,46 @@ export default function Practice() {
         })}
       </div>
 
-      <h3>近 14 天趋势</h3>
-      <Chart option={option} height={280} />
+      <section className="practice-chart-card">
+        <div className="practice-section-head">
+          <div>
+            <h3>近 14 天趋势</h3>
+            <p>做题数量与正确率变化</p>
+          </div>
+        </div>
+        <Chart option={option} height="clamp(320px, 34vw, 390px)" className="practice-chart" />
+      </section>
 
-      <h3>最近记录</h3>
-      <table className="tbl">
-        <thead>
-          <tr>
-            <th>日期</th><th>板块</th><th>做题</th><th>正确</th><th>正确率</th><th></th>
-          </tr>
-        </thead>
-        <tbody>
-          {recent.map((p) => {
-            const b = BOARDS.find((x) => x.key === p.board);
-            return (
-              <tr key={p.id}>
-                <td>{p.date}</td>
-                <td>{b ? b.name : p.board}</td>
-                <td>{p.done}</td>
-                <td>{p.correct}</td>
-                <td>{Math.round((p.correct / p.done) * 100)}%</td>
-                <td><button className="btn ghost sm" onClick={() => del(p.id)}>删</button></td>
+      <section className="practice-records">
+        <h3>最近记录</h3>
+        <div className="table-scroll">
+          <table className="tbl">
+            <thead>
+              <tr>
+                <th>日期</th><th>板块</th><th>做题</th><th>正确</th><th>正确率</th><th></th>
               </tr>
-            );
-          })}
-          {recent.length === 0 && (
-            <tr><td colSpan="6" className="muted">暂无记录</td></tr>
-          )}
-        </tbody>
-      </table>
+            </thead>
+            <tbody>
+              {recent.map((p) => {
+                const b = BOARDS.find((x) => x.key === p.board);
+                return (
+                  <tr key={p.id}>
+                    <td>{p.date}</td>
+                    <td>{b ? b.name : p.board}</td>
+                    <td>{p.done}</td>
+                    <td>{p.correct}</td>
+                    <td>{Math.round((p.correct / p.done) * 100)}%</td>
+                    <td><button className="btn ghost sm" onClick={() => del(p.id)}>删</button></td>
+                  </tr>
+                );
+              })}
+              {recent.length === 0 && (
+                <tr><td colSpan="6" className="muted">暂无记录</td></tr>
+              )}
+            </tbody>
+          </table>
+        </div>
+      </section>
     </div>
   );
 }

@@ -5,6 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const { getState, mergeState, FILES_DIR } = require('./db');
+const { readHotNews, scheduleHotNewsRefresh } = require('./hotNews');
 
 const app = express();
 app.use(cors());
@@ -24,6 +25,12 @@ app.put('/api/state', (req, res) => {
   } catch (e) {
     res.status(500).json({ error: String(e) });
   }
+});
+
+// 每日热点：读取缓存；本地服务在当天数据缺失时会在后台补抓。
+app.get('/api/hot-news', (req, res) => {
+  res.set('Cache-Control', 'no-store');
+  res.json(readHotNews());
 });
 
 // 上传图片 / 语音，返回可访问 URL
@@ -52,4 +59,7 @@ if (fs.existsSync(DIST)) {
 }
 
 const PORT = process.env.PORT || 8787;
-app.listen(PORT, () => console.log('[chon-work-buddy] server listening on ' + PORT));
+app.listen(PORT, () => {
+  console.log('[chon-work-buddy] server listening on ' + PORT);
+  scheduleHotNewsRefresh();
+});
