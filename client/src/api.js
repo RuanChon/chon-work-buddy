@@ -37,6 +37,12 @@ export async function fetchHotNews() {
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+function decodeGithubContent(content) {
+  const binary = atob(content.replace(/\s/g, ''));
+  const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
+  return new TextDecoder().decode(bytes);
+}
+
 export async function refreshHotNews({ github, previousGeneratedAt } = {}) {
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
 
@@ -81,12 +87,19 @@ export async function refreshHotNews({ github, previousGeneratedAt } = {}) {
     throw new Error(`云端抓取启动失败（${dispatch.status}）`);
   }
 
-  const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/data/hot-news.json`;
-  for (let attempt = 0; attempt < 40; attempt += 1) {
+  // 使用 Contents API 读取工作流提交后的文件。raw.githubusercontent.com
+  // 存在 CDN 缓存，即使增加查询参数也可能持续返回旧的 generatedAt。
+  const contentsUrl = `https://api.github.com/repos/${owner}/${repo}/contents/data/hot-news.json?ref=${encodeURIComponent(branch)}`;
+  for (let attempt = 0; attempt < 60; attempt += 1) {
     await wait(3000);
-    const response = await fetch(`${rawUrl}?v=${Date.now()}`, { cache: 'no-store' });
+    const response = await fetch(contentsUrl, {
+      headers,
+      cache: 'no-store'
+    });
     if (!response.ok) continue;
-    const result = await response.json();
+    const file = await response.json();
+    if (file.encoding !== 'base64' || !file.content) continue;
+    const result = JSON.parse(decodeGithubContent(file.content));
     if (result.generatedAt && result.generatedAt !== previousGeneratedAt) return result;
   }
 
