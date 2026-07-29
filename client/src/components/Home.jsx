@@ -61,7 +61,19 @@ export default function Home({ onNavigate }) {
   const refreshNews = async () => {
     if (newsRefreshing) return;
     setNewsRefreshing(true);
-    setNewsNotice('正在重新抓取最新资讯…');
+
+    const cachedItems = (news.items || [])
+      .filter((item) => !seenNewsIds.current.has(item.id))
+      .slice(0, NEWS_BATCH_SIZE);
+    const switchedImmediately = cachedItems.length > 0;
+
+    if (switchedImmediately) {
+      cachedItems.forEach((item) => seenNewsIds.current.add(item.id));
+      setVisibleNews(cachedItems);
+      setNewsNotice('已换一批，正在后台抓取最新资讯…');
+    } else {
+      setNewsNotice('正在重新抓取最新资讯…');
+    }
 
     try {
       const settings = loadSettings();
@@ -73,6 +85,15 @@ export default function Home({ onNavigate }) {
       const nextItems = unseenItems.slice(0, NEWS_BATCH_SIZE);
 
       setNews(result);
+      if (switchedImmediately) {
+        setNewsNotice(
+          unseenItems.length
+            ? '云端资讯已更新，可以继续刷新查看更多。'
+            : '已完成云端更新，当前没有更多不重复资讯。'
+        );
+        return;
+      }
+
       if (!nextItems.length) {
         setNewsNotice('已是最新内容，暂时没有更多不重复资讯。');
         return;
@@ -82,7 +103,8 @@ export default function Home({ onNavigate }) {
       setVisibleNews(nextItems);
       setNewsNotice(nextItems.length < NEWS_BATCH_SIZE ? `本次发现 ${nextItems.length} 条新资讯` : '');
     } catch (error) {
-      setNewsNotice(error.message || '重新抓取失败，请稍后再试。');
+      const message = error.message || '重新抓取失败，请稍后再试。';
+      setNewsNotice(switchedImmediately ? `已换一批；后台更新失败：${message}` : message);
     } finally {
       setNewsRefreshing(false);
     }

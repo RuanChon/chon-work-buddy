@@ -95,8 +95,8 @@ export async function refreshHotNews({ github, previousGeneratedAt } = {}) {
   // 使用 Contents API 读取工作流提交后的文件。raw.githubusercontent.com
   // 存在 CDN 缓存，即使增加查询参数也可能持续返回旧的 generatedAt。
   const contentsUrl = `https://api.github.com/repos/${owner}/${repo}/contents/data/hot-news.json?ref=${encodeURIComponent(branch)}`;
-  for (let attempt = 0; attempt < 60; attempt += 1) {
-    await wait(3000);
+  for (let attempt = 0; attempt < 120; attempt += 1) {
+    await wait(1500);
     const response = await fetch(contentsUrl, {
       headers,
       cache: 'no-store'
