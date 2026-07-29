@@ -1,0 +1,13 @@
+{
+  "name": "chon-work-buddy",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "公考备考 Web 工作台（React + Express 全栈，数据跨浏览器同步）",
+  "scripts": {
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "server": "npm --prefix server install && npm --prefix server start",
+    "start": "npm run build && npm --prefix server start",
+    "dev": "npm --prefix client run dev"
+  }
+}
