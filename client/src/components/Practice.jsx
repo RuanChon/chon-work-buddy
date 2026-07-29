@@ -57,7 +57,10 @@ export default function Practice() {
       type: 'category',
       data: byDay.map((x) => x.d.slice(5)),
       axisTick: { alignWithLabel: true },
-      axisLabel: { margin: 12 }
+      axisLabel: {
+        margin: 12,
+        interval: (index) => (typeof window !== 'undefined' && window.innerWidth <= 520 ? index % 2 === 0 : true)
+      }
     },
     yAxis: [
       { type: 'value', name: '题数', nameGap: 14, minInterval: 1 },

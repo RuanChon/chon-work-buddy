@@ -1,9 +1,14 @@
-export default function Sidebar({ sections, active, onSelect, onSync, syncStatus }) {
-  const syncLabel = syncStatus === 'saving' ? '正在同步…' : '同步到云端'
+export default function Sidebar({ sections, active, onSelect, onSettings, syncStatus }) {
+  const syncLabel = syncStatus === 'saving' ? '正在同步…' : '同步与设置'
 
   return (
     <aside className="sidebar">
-      <div className="logo">🎯 书睿的备考工作台</div>
+      <div className="logo">
+        <span className="logo-copy">
+          <strong>书睿</strong>
+          <small>备考工作台</small>
+        </span>
+      </div>
       <nav>
         {sections.map(s => (
           <button
@@ -11,15 +16,15 @@ export default function Sidebar({ sections, active, onSelect, onSync, syncStatus
             className={'nav-item' + (active === s.key ? ' active' : '')}
             onClick={() => onSelect(s.key)}
           >
-            <span className="ico">{s.icon}</span>
             <span className="nav-label">{s.name}</span>
           </button>
         ))}
       </nav>
-      <button className="nav-item nav-sync" type="button" onClick={onSync} disabled={syncStatus === 'saving'}>
-        <span className="ico">☁</span>
-        <span className="nav-label">{syncLabel}</span>
-      </button>
+      <div className="sidebar-actions">
+        <button className="nav-item nav-sync" type="button" onClick={onSettings} disabled={syncStatus === 'saving'}>
+          <span className="nav-label">{syncLabel}</span>
+        </button>
+      </div>
       <div className="sidebar-foot">数据云端同步 · 多端共享</div>
     </aside>
   )

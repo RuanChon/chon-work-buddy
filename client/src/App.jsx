@@ -9,16 +9,17 @@ import Checkin from './components/Checkin.jsx'
 import Papers from './components/Papers.jsx'
 import Settings from './components/Settings.jsx'
 import Home from './components/Home.jsx'
+import avatar from './images/ava.png'
 import { loadSettings } from './sync.js'
 
 const SECTIONS = [
-  { key: 'home', name: '首页', icon: '🏠' },
-  { key: 'countdown', name: '考试倒计时', icon: '⏳' },
-  { key: 'practice', name: '每日刷题', icon: '📝' },
-  { key: 'plan', name: '学习计划', icon: '🗓️' },
-  { key: 'mistakes', name: '错题记录', icon: '❌' },
-  { key: 'papers', name: '试卷分析', icon: '📊' },
-  { key: 'checkin', name: '打卡日历', icon: '✅' },
+  { key: 'home', name: '首页' },
+  { key: 'countdown', name: '考试倒计时' },
+  { key: 'practice', name: '每日刷题' },
+  { key: 'plan', name: '学习计划' },
+  { key: 'mistakes', name: '错题记录' },
+  { key: 'papers', name: '试卷分析' },
+  { key: 'checkin', name: '打卡日历' },
 ]
 
 function StatusBadge() {
@@ -49,17 +50,6 @@ function Main() {
     if (toastTimer.current) clearTimeout(toastTimer.current)
     setToast(msg)
     toastTimer.current = setTimeout(() => setToast(null), ms)
-  }
-
-  // 点击「同步到云端」：已配置则立即推送；未配置则打开设置引导填 Token
-  const handleSyncToCloud = async () => {
-    if (!githubConfigured) {
-      setShowSettings(true)
-      return
-    }
-    flash('同步中…')
-    const ok = await syncNow()
-    flash(ok ? '已同步到公网 ☁' : '同步失败，请检查 Token')
   }
 
   // 切换导航时把尚未完成的页面改动立即刷到云端，不必等待防抖计时器。
@@ -94,7 +84,7 @@ function Main() {
         sections={SECTIONS}
         active={sec}
         onSelect={handleSectionSelect}
-        onSync={handleSyncToCloud}
+        onSettings={() => setShowSettings(v => !v)}
         syncStatus={status}
       />
       <div className="content">
@@ -102,15 +92,19 @@ function Main() {
           <h1>永远相信美好的事情即将发生～</h1>
           <div className="top-actions">
             <StatusBadge />
-            <button className="btn sm" onClick={() => setShowSettings(v => !v)}>
-              ⚙ 同步
-            </button>
+            <div className="user-profile">
+              <div>
+                <span>欢迎回来</span>
+                <strong>书睿</strong>
+              </div>
+              <img src={avatar} alt="书睿头像" />
+            </div>
           </div>
         </header>
 
         {needToken && (
           <div className="notice">
-            当前为<strong>公网部署</strong>。点击左侧导航「☁ 同步到云端」或右上角「⚙ 同步」，选择 GitHub
+            当前为<strong>公网部署</strong>。点击侧边栏「同步与设置」，选择 GitHub
             方式并填入仅限本仓库的 Token，数据即可实时同步到公网、在任意浏览器/设备间共享。
           </div>
         )}
