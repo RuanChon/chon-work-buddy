@@ -5,7 +5,7 @@ export default function Sidebar({ sections, active, onSelect, onSettings, syncSt
     <aside className="sidebar">
       <div className="logo">
         <span className="logo-copy">
-          <strong>书睿</strong>
+          <strong>上岸</strong>
           <small>备考工作台</small>
         </span>
       </div>
