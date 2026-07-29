@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { useStore } from '../useStore.jsx';
 import { BOARDS, uid } from '../constants.js';
-import * as api from '../api.js';
+import { getSync } from '../sync.js';
 
 export default function Mistakes() {
   const { data, apply } = useStore();
@@ -23,7 +23,7 @@ export default function Mistakes() {
     setBusy(true);
     try {
       for (const f of files) {
-        const r = await api.uploadFile(f);
+        const r = await getSync().client.uploadFile(f);
         setImages((a) => [...a, { url: r.url }]);
       }
     } catch {
@@ -45,7 +45,7 @@ export default function Mistakes() {
         const file = new File([blob], 'voice.webm', { type: 'audio/webm' });
         try {
           setBusy(true);
-          const r = await api.uploadFile(file);
+          const r = await getSync().client.uploadFile(file);
           setAudios((a) => [...a, { url: r.url }]);
         } catch {
           alert('语音上传失败');

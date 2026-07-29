@@ -7,6 +7,8 @@ import Plan from './components/Plan.jsx';
 import Mistakes from './components/Mistakes.jsx';
 import Checkin from './components/Checkin.jsx';
 import Papers from './components/Papers.jsx';
+import Settings from './components/Settings.jsx';
+import { loadSettings } from './sync.js';
 
 const SECTIONS = [
   { key: 'countdown', name: '考试倒计时', icon: '⏳' },
@@ -31,14 +33,31 @@ function StatusBadge() {
 
 function Main() {
   const [sec, setSec] = useState('countdown');
+  const [showSettings, setShowSettings] = useState(false);
+  const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
+  const settings = loadSettings();
+  const needToken = isPublic && settings.mode !== 'github';
+
   return (
     <div className="app">
       <Sidebar sections={SECTIONS} active={sec} onSelect={setSec} />
       <div className="content">
         <header className="topbar">
           <h1>公考备考工作台</h1>
-          <StatusBadge />
+          <div className="top-actions">
+            <StatusBadge />
+            <button className="btn sm" onClick={() => setShowSettings((v) => !v)}>⚙ 同步</button>
+          </div>
         </header>
+
+        {needToken && (
+          <div className="notice">
+            当前为<strong>公网部署</strong>。点击右上角「⚙ 同步」，选择 GitHub 方式并填入仅限本仓库的 Token，即可让数据在任意浏览器/设备间共享。
+          </div>
+        )}
+
+        {showSettings && <Settings onClose={() => setShowSettings(false)} />}
+
         <div className="panel">
           {sec === 'countdown' && <Countdown />}
           {sec === 'practice' && <Practice />}
