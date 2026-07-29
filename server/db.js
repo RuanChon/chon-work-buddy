@@ -19,9 +19,18 @@ const EMPTY = {
     mistakes: [],
     papers: [],
     checkins: {},
-    settings: {}
+    settings: {},
+    _deleted: {
+      exams: {},
+      practice: {},
+      plans: {},
+      mistakes: {},
+      papers: {}
+    }
   }
 };
+
+const COLLECTIONS = ['exams', 'practice', 'plans', 'mistakes', 'papers'];
 
 let cache = null;
 let writeTimer = null;
@@ -59,11 +68,17 @@ function mergeState(clientData) {
   const c = load();
   const serverData = c.data;
   const result = JSON.parse(JSON.stringify(serverData));
-  const collections = ['exams', 'practice', 'plans', 'mistakes', 'papers'];
-  for (const col of collections) {
+  result._deleted = {};
+  for (const col of COLLECTIONS) {
+    const deleted = {
+      ...(serverData._deleted?.[col] || {}),
+      ...(clientData._deleted?.[col] || {})
+    };
     const sMap = new Map((serverData[col] || []).map(x => [x.id, x]));
     for (const item of (clientData[col] || [])) sMap.set(item.id, item);
+    for (const id of Object.keys(deleted)) sMap.delete(id);
     result[col] = Array.from(sMap.values());
+    result._deleted[col] = deleted;
   }
   result.checkins = { ...(serverData.checkins || {}), ...(clientData.checkins || {}) };
   result.settings = { ...(serverData.settings || {}), ...(clientData.settings || {}) };

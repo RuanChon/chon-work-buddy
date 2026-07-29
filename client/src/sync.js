@@ -2,6 +2,7 @@ import { EMPTY_DATA } from './constants.js';
 import * as localApi from './api.js';
 
 const SET_KEY = 'cgb_sync';
+const COLLECTIONS = ['exams', 'practice', 'plans', 'mistakes', 'papers'];
 
 const DEFAULT_SETTINGS = {
   mode: 'local', // local | github
@@ -29,18 +30,28 @@ export function saveSettings(s) {
   localStorage.setItem(SET_KEY, JSON.stringify(s));
 }
 
-// 多端合并：以 id 做并集，客户端版本优先
+const emptyData = () => JSON.parse(JSON.stringify(EMPTY_DATA));
+
+// 多端合并：以 id 做并集，客户端版本优先；删除标记在所有设备上优先。
 export function mergeData(serverData, clientData) {
-  const s = serverData || JSON.parse(JSON.stringify(EMPTY_DATA));
+  const s = serverData || emptyData();
+  const c = clientData || emptyData();
   const result = JSON.parse(JSON.stringify(s));
-  const collections = ['exams', 'practice', 'plans', 'mistakes', 'papers'];
-  for (const col of collections) {
+  result._deleted = {};
+
+  for (const col of COLLECTIONS) {
+    const deleted = {
+      ...(s._deleted?.[col] || {}),
+      ...(c._deleted?.[col] || {})
+    };
     const sMap = new Map((s[col] || []).map((x) => [x.id, x]));
-    for (const it of clientData[col] || []) sMap.set(it.id, it);
+    for (const it of c[col] || []) sMap.set(it.id, it);
+    for (const id of Object.keys(deleted)) sMap.delete(id);
     result[col] = Array.from(sMap.values());
+    result._deleted[col] = deleted;
   }
-  result.checkins = { ...(s.checkins || {}), ...(clientData.checkins || {}) };
-  result.settings = { ...(s.settings || {}), ...(clientData.settings || {}) };
+  result.checkins = { ...(s.checkins || {}), ...(c.checkins || {}) };
+  result.settings = { ...(s.settings || {}), ...(c.settings || {}) };
   return result;
 }
 
@@ -54,7 +65,7 @@ function createGithub(cfg) {
 
   async function getRaw() {
     const r = await fetch(`${base}?ref=${cfg.branch}`, { headers });
-    if (r.status === 404) return { rev: null, data: JSON.parse(JSON.stringify(EMPTY_DATA)) };
+    if (r.status === 404) return { rev: null, data: emptyData() };
     if (!r.ok) throw new Error('GitHub 读取失败 ' + r.status);
     const j = await r.json();
     sha = j.sha;

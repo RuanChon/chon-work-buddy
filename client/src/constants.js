@@ -5,7 +5,15 @@ export const EMPTY_DATA = {
   mistakes: [],
   papers: [],
   checkins: {},
-  settings: {}
+  settings: {},
+  // 记录已删除条目的 id，避免多端“并集合并”时旧数据被重新带回来。
+  _deleted: {
+    exams: {},
+    practice: {},
+    plans: {},
+    mistakes: {},
+    papers: {}
+  }
 };
 
 export const BOARDS = [

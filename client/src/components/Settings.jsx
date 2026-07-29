@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { loadSettings, saveSettings } from '../sync.js';
 
-export default function Settings({ onClose }) {
+export default function Settings({ onClose, onSaved }) {
   const [s, setS] = useState(loadSettings());
   const g = s.github;
 
@@ -46,7 +46,7 @@ export default function Settings({ onClose }) {
         </div>
       )}
 
-      <button className="btn primary" onClick={save}>保存设置</button>
+      <button className="btn primary" type="button" onClick={save}>保存设置</button>
     </div>
   );
 }

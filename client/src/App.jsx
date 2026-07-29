@@ -49,7 +49,7 @@ function Main() {
     toastTimer.current = setTimeout(() => setToast(null), ms);
   };
 
-  // 点击「同步到公网」：已配置则立即推送；未配置则打开设置引导填 Token
+  // 点击「同步到云端」：已配置则立即推送；未配置则打开设置引导填 Token
   const handleSyncToCloud = async () => {
     if (!githubConfigured) {
       setShowSettings(true);
@@ -58,6 +58,14 @@ function Main() {
     flash('同步中…');
     const ok = await syncNow();
     flash(ok ? '已同步到公网 ☁' : '同步失败，请检查 Token');
+  };
+
+  // 切换导航时把尚未完成的页面改动立即刷到云端，不必等待防抖计时器。
+  const handleSectionSelect = (key) => {
+    setSec(key);
+    if (githubConfigured && (status === 'saving' || status === 'offline')) {
+      void syncNow();
+    }
   };
 
   // 设置保存后：若已开启 GitHub 同步，立即把当前本地数据上传到公网
@@ -80,20 +88,25 @@ function Main() {
 
   return (
     <div className="app">
-      <Sidebar sections={SECTIONS} active={sec} onSelect={setSec} />
+      <Sidebar
+        sections={SECTIONS}
+        active={sec}
+        onSelect={handleSectionSelect}
+        onSync={handleSyncToCloud}
+        syncStatus={status}
+      />
       <div className="content">
         <header className="topbar">
           <h1>公考备考工作台</h1>
           <div className="top-actions">
             <StatusBadge />
-            <button className="btn sm cloud" onClick={handleSyncToCloud}>☁ 同步到公网</button>
             <button className="btn sm" onClick={() => setShowSettings((v) => !v)}>⚙ 同步</button>
           </div>
         </header>
 
         {needToken && (
           <div className="notice">
-            当前为<strong>公网部署</strong>。点击顶部「☁ 同步到公网」或右上角「⚙ 同步」，选择 GitHub 方式并填入仅限本仓库的 Token，数据即可实时同步到公网、在任意浏览器/设备间共享。
+            当前为<strong>公网部署</strong>。点击左侧导航「☁ 同步到云端」或右上角「⚙ 同步」，选择 GitHub 方式并填入仅限本仓库的 Token，数据即可实时同步到公网、在任意浏览器/设备间共享。
           </div>
         )}
 

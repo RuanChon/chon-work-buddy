@@ -16,6 +16,21 @@ const persistLocal = (d) => {
   try { localStorage.setItem(LOCAL_KEY, JSON.stringify(d)); } catch {}
 };
 
+const COLLECTIONS = ['exams', 'practice', 'plans', 'mistakes', 'papers'];
+
+function recordDeletions(previous, next) {
+  next._deleted ||= {};
+  const deletedAt = Date.now();
+
+  for (const col of COLLECTIONS) {
+    next._deleted[col] ||= {};
+    const nextIds = new Set((next[col] || []).map((item) => item.id));
+    for (const item of previous[col] || []) {
+      if (!nextIds.has(item.id)) next._deleted[col][item.id] = deletedAt;
+    }
+  }
+}
+
 const Ctx = createContext(null);
 
 export function StoreProvider({ children }) {
@@ -25,6 +40,23 @@ export function StoreProvider({ children }) {
   const dataRef = useRef(data);
   const revRef = useRef(0);
   const pushTimer = useRef(null);
+  const pushQueue = useRef(Promise.resolve());
+
+  // GitHub Contents API 使用 SHA 做并发控制；将推送串行化可避免自动保存和手动
+  // “同步到云端”同时发生时互相制造 409 冲突。
+  const pushState = useCallback((snapshot) => {
+    setStatus('saving');
+    const run = async () => {
+      const { client } = getSync();
+      const res = await client.pushState(snapshot);
+      revRef.current = res.rev || 0;
+      setStatus('synced');
+      return res;
+    };
+    const queued = pushQueue.current.catch(() => {}).then(run);
+    pushQueue.current = queued;
+    return queued;
+  }, []);
 
   const apply = useCallback((updater) => {
     setData((prev) => {
@@ -34,16 +66,14 @@ export function StoreProvider({ children }) {
       const base = prev || EMPTY_DATA;
       const next = JSON.parse(JSON.stringify(base));
       updater(next);
+      recordDeletions(base, next);
       dataRef.current = next;
       persistLocal(next);
       setStatus('saving');
       clearTimeout(pushTimer.current);
       pushTimer.current = setTimeout(async () => {
         try {
-          const { client } = getSync();
-          const res = await client.pushState(next);
-          revRef.current = res.rev || 0;
-          setStatus('synced');
+          await pushState(next);
         } catch (e) {
           console.warn('sync failed', e);
           setStatus('offline');
@@ -51,22 +81,20 @@ export function StoreProvider({ children }) {
       }, 400);
       return next;
     });
-  }, []);
+  }, [pushState]);
 
   // 手动立即把当前数据推送到同步后端（公网即 GitHub 仓库）
   const syncNow = useCallback(async () => {
+    clearTimeout(pushTimer.current);
     try {
-      const { client } = getSync();
-      const res = await client.pushState(dataRef.current);
-      revRef.current = res.rev || 0;
-      setStatus('synced');
+      await pushState(dataRef.current);
       return true;
     } catch (e) {
       console.warn('sync failed', e);
       setStatus('offline');
       return false;
     }
-  }, []);
+  }, [pushState]);
 
   useEffect(() => {
     let alive = true;
@@ -121,7 +149,11 @@ export function StoreProvider({ children }) {
       } catch {}
     }, 8000);
 
-    return () => { alive = false; clearInterval(t); };
+    return () => {
+      alive = false;
+      clearInterval(t);
+      clearTimeout(pushTimer.current);
+    };
   }, []);
 
   return <Ctx.Provider value={{ data, apply, syncNow, status }}>{children}</Ctx.Provider>;
