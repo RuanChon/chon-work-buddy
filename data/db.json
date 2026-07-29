@@ -1,9 +1,25 @@
 {
-  "exams": [],
+  "exams": [
+    {
+      "id": "e346997a-8ac4-4fab-80d0-20c9c9ab1d4d",
+      "name": "大傻蛋",
+      "date": "2026-07-31",
+      "type": "国考"
+    }
+  ],
   "practice": [],
   "plans": [],
   "mistakes": [],
   "papers": [],
-  "checkins": {},
-  "settings": {}
+  "checkins": {
+    "2026-07-29": 5
+  },
+  "settings": {},
+  "_deleted": {
+    "exams": {},
+    "practice": {},
+    "plans": {},
+    "mistakes": {},
+    "papers": {}
+  }
 }
