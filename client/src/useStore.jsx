@@ -17,7 +17,12 @@ export function StoreProvider({ children }) {
 
   const apply = useCallback((updater) => {
     setData((prev) => {
-      const next = updater(prev);
+      // 各模块 updater 都是「原地修改并返回 undefined」风格，
+      // 因此先深拷贝再交给 updater 修改，保证 next 永远是合法对象，
+      // 否则 next 会是 undefined → 状态变 undefined → 渲染崩溃（整页变空白）。
+      const base = prev || EMPTY_DATA;
+      const next = JSON.parse(JSON.stringify(base));
+      updater(next);
       dataRef.current = next;
       persistLocal(next);
       setStatus('saving');
