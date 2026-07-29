@@ -32,11 +32,45 @@ function StatusBadge() {
 }
 
 function Main() {
+  const { syncNow, status } = useStore();
   const [sec, setSec] = useState('countdown');
   const [showSettings, setShowSettings] = useState(false);
+  const [toast, setToast] = useState(null);
+
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io');
   const settings = loadSettings();
-  const needToken = isPublic && settings.mode !== 'github';
+  const githubConfigured = settings.mode === 'github' && !!settings.github?.token;
+  const needToken = isPublic && !githubConfigured;
+
+  const flash = (msg, ms = 2600) => {
+    setToast(msg);
+    setTimeout(() => setToast(null), ms);
+  };
+
+  // 点击「同步到公网」：已配置则立即推送；未配置则打开设置引导填 Token
+  const handleSyncToCloud = async () => {
+    if (!githubConfigured) {
+      setShowSettings(true);
+      return;
+    }
+    flash('同步中…');
+    const ok = await syncNow();
+    flash(ok ? '已同步到公网 ☁' : '同步失败，请检查 Token');
+  };
+
+  // 设置保存后：若已开启 GitHub 同步，立即把当前本地数据上传到公网
+  const handleSettingsSaved = async () => {
+    setShowSettings(false);
+    const st = loadSettings();
+    const okGithub = st.mode === 'github' && !!st.github?.token;
+    if (okGithub) {
+      flash('同步中…');
+      const ok = await syncNow();
+      flash(ok ? '已开启公网同步并上传当前数据 ☁' : '已保存，但同步失败，请检查 Token', 3200);
+    } else {
+      flash('已保存（本地模式，数据仅存当前浏览器）');
+    }
+  };
 
   return (
     <div className="app">
@@ -46,17 +80,18 @@ function Main() {
           <h1>公考备考工作台</h1>
           <div className="top-actions">
             <StatusBadge />
+            <button className="btn sm cloud" onClick={handleSyncToCloud}>☁ 同步到公网</button>
             <button className="btn sm" onClick={() => setShowSettings((v) => !v)}>⚙ 同步</button>
           </div>
         </header>
 
         {needToken && (
           <div className="notice">
-            当前为<strong>公网部署</strong>。点击右上角「⚙ 同步」，选择 GitHub 方式并填入仅限本仓库的 Token，即可让数据在任意浏览器/设备间共享。
+            当前为<strong>公网部署</strong>。点击顶部「☁ 同步到公网」或右上角「⚙ 同步」，选择 GitHub 方式并填入仅限本仓库的 Token，数据即可实时同步到公网、在任意浏览器/设备间共享。
           </div>
         )}
 
-        {showSettings && <Settings onClose={() => setShowSettings(false)} />}
+        {showSettings && <Settings onClose={() => setShowSettings(false)} onSaved={handleSettingsSaved} />}
 
         <div className="panel">
           {sec === 'countdown' && <Countdown />}
@@ -67,6 +102,8 @@ function Main() {
           {sec === 'papers' && <Papers />}
         </div>
       </div>
+
+      {toast && <div className="toast">{toast}</div>}
     </div>
   );
 }

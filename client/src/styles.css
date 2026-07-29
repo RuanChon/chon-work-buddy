@@ -90,6 +90,16 @@ textarea { width: 100%; min-height: 72px; resize: vertical; }
 .btn.rec { background: var(--danger); color: #fff; border-color: var(--danger); }
 .btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
 .btn:disabled { opacity: .6; cursor: not-allowed; }
+.btn.cloud { background: var(--primary); color: #fff; border-color: var(--primary); }
+.btn.cloud:hover { background: var(--primary-d); }
+
+/* Toast */
+.toast {
+  position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%);
+  background: #1f2533; color: #fff; padding: 10px 18px; border-radius: 10px;
+  font-size: 14px; box-shadow: 0 6px 20px rgba(0,0,0,.18); z-index: 99;
+  max-width: 90vw; text-align: center;
+}
 
 /* Cards */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }

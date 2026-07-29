@@ -53,6 +53,21 @@ export function StoreProvider({ children }) {
     });
   }, []);
 
+  // 手动立即把当前数据推送到同步后端（公网即 GitHub 仓库）
+  const syncNow = useCallback(async () => {
+    try {
+      const { client } = getSync();
+      const res = await client.pushState(dataRef.current);
+      revRef.current = res.rev || 0;
+      setStatus('synced');
+      return true;
+    } catch (e) {
+      console.warn('sync failed', e);
+      setStatus('offline');
+      return false;
+    }
+  }, []);
+
   useEffect(() => {
     let alive = true;
     const localData = loadLocal() || EMPTY_DATA;
@@ -109,7 +124,7 @@ export function StoreProvider({ children }) {
     return () => { alive = false; clearInterval(t); };
   }, []);
 
-  return <Ctx.Provider value={{ data, apply, status }}>{children}</Ctx.Provider>;
+  return <Ctx.Provider value={{ data, apply, syncNow, status }}>{children}</Ctx.Provider>;
 }
 
 export const useStore = () => useContext(Ctx);

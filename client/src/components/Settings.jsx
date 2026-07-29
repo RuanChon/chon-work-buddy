@@ -12,8 +12,8 @@ export default function Settings({ onClose }) {
   function save(e) {
     e.preventDefault();
     saveSettings(s);
-    alert('已保存。若从「本地」切换到「GitHub」，请刷新页面生效并立即同步。');
-    onClose && onClose();
+    if (onSaved) onSaved();
+    else onClose && onClose();
   }
 
   return (
