@@ -1,5 +1,12 @@
 {
-  "exams": [],
+  "exams": [
+    {
+      "id": "a5aabefb-e6a4-499c-8cd3-88be587659d7",
+      "name": "湖北省考",
+      "date": "2027-03-13",
+      "type": "省考"
+    }
+  ],
   "practice": [],
   "plans": [],
   "mistakes": [],
