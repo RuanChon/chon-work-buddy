@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>公考备考工作台</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+</head>
+<body>
+<div class="layout">
+  <!-- 侧边栏 -->
+  <aside class="sidebar">
+    <div class="logo">
+      <span class="logo-icon">🎯</span>
+      <div><h1>公考工作台</h1><p>上岸加油站</p></div>
+    </div>
+    <nav id="nav">
+      <button class="nav-item active" data-page="countdown">⏳ 考试倒计时</button>
+      <button class="nav-item" data-page="practice">📝 每日刷题统计</button>
+      <button class="nav-item" data-page="plan">🗓️ 学习计划</button>
+      <button class="nav-item" data-page="mistakes">❌ 错题记录</button>
+      <button class="nav-item" data-page="checkin">✅ 打卡与时长</button>
+      <button class="nav-item" data-page="papers">📊 试卷分析</button>
+    </nav>
+    <div class="sidebar-footer" id="todayInfo"></div>
+  </aside>
+
+  <!-- 主区域 -->
+  <main class="main">
+    <!-- ===== 考试倒计时 ===== -->
+    <section class="page active" id="page-countdown">
+      <div class="page-head">
+        <h2>考试倒计时</h2>
+        <button class="btn primary" id="addExamBtn">＋ 添加考试</button>
+      </div>
+      <div id="examList" class="exam-grid"></div>
+    </section>
+
+    <!-- ===== 每日刷题统计 ===== -->
+    <section class="page" id="page-practice">
+      <div class="page-head"><h2>每日刷题统计</h2></div>
+      <div class="card">
+        <h3>录入做题记录</h3>
+        <div class="form-row">
+          <label>日期 <input type="date" id="pcDate"></label>
+          <label>板块
+            <select id="pcModule"></select>
+          </label>
+          <label>做题数 <input type="number" id="pcTotal" min="1" placeholder="如 20"></label>
+          <label>正确数 <input type="number" id="pcCorrect" min="0" placeholder="如 16"></label>
+          <button class="btn primary" id="pcAddBtn">保存</button>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card"><h3 id="pcTodayTitle">今日概览</h3><div id="pcTodaySummary"></div></div>
+        <div class="card"><h3>各板块累计正确率</h3><div id="pcModuleStats"></div></div>
+      </div>
+      <div class="card"><h3>近 14 天做题量与正确率</h3><div id="pcChart" class="chart"></div></div>
+      <div class="card"><h3>做题记录明细</h3><div id="pcRecords"></div></div>
+    </section>
+
+    <!-- ===== 学习计划 ===== -->
+    <section class="page" id="page-plan">
+      <div class="page-head"><h2>学习计划</h2></div>
+      <div class="grid-2">
+        <div class="card">
+          <h3>我的学习计划（长期）</h3>
+          <div class="form-row">
+            <input type="text" id="longPlanInput" placeholder="例如：8月底前完成资料分析专项 1000 题" style="flex:1">
+            <button class="btn primary" id="longPlanAdd">添加</button>
+          </div>
+          <ul class="plan-list" id="longPlanList"></ul>
+        </div>
+        <div class="card">
+          <h3>每日计划表 <input type="date" id="dailyPlanDate" class="inline-date"></h3>
+          <div class="form-row">
+            <input type="text" id="dailyPlanInput" placeholder="例如：09:00-10:30 言语理解 40 题" style="flex:1">
+            <button class="btn primary" id="dailyPlanAdd">添加</button>
+          </div>
+          <p class="hint">点击条目即可划线（完成）/ 取消划线</p>
+          <ul class="plan-list daily" id="dailyPlanList"></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 错题记录 ===== -->
+    <section class="page" id="page-mistakes">
+      <div class="page-head"><h2>错题记录</h2></div>
+      <div class="card">
+        <h3>新增错题</h3>
+        <div class="form-row">
+          <label>日期 <input type="date" id="mkDate"></label>
+          <label>板块 <select id="mkModule"></select></label>
+        </div>
+        <textarea id="mkText" rows="3" placeholder="错题内容 / 错误原因 / 知识点……（可用下方语音转文字输入）"></textarea>
+        <div class="form-row toolbar">
+          <label class="btn ghost file-btn">📷 拍照/图片
+            <input type="file" id="mkPhoto" accept="image/*" capture="environment" multiple hidden>
+          </label>
+          <button class="btn ghost" id="mkSpeechBtn">🎙️ 语音转文字</button>
+          <button class="btn ghost" id="mkRecordBtn">🔴 录语音条</button>
+          <span id="mkMediaHint" class="hint"></span>
+        </div>
+        <div id="mkPending" class="media-strip"></div>
+        <button class="btn primary" id="mkSaveBtn">保存错题</button>
+      </div>
+      <div class="card">
+        <div class="form-row space-between">
+          <h3>错题列表</h3>
+          <select id="mkFilter"><option value="">全部板块</option></select>
+        </div>
+        <div id="mkList"></div>
+      </div>
+    </section>
+
+    <!-- ===== 打卡与时长 ===== -->
+    <section class="page" id="page-checkin">
+      <div class="page-head"><h2>打卡与学习时长</h2></div>
+      <div class="grid-2">
+        <div class="card">
+          <div class="form-row space-between">
+            <button class="btn ghost" id="calPrev">←</button>
+            <h3 id="calTitle"></h3>
+            <button class="btn ghost" id="calNext">→</button>
+          </div>
+          <p class="hint">点击日期打卡，滚轴选择当日学习小时数</p>
+          <div class="cal-week">
+            <span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span>
+          </div>
+          <div id="calGrid" class="cal-grid"></div>
+        </div>
+        <div class="card">
+          <h3>本月打卡概览</h3>
+          <div id="monthSummary" class="month-summary"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="form-row space-between">
+          <h3>学习时长趋势</h3>
+          <div class="seg" id="trendSeg">
+            <button data-range="week" class="active">周</button>
+            <button data-range="month">月</button>
+            <button data-range="year">年</button>
+          </div>
+        </div>
+        <div id="trendChart" class="chart"></div>
+      </div>
+    </section>
+
+    <!-- ===== 试卷分析 ===== -->
+    <section class="page" id="page-papers">
+      <div class="page-head">
+        <h2>试卷分析</h2>
+        <button class="btn primary" id="paperAddBtn">＋ 录入试卷</button>
+      </div>
+      <div class="card">
+        <div class="form-row space-between">
+          <h3>成绩趋势</h3>
+          <div class="seg" id="paperSeg">
+            <button data-type="行测" class="active">行测</button>
+            <button data-type="申论">申论</button>
+            <button data-type="综应">综应</button>
+          </div>
+        </div>
+        <div id="paperChart" class="chart"></div>
+      </div>
+      <div class="card"><h3>试卷列表</h3><div id="paperList"></div></div>
+    </section>
+  </main>
+</div>
+
+<!-- ===== 弹窗：添加考试 ===== -->
+<div class="modal" id="examModal">
+  <div class="modal-box">
+    <h3>添加考试倒计时</h3>
+    <label>考试名称 <input type="text" id="exName" placeholder="如：2027 国考 / 广东省考"></label>
+    <label>考试类型
+      <select id="exType">
+        <option>国考</option><option>省考</option><option>事业编</option><option>选调</option><option>其他</option>
+      </select>
+    </label>
+    <label>考试日期 <input type="date" id="exDate"></label>
+    <div class="modal-actions">
+      <button class="btn ghost" data-close>取消</button>
+      <button class="btn primary" id="exSaveBtn">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 弹窗：滚轴打卡 ===== -->
+<div class="modal" id="wheelModal">
+  <div class="modal-box wheel-box">
+    <h3 id="wheelTitle">打卡</h3>
+    <p class="hint">滚动选择学习时长（小时）</p>
+    <div class="wheel-wrap">
+      <div class="wheel" id="wheel"></div>
+      <div class="wheel-mask top"></div>
+      <div class="wheel-mask bottom"></div>
+      <div class="wheel-indicator"></div>
+    </div>
+    <div class="modal-actions">
+      <button class="btn danger" id="wheelClear">取消打卡</button>
+      <button class="btn ghost" data-close>关闭</button>
+      <button class="btn primary" id="wheelOk">确定</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 弹窗：录入试卷 ===== -->
+<div class="modal" id="paperModal">
+  <div class="modal-box wide">
+    <h3 id="paperModalTitle">录入试卷</h3>
+    <div class="form-row">
+      <label>试卷类型
+        <select id="ppType"><option>行测</option><option>申论</option><option>综应</option></select>
+      </label>
+      <label style="flex:1">试卷名称 <input type="text" id="ppName" placeholder="如：2025 国考行测真题（副省级）"></label>
+    </div>
+    <div class="form-row">
+      <label>做题日期 <input type="date" id="ppDate"></label>
+      <label>得分 <input type="number" id="ppScore" step="0.5" min="0" placeholder="如 68.5"></label>
+      <label>满分 <input type="number" id="ppFull" step="0.5" min="1" value="100"></label>
+      <label>用时(分钟) <input type="number" id="ppDuration" min="1" placeholder="如 120"></label>
+    </div>
+    <div class="form-row space-between">
+      <h4>各板块得分情况</h4>
+      <button class="btn ghost" id="ppSecAdd">＋ 添加板块</button>
+    </div>
+    <div id="ppSections"></div>
+    <p class="hint" id="ppRateHint"></p>
+    <label>错题与遗忘知识点备注
+      <textarea id="ppNotes" rows="3" placeholder="记录本卷错题、易忘知识点，方便总结复盘……"></textarea>
+    </label>
+    <div class="modal-actions">
+      <button class="btn ghost" data-close>取消</button>
+      <button class="btn primary" id="ppSaveBtn">保存</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
