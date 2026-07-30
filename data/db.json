@@ -21,13 +21,27 @@
       "kind": "daily",
       "date": "2026-07-30",
       "text": "okk",
+      "done": true
+    },
+    {
+      "id": "f78bb7a0-1ab7-4bb1-82b5-ceda88e23a91",
+      "kind": "daily",
+      "date": "2026-07-30",
+      "text": "生成绩效模板，对接飞书，生成系统",
+      "done": false
+    },
+    {
+      "id": "90728212-20e0-468b-9499-ac18172610e4",
+      "kind": "daily",
+      "date": "2026-07-30",
+      "text": "学习任务",
       "done": false
     }
   ],
   "mistakes": [],
   "papers": [],
   "checkins": {
-    "2026-07-29": 5
+    "2026-07-29": 7
   },
   "settings": {},
   "_deleted": {
