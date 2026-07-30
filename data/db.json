@@ -21,13 +21,13 @@
       "kind": "daily",
       "date": "2026-07-30",
       "text": "okk",
-      "done": true
+      "done": false
     }
   ],
   "mistakes": [],
   "papers": [],
   "checkins": {
-    "2026-07-29": 7
+    "2026-07-29": 5
   },
   "settings": {},
   "_deleted": {
