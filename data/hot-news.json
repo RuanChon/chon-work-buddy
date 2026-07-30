@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-29T23:48:51.256Z",
+  "generatedAt": "2026-07-30T01:10:18.498Z",
   "sources": [
     {
       "id": "people",
@@ -24,12 +24,48 @@
       "publishedDate": "2026-07-30"
     },
     {
+      "id": "57446a16d162bccc",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "习近平总书记关切事丨康庄大道 山海偕行",
+      "url": "https://www.qstheory.cn/20260730/50f69325cfd94da69ea91db8435a9ee3/c.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
       "id": "8a45ab64fc7fa135",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "促进海内外中华儿女团结奋斗",
       "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770507.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "c26d7fb488aae41d",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "“始终同人民同呼吸、共命运、心连心”",
+      "url": "https://www.qstheory.cn/20260730/314c02c76e864f4798eb556915ce6b73/c.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "1c716d6501d47e51",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "天天学习|一份40多年前的作风文件",
+      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770667.html",
+      "publishedDate": "2026-07-30"
+    },
+    {
+      "id": "1caf81f2d172aaf1",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "新时代伟大实践彰显马克思主义强大生命力",
+      "url": "https://www.qstheory.cn/20260730/42fc5e740c4d4718a2576c07b31436bf/c.html",
       "publishedDate": "2026-07-30"
     },
     {
@@ -42,30 +78,12 @@
       "publishedDate": "2026-07-30"
     },
     {
-      "id": "4c50c90e6643423c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "新时代伟大实践彰显马克思主义强大生命力",
-      "url": "http://opinion.people.com.cn/n1/2026/0730/c461530-40770546.html",
-      "publishedDate": "2026-07-30"
-    },
-    {
       "id": "99b9d84a3a63e2d0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "告别\"中国冲击\"旧叙事 拥抱\"中国机遇\"新答案",
       "url": "http://opinion.people.com.cn/n1/2026/0730/c461529-40770518.html",
-      "publishedDate": "2026-07-30"
-    },
-    {
-      "id": "bc5218adc5d2d645",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "中宣部授予王戟同志\"时代楷模\"称号",
-      "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40770523.html",
       "publishedDate": "2026-07-30"
     },
     {
@@ -100,7 +118,7 @@
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "京津冀算力\"一张网\"这样建",
+      "title": "张北的风\"对接\"北京的代码",
       "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770541.html",
       "publishedDate": "2026-07-30"
     },
@@ -285,10 +303,5 @@
       "publishedDate": "2026-07-30"
     }
   ],
-  "errors": [
-    {
-      "source": "qiushi",
-      "message": "未找到可用标题"
-    }
-  ]
+  "errors": []
 }
