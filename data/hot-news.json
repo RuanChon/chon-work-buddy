@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-06",
-  "generatedAt": "2026-08-06T01:13:03.845Z",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T01:56:00.958Z",
   "sources": [
     {
       "id": "people",
@@ -15,280 +15,311 @@
   ],
   "items": [
     {
-      "id": "c566dda33de02d5d",
+      "id": "e580394854c4aab5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "除作风之弊 兴实干之风",
-      "url": "http://politics.people.com.cn/n1/2026/0806/c461001-40774589.html",
-      "publishedDate": "2026-08-06"
+      "title": "总书记的人民情怀丨“让内需成为经济发展的主动力”",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c1001-40775243.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "7177ecb9d5ecc528",
+      "id": "59b4b94d8913b1f3",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "以高度的历史主动把握时代航向——习近平党建思想理论品格系列述评之二",
+      "url": "https://www.qstheory.cn/20260807/2b92ffc0e7c94819bb9e32c9ba255848/c.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "b0726d07e047985e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "新发展理念引领我国发展格局深刻变革",
-      "url": "http://opinion.people.com.cn/n1/2026/0806/c461530-40774623.html",
-      "publishedDate": "2026-08-06"
+      "title": "经纬线·向新，向前",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c461001-40775622.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "26314f7fe89068e8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"三个转变\"看中原",
-      "url": "http://finance.people.com.cn/n1/2026/0806/c1004-40774591.html",
-      "publishedDate": "2026-08-06"
+      "id": "36b03a6fbca1b9b4",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "最是真情暖人心——中国元首外交的世界情怀与大国气派",
+      "url": "https://www.qstheory.cn/20260807/107fb62bf4db4bcdac0f1aaace244383/c.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "bd14a3f0f8f4de96",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "福州深化实施新时代\"堡垒工程\"",
-      "url": "http://finance.people.com.cn/n1/2026/0806/c1004-40774592.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "373b4511bd06a859",
+      "id": "d7dbf13feb6ea43f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "为什么说科普和创新同等重要",
-      "url": "http://politics.people.com.cn/n1/2026/0806/c461001-40774590.html",
-      "publishedDate": "2026-08-06"
+      "title": "中国元首外交的世界情怀与大国气派",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c461001-40775619.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "1d1d888094920ab0",
+      "id": "85b33ff860afb493",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "构建人类命运共同体理念的形成发展和世界意义",
+      "url": "https://www.qstheory.cn/20260807/eebb8c6269b54f099b56e5647268d279/c.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "defbd8e40b0e5ae2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "和音|向新而行,共拓全球发展新机遇",
-      "url": "http://opinion.people.com.cn/n1/2026/0806/c461529-40774604.html",
-      "publishedDate": "2026-08-06"
+      "title": "\"作为千年古都,要把传统和现代有机融合在一起\"",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c461001-40775621.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "7728e13f4c9d8540",
+      "id": "7bbd4b9755a1efbb",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "以场景为牵引 推动科技创新和产业创新深度融合",
+      "url": "https://www.qstheory.cn/20260807/0879d52b645246358b0e613d0c78cc2d/c.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "592e86480e3ada66",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民论坛|感悟\"一个都不能少\"",
-      "url": "http://opinion.people.com.cn/n1/2026/0806/c461529-40774605.html",
-      "publishedDate": "2026-08-06"
+      "title": "任平:\"家事\"与\"国事\"",
+      "url": "http://opinion.people.com.cn/n1/2026/0807/c461529-40775245.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "d637186460acdb0b",
+      "id": "b4768277238d1c02",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "走中国特色卫生与健康发展道路建设健康中国",
+      "url": "https://www.qstheory.cn/20260807/97bc588a219e48bd9d31bdd6ecbd8c16/c.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "784adba13509ccbb",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "延伸链条,老区\"长\"出新产业",
-      "url": "http://finance.people.com.cn/n1/2026/0806/c1004-40774635.html",
-      "publishedDate": "2026-08-06"
+      "title": "柔性制造,\"千人千面\"精准交付",
+      "url": "http://finance.people.com.cn/n1/2026/0807/c1004-40775246.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "749d59e2127bdf53",
+      "id": "ae51b34f1e261ee3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "高质量发展微视角|\"时间是最宝贵的资源\"",
-      "url": "http://finance.people.com.cn/n1/2026/0806/c1004-40774593.html",
-      "publishedDate": "2026-08-06"
+      "title": "从3.6万亿元增量看动能之新、结构之优",
+      "url": "http://finance.people.com.cn/n1/2026/0807/c1004-40775248.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "38a2830480708013",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "这所中学为何推崇报考军校?",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774614.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "08fe893695309b97",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "跟着课本研学 山河也是课堂",
-      "url": "http://ent.people.com.cn/n1/2026/0806/c1012-40774647.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "187d22289593459c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774587.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "98111a866e96620e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "巴基斯坦总理:巴方将继续为地区和平作出真诚努力",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774588.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "8c45ddaa88661082",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "最高法等六部门发文 全面加强聘用制书记员队伍规范管理",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774618.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "e9e347e3ef3bbc7a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "外交部驳斥日本《防卫白皮书》已向日方严正交涉",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774668.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "9ee1c94560c13756",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中方坚决反对美无理打压中国企业",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774603.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "6c30002af94e5a1e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "对美系列涉华消极措施实施反制",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774599.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "cae3673ef63e429f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国防部新闻发言人就日本政府2026年版《防卫白皮书》答记者问",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774669.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "529766de5024eb2a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国发起首例对外贸易国家安全调查",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774602.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "0bb79910614492c2",
+      "id": "e8d4a36c9103de11",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "农业农村部部长：加快农业农村现代化 扎实推进乡村全面振兴",
-      "url": "http://politics.people.com.cn/n1/2026/0806/c461001-40774596.html",
-      "publishedDate": "2026-08-06"
+      "title": "着力在为民造福上出实招、求实效",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c1001-40775244.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "3564ebd9ce8a51df",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "两部门紧急预拨3.3亿元中央自然灾害救灾资金",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774607.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "8a45f0dfc6a448dd",
+      "id": "edd586430c0b3a6b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "神舟二十一号航天员乘组太空归来后首次公开亮相",
-      "url": "http://finance.people.com.cn/n1/2026/0806/c1004-40774616.html",
-      "publishedDate": "2026-08-06"
+      "title": "\"先投后股\"何以促进科技成果转化",
+      "url": "http://finance.people.com.cn/n1/2026/0807/c1004-40775296.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "c0a3e255a1f18899",
+      "id": "0832ef04bc48828a",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "评论丨聚“绿”成势，结构转型活力足",
-      "url": "http://opinion.people.com.cn/n1/2026/0806/c461529-40774609.html",
-      "publishedDate": "2026-08-06"
+      "topic": "社会",
+      "title": "为基层减负赋能|牵头负责不是全包全责",
+      "url": "http://society.people.com.cn/n1/2026/0807/c1008-40775281.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "e5c98750dd463cc3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "理论丨提供更多群众身边的文化服务",
-      "url": "http://opinion.people.com.cn/n1/2026/0806/c461530-40774624.html",
-      "publishedDate": "2026-08-06"
-    },
-    {
-      "id": "74c77719096bdb12",
+      "id": "aa06a85e41cfbeed",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "外企见证中国先进制造业水平不断提升",
-      "url": "http://world.people.com.cn/n1/2026/0806/c1002-40774597.html",
-      "publishedDate": "2026-08-06"
+      "title": "钟声|日本新版《防卫白皮书》,满篇野心和谎言",
+      "url": "http://world.people.com.cn/n1/2026/0807/c1002-40775253.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "ef37605d3c8ca83f",
+      "id": "d7db53d121f52591",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "美国将对多晶硅衍生品加征15%关税",
+      "url": "http://world.people.com.cn/n1/2026/0807/c1002-40775644.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "1e9942a268277824",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方强调应维护南苏丹国家稳定",
+      "url": "http://world.people.com.cn/n1/2026/0807/c1002-40775328.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "b8117e19ac8cae6f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一分钟两球 U17国足2:1逆转勒沃库森U17队",
+      "url": "http://ent.people.com.cn/n1/2026/0807/c1012-40775331.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "a9c9b7568d7890cc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "伊朗拟禁止敌对方通行霍尔木兹海峡 对违规者重罚",
+      "url": "http://world.people.com.cn/n1/2026/0807/c1002-40775332.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "4dda9bb0c018d460",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "提升数字治理规范化水平",
+      "url": "http://theory.people.com.cn/n1/2026/0807/c40531-40775456.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "d4457ef4fea3e832",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "抓好党员干部这一终身课题",
+      "url": "http://dangjian.people.com.cn/n1/2026/0807/c117092-40775555.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "753fe4e3bbca7641",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“心里有了‘明白账’”",
+      "url": "http://fanfu.people.com.cn/n1/2026/0807/c64371-40775454.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "f51a21c543687103",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "为基层减负 促实干担当",
+      "url": "http://fanfu.people.com.cn/n1/2026/0807/c64371-40775448.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "f2be8e1a179bfea5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "新中国成立初期中国哲学社会科学的发展",
+      "url": "http://cpc.people.com.cn/n1/2026/0807/c443712-40775535.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "3cf9bf8e53e055a9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "追光的你｜太行山上新愚公",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c461001-40775642.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "3f28565d51489582",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "真心向党 道路光明——纪念陈叔通先生诞辰150周年",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c1001-40775270.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "2ad6929335c3f973",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "以法治力量守护“中华水塔”",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774671.html",
-      "publishedDate": "2026-08-06"
+      "title": "保障生态环境法典实施 最高法发布首个配套司法解释",
+      "url": "http://society.people.com.cn/n1/2026/0807/c1008-40775324.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "d7d1bdfd9676b179",
+      "id": "1bbd6e2a1d81b700",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "商标权的保护边界在哪里？",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774674.html",
-      "publishedDate": "2026-08-06"
+      "topic": "综合",
+      "title": "外交部发言人就广岛核爆81周年答记者问",
+      "url": "http://world.people.com.cn/n1/2026/0807/c1002-40775289.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "501a0c9fb9aa01a9",
+      "id": "029809648cb69523",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "摸清底数不能动辄报数",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774641.html",
-      "publishedDate": "2026-08-06"
+      "topic": "时政",
+      "title": "生态环境部持续深化拓展整治形式主义",
+      "url": "http://politics.people.com.cn/n1/2026/0807/c461001-40775264.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "bb5c1ef672dfef68",
+      "id": "0857f22fd398eeea",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "公共交通更适老，老年人出行更从容",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774606.html",
-      "publishedDate": "2026-08-06"
+      "topic": "综合",
+      "title": "加强科技金融领域数据开发利用",
+      "url": "http://finance.people.com.cn/n1/2026/0807/c1004-40775249.html",
+      "publishedDate": "2026-08-07"
     },
     {
-      "id": "512a2c48bc063aee",
+      "id": "d13735feb2f61d2a",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "玩水时节，“清凉”莫变“心凉”",
-      "url": "http://society.people.com.cn/n1/2026/0806/c1008-40774653.html",
-      "publishedDate": "2026-08-06"
+      "topic": "综合",
+      "title": "上半年全国机械工业规上企业增加值同比增6.4%",
+      "url": "http://finance.people.com.cn/n1/2026/0807/c1004-40775323.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "69eee003ca81036e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨“把自己也当成老百姓”",
+      "url": "http://opinion.people.com.cn/n1/2026/0807/c461529-40775265.html",
+      "publishedDate": "2026-08-07"
+    },
+    {
+      "id": "e6e49ee845c22b27",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨“拎”“捂”之分体现政绩观成色",
+      "url": "http://opinion.people.com.cn/n1/2026/0807/c461530-40775279.html",
+      "publishedDate": "2026-08-07"
     }
   ],
-  "errors": [
-    {
-      "source": "qiushi",
-      "message": "未找到可用标题"
-    }
-  ]
+  "errors": []
 }
