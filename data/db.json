@@ -89,6 +89,14 @@
       "images": [],
       "audios": [],
       "createdAt": 1786539817767
+    },
+    {
+      "id": "0d896e18-a3d1-4f91-b7ae-2e4d1095b64e",
+      "board": "analysis",
+      "text": "比重对比大小题还是要写出来，避免算混",
+      "images": [],
+      "audios": [],
+      "createdAt": 1786539868168
     }
   ],
   "papers": [],
