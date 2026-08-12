@@ -14,6 +14,13 @@
       "board": "politics",
       "done": 40,
       "correct": 40
+    },
+    {
+      "id": "6dd5c6c6-72f2-4021-985b-d1dd5021fd77",
+      "date": "2026-08-12",
+      "board": "analysis",
+      "done": 20,
+      "correct": 14
     }
   ],
   "plans": [
