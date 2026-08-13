@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T12:45:31.281Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T00:51:54.646Z",
   "sources": [
     {
       "id": "people",
@@ -15,347 +15,280 @@
   ],
   "items": [
     {
-      "id": "68ae8d3bd340b8fc",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "学习·知行丨这座古祠，藏着总书记传递的文化启示",
-      "url": "http://cpc.people.com.cn/n1/2026/0812/c164113-40778048.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "deb44f120087bd57",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "儿童青少年近视防控还有哪些突出问题？",
-      "url": "https://www.qstheory.cn/20260812/27cd596222104de99cd594c629c02446/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "3d75a46b50f34eb4",
+      "id": "84b7d5678da45e82",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-      "url": "http://politics.people.com.cn/n1/2026/0812/c461001-40778375.html",
-      "publishedDate": "2026-08-12"
+      "title": "中国全方位推动人工智能全球治理走深走实",
+      "url": "http://politics.people.com.cn/n1/2026/0813/c461001-40778437.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "10c0d6a4bb4ce393",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "怎样更好防控“小眼镜”？",
-      "url": "https://www.qstheory.cn/20260812/29db7db350f143818808efeb7d899401/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "a4d252f03f3a770d",
+      "id": "21a5325065cd84d2",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "任平:中国经济向新向优向好的内在逻辑",
-      "url": "http://opinion.people.com.cn/n1/2026/0812/c461529-40777727.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "e0dddde6a31031aa",
-      "source": "qiushi",
-      "sourceName": "求是网",
       "topic": "时政",
       "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
-      "url": "https://www.qstheory.cn/20260812/de789c4d9a254bc9bc37739c365c0a42/c.html",
-      "publishedDate": "2026-08-12"
+      "url": "http://politics.people.com.cn/n1/2026/0813/c461001-40778436.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "3a2d0f6f822d1ee2",
+      "id": "038fda9a53a32cbf",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "生态环境法典筑牢生态系统治理法治基石",
-      "url": "http://opinion.people.com.cn/n1/2026/0812/c461530-40777768.html",
-      "publishedDate": "2026-08-12"
+      "title": "金社平:培育更多\"中国服务\"品牌",
+      "url": "http://opinion.people.com.cn/n1/2026/0813/c461529-40778440.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "4ab16fd471e3a83c",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "“老百姓的事情是最重要的事情”",
-      "url": "https://www.qstheory.cn/20260812/567fec9a28e041c5b6ba5045d0b5bee9/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "24d0de1470b460f4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "大道之行|\"一条通往进步、合作与协同发展的道路\"",
-      "url": "http://world.people.com.cn/n1/2026/0812/c1002-40777737.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "11c6a179d6c10501",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "中国经济向新向优向好的内在逻辑",
-      "url": "https://www.qstheory.cn/20260812/52f722e92f0a423fb7054e5f70686f26/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "f5d6d7c3fb9f9fb1",
+      "id": "e695c07bdf631b4e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "厚植爱国情 薪火永相传",
-      "url": "http://politics.people.com.cn/n1/2026/0812/c461001-40777730.html",
-      "publishedDate": "2026-08-12"
+      "title": "生态环境法典的原创性意义与世界贡献",
+      "url": "http://opinion.people.com.cn/n1/2026/0813/c461530-40778478.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "594b32c8175feddb",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "以正确政绩观推动事业高质量发展",
-      "url": "https://www.qstheory.cn/20260812/0b59618e072a423ba8600665f1f097c3/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "ee52f4bf0adef79d",
+      "id": "cb51650bec028296",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "矸石山披上\"绿衣裳\"",
-      "url": "http://sn.people.com.cn/n2/2026/0812/c226647-41665916.html",
-      "publishedDate": "2026-08-12"
+      "title": "5年10万亿元消费增量有支撑",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778441.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "937c58beb8b714f6",
+      "id": "db0efd4f8d574d79",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "绿智同行,工程机械畅销海外",
-      "url": "http://finance.people.com.cn/n1/2026/0812/c1004-40777731.html",
-      "publishedDate": "2026-08-12"
+      "title": "贴近生活 满足需求",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778442.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "d9a27da4e3b71014",
-      "source": "qiushi",
-      "sourceName": "求是网",
+      "id": "1d407ce9f038738b",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
-      "title": "跨大西洋同盟关系演变的历史逻辑",
-      "url": "https://www.qstheory.cn/20260812/088781b7648b4b3682da364c5a0d627a/c.html",
-      "publishedDate": "2026-08-12"
+      "title": "将学习教育成果固化为制度机制",
+      "url": "http://politics.people.com.cn/n1/2026/0813/c461001-40778438.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "b2fabe8204943b6e",
+      "id": "1ff60e0b9b287b32",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "寰宇平|篡改历史,日本右翼否定战后定论祸患不断",
+      "url": "http://opinion.people.com.cn/n1/2026/0813/c461529-40778448.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "405fb508607fcdab",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "微风入梦,暑期文旅新意足",
-      "url": "http://finance.people.com.cn/n1/2026/0812/c1004-40777754.html",
-      "publishedDate": "2026-08-12"
+      "title": "\"清凉产品\",如何\"拿捏\"消费者?",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778467.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "c92fbf7c807e63fa",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "怎么看上半年消费领域新变化",
-      "url": "https://www.qstheory.cn/20260812/a64b2a6bde3d468094ce9a472a786ae9/c.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "28253d8ce982056b",
+      "id": "83888264fbef4e81",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "履职事项基层\"接不住\",减!",
-      "url": "http://society.people.com.cn/n1/2026/0812/c1008-40777760.html",
-      "publishedDate": "2026-08-12"
+      "title": "从\"一山、一馍、一叶\"看基层干部在磨炼中解题",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778489.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "61951f47b43aee34",
+      "id": "79d53d3ceeaf7ab4",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "跨国车企续约,\"合资2.0时代\"如何破局",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778472.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "b779f4d1878237f8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "广东:立法\"1+1＞2\",让消费更放心",
+      "url": "http://politics.people.com.cn/n1/2026/0813/c461001-40778519.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "9ff66e0cf9bfcd40",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "美国佐治亚州校园枪击事件致两人受伤",
+      "url": "http://world.people.com.cn/n1/2026/0813/c1002-40778434.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "a634f97b0fc3c9c2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "哥伦比亚强震遇难人数升至241人",
+      "url": "http://world.people.com.cn/n1/2026/0813/c1002-40778419.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "b30d159064a22ea6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "让放权赋能落到实处",
-      "url": "http://society.people.com.cn/n1/2026/0812/c1008-40777761.html",
-      "publishedDate": "2026-08-12"
+      "title": "2026上海书展开幕",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778477.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "2c9641e974bb2963",
+      "id": "14ab851eb7eb7eef",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "走进零碳园区 见证绿色转型",
-      "url": "http://finance.people.com.cn/n1/2026/0812/c1004-40777745.html",
-      "publishedDate": "2026-08-12"
+      "title": "包银高铁银巴支线建设正酣",
+      "url": "http://pic.people.com.cn/n1/2026/0813/c1016-40778418.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "56ea13457b6f0518",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "冬奥冠军武大靖将出任中国短道速滑队主教练",
-      "url": "http://ent.people.com.cn/n1/2026/0812/c1012-40778390.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "6fbcd6a860ca32ba",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "新能源汽车月度新车销量占比首超60%",
-      "url": "http://finance.people.com.cn/n1/2026/0812/c1004-40778310.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "5601ae4afbc08727",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国海军第49批护航编队起航赴亚丁湾",
-      "url": "http://military.people.com.cn/n1/2026/0812/c1011-40778252.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "3525504e1da08da8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "考古新发现将\"龙凤\"组合推至龙山时期",
-      "url": "http://ent.people.com.cn/n1/2026/0812/c1012-40778228.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "188c9b2e623d3161",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "行进中国丨下足“绣花功” “沪”航新征程",
-      "url": "http://sh.people.com.cn/n2/2026/0812/c134768-41666123.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "bf23b44aaa287731",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "平陆运河实船试验正式启动",
-      "url": "http://gx.people.com.cn/n2/2026/0812/c179464-41666088.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "874099d512190fae",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国第16次北冰洋考察队“雪龙2”号开展冰站作业",
-      "url": "http://pic.people.com.cn/n1/2026/0812/c1016-40778038.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "3fb848961bc5d395",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "福建龙岩下山村：从竹寮灯火走上致富新路",
-      "url": "http://fj.people.com.cn/n2/2026/0812/c181466-41666147.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "7135414728b0cbd8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从压沙造林到滴灌护绿 八步沙持续筑牢生态屏障",
-      "url": "http://pic.people.com.cn/n1/2026/0812/c1016-40778098.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "480b5e8cd1d81d7f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "江西靖安：擦亮绿色生态底色",
-      "url": "http://jx.people.com.cn/n2/2026/0812/c190260-41665652.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "f642694cf7181935",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "透视数据看清中国经济大逻辑",
-      "url": "http://theory.people.com.cn/n1/2026/0812/c40531-40778174.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "7789985c9cf5e30c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "深入理解“坚持锤炼坚强党性”",
-      "url": "http://dangjian.people.com.cn/n1/2026/0812/c117092-40778117.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "4c789747d8a85e0c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "一册台账守“家底”",
-      "url": "http://fanfu.people.com.cn/n1/2026/0812/c64371-40777930.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "86d33ba72fed6620",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "云南省管干部任前公示公告",
-      "url": "http://renshi.people.com.cn/n1/2026/0812/c139617-40778164.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "d2882d41f36de4ba",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "悠悠竹索桥 军民鱼水情",
-      "url": "http://cpc.people.com.cn/n1/2026/0812/c443712-40778061.html",
-      "publishedDate": "2026-08-12"
-    },
-    {
-      "id": "586590c1c0eecb24",
+      "id": "a078705f826b892b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "“白海豚”停编 影响仍在",
-      "url": "http://society.people.com.cn/n1/2026/0812/c1008-40778391.html",
-      "publishedDate": "2026-08-12"
+      "title": "市场监管总局强化民生计量监管",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778504.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "abd481d78741f03c",
+      "id": "de21e10649e0001d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "水利部滚动部署应对残余环流影响",
-      "url": "http://society.people.com.cn/n1/2026/0812/c1008-40778379.html",
-      "publishedDate": "2026-08-12"
+      "title": "坚持系统观念 夯实防灾能力",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778451.html",
+      "publishedDate": "2026-08-13"
     },
     {
-      "id": "0a0f7a76833842f3",
+      "id": "0c52c13915687046",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "台风“白海豚”残余环流影响持续",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778452.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "53da2d9aa1bc5fd8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "央行将开展隔夜逆回购操作",
-      "url": "http://finance.people.com.cn/n1/2026/0812/c1004-40778376.html",
-      "publishedDate": "2026-08-12"
+      "title": "我国脑机接口强脑技术取得突破",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778470.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "54f032c9ceacad1b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "国产大飞机正式执飞国际商业航线",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778445.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "46f18245c129e0d3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "农业机器人4S店，能干些啥",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778447.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "f5a50e3203751b91",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论｜构建中国政治学自主知识体系的成效与前瞻",
+      "url": "http://opinion.people.com.cn/n1/2026/0813/c461530-40778479.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "50e64adc3006daa6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "评论｜从“一片叶子富了一方百姓”看共同富裕",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778443.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "bbc6caa96a4b5f08",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "前7月京津冀地区进出口值创新高",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778455.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "4ff5aa791c53f52a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "陕西西安：酒吧里唱大戏，很潮！",
+      "url": "http://finance.people.com.cn/n1/2026/0813/c1004-40778468.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "2e400ed806cdd44b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "一条深山邮路，他一走就是38年",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778466.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "df026b6e5c9252f0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "这位德国工程师创业为什么“就必须到中国去”",
+      "url": "http://world.people.com.cn/n1/2026/0813/c1002-40778449.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "36ec17555ff2dc8a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "从百花奖看国产电影创作趋势",
+      "url": "http://ent.people.com.cn/n1/2026/0813/c1012-40778495.html",
+      "publishedDate": "2026-08-13"
+    },
+    {
+      "id": "3800943b83b334f2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "协会串谋、驾校“抱团涨价”，该罚",
+      "url": "http://society.people.com.cn/n1/2026/0813/c1008-40778490.html",
+      "publishedDate": "2026-08-13"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "qiushi",
+      "message": "未找到可用标题"
+    }
+  ]
 }
