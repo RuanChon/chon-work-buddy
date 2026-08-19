@@ -105,6 +105,14 @@
       "images": [],
       "audios": [],
       "createdAt": 1786540893749
+    },
+    {
+      "id": "d5109edd-380a-42d9-b8fe-2869f8041455",
+      "board": "analysis",
+      "text": "容斥类题目公式：a+b-1 ≤ a ∩ b ≤ a",
+      "images": [],
+      "audios": [],
+      "createdAt": 1787124221576
     }
   ],
   "papers": [],
