@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T00:28:32.445Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T00:28:18.440Z",
   "sources": [
     {
       "id": "people",
@@ -15,280 +15,284 @@
   ],
   "items": [
     {
-      "id": "4e0507a4535e9150",
+      "id": "9c38635fcae4395b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "总书记的人民情怀丨“营造风清气正的政治生态”",
-      "url": "http://politics.people.com.cn/n1/2026/0824/c461001-40784607.html",
-      "publishedDate": "2026-08-24"
+      "title": "习近平同约旦国王阿卜杜拉二世会谈",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1024-40785330.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "e2f199574b385c83",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"能源的饭碗必须端在自己手里\"",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784608.html",
-      "publishedDate": "2026-08-24"
+      "id": "5f6071d9f27c01c4",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "平台经济发展既要有效率更要有温度",
+      "url": "https://www.qstheory.cn/20260825/2ed0d169ae39446fad09cffd0421ce35/c.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "1ee32b18d0872f29",
+      "id": "9c38635fcae4395b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "钟才文:上半年经济增长4.7%说明了什么?",
-      "url": "http://opinion.people.com.cn/n1/2026/0824/c461529-40784686.html",
-      "publishedDate": "2026-08-24"
+      "title": "习近平：双方要弘扬传统友好，增进战略互信，深化互利合作，密切多边协作，推动中约战略伙伴关系得到更大发展，不断为地区和平、稳定、繁荣作出积极贡献",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1024-40785330.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "d84eafe71d5db521",
+      "id": "d60530ada166dd5b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "我国经济动能向新、结构向优",
-      "url": "http://opinion.people.com.cn/n1/2026/0824/c461530-40784643.html",
-      "publishedDate": "2026-08-24"
+      "title": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1024-40785333.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "f69c9d0ff2f0874a",
+      "id": "40485a896859bdd2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李强会见约旦国王阿卜杜拉二世",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1024-40785334.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "2c5079a31b09caf0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "王沪宁主持召开全国政协主席会议",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1024-40785335.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "d0a793738eec01da",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "韩正会见科威特外交大臣杰拉赫",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1001-40785336.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "1f8647e84bb7a7ae",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "以树立和践行正确政绩观新成效开创中国式现代化新局面",
+      "url": "http://opinion.people.com.cn/n1/2026/0825/c461530-40785379.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "062cf77c79e45a21",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "钟才文:推动高质量发展行稳致远",
+      "url": "http://opinion.people.com.cn/n1/2026/0825/c461529-40785340.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "c642f62b3c5b9747",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "加强治国理政经验交流 携手推进现代化进程",
-      "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784646.html",
-      "publishedDate": "2026-08-24"
+      "title": "\"中国服务\"加速走向海外",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785381.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "bbac1e54b75fb199",
+      "id": "34b76c6f9a734e4f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "哈尔滨:一批千亿级产业集群这样\"链\"成",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784609.html",
-      "publishedDate": "2026-08-24"
+      "title": "\"不仅造福中国人民,也利好世界人民\"",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785346.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "a80e19bd47b13630",
+      "id": "b3f75c82596b4b73",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "人工智能\"送饭碗\"",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784610.html",
-      "publishedDate": "2026-08-24"
+      "title": "日本市民团体举办\"日军毒气展\" 揭露军国主义暴行",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785325.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "c0f83395b6f86386",
+      "id": "6a7d01a149d8804d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "看中国机器人产业新气象",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784633.html",
-      "publishedDate": "2026-08-24"
+      "title": "加拿大强硬回应美国关税升级威胁 政界人士密集表态",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785324.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "02a49bb1dddee519",
+      "id": "cd03c5ab5cd4ae79",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "从\"秀起来\"到\"用起来\"",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784634.html",
-      "publishedDate": "2026-08-24"
+      "title": "美宣布对伊朗实施\"经济孤立\"新措施加大施压",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785323.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "89a1766c7780e583",
+      "id": "c1f8106cd7cb8403",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "王毅同科威特外交大臣杰拉赫会谈",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1001-40785345.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "21c0e6c754059529",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "全国小麦收购量超9000万吨",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785341.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "1fa56639c2071770",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "数智经济论坛发言摘编：“数”聚新动能 “智”绘新蓝图",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785397.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "b716119c22e655c5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "“清朗·网络娱乐团播乱象整治”专项行动严惩违规账号2200余个",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c461001-40785378.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "e42454b255a36930",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "经纪人牵线,农货稳了",
-      "url": "http://society.people.com.cn/n1/2026/0824/c1008-40784612.html",
-      "publishedDate": "2026-08-24"
+      "title": "5名应急管理领域代表与中外记者交流",
+      "url": "http://society.people.com.cn/n1/2026/0825/c1008-40785354.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "66792605dd8e99b6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "面目全非的\"别墅\"小镇",
-      "url": "http://society.people.com.cn/n1/2026/0824/c1008-40784637.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "73554a5c132b595d",
+      "id": "849999f68d3817e4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美国内华达州里诺市4万多居民因野火紧急撤离",
-      "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784606.html",
-      "publishedDate": "2026-08-24"
+      "title": "人形机器人加速“进化”",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785327.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "19f47506d5171585",
+      "id": "1a24cb3c2adc6249",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "俄国防部:击落269架乌克兰无人机",
-      "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784605.html",
-      "publishedDate": "2026-08-24"
+      "title": "开放，让机器人更快、更高、更强",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785384.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "2d23bdee09087eed",
+      "id": "540e34796ff0643b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"梁王\"登顶,中国队时隔八年再夺世锦赛男双冠军",
-      "url": "http://ent.people.com.cn/n1/2026/0824/c1012-40784687.html",
-      "publishedDate": "2026-08-24"
+      "title": "中国航发集团党组：以强劲“中国心”托举中国梦",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785382.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "ee59bf6545220c7a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "新时代画卷丨推进高质量共建“一带一路”走深走实",
-      "url": "http://pic.people.com.cn/n1/2026/0824/c1016-40784642.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "c6297eb932087366",
+      "id": "556ebadf0f98da2a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅会见约旦副首相兼外交大臣萨法迪",
-      "url": "http://politics.people.com.cn/n1/2026/0824/c1001-40784622.html",
-      "publishedDate": "2026-08-24"
+      "title": "理论丨把握好民生工作的“尽力”与“量力”",
+      "url": "http://opinion.people.com.cn/n1/2026/0825/c461530-40785380.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "ea4a74a56a4a80d5",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "数智经济论坛发言摘编：加快数智技术创新，提升数智化发展水平",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784661.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "1d781e771cf77c90",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "上半年食品冷链物流业务总需求量达2亿吨",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784611.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "4986a2317609bc75",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "着力破解产业链质量堵点卡点",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784695.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "316cf6a2bd949c0d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "多部门联合会商部署防汛防台风工作",
-      "url": "http://society.people.com.cn/n1/2026/0824/c1008-40784627.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "f567375914162fc2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
-      "url": "http://society.people.com.cn/n1/2026/0824/c1008-40784650.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "c5bd87006a17b385",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "跨越二十六年的“绿色之约”",
-      "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784624.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "155f6060c84e4816",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "嫦娥七号任务不满足发射条件 不能在今年预定窗口实施",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784636.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "892b1050a8aa431a",
+      "id": "4fab6712f2aa040f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "理论丨平凡与不凡的辩证之道",
-      "url": "http://opinion.people.com.cn/n1/2026/0824/c461530-40784644.html",
-      "publishedDate": "2026-08-24"
+      "title": "评论丨“换位思考”的三重境界",
+      "url": "http://opinion.people.com.cn/n1/2026/0825/c461529-40785355.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "1cd45b28b52d898f",
+      "id": "fffe074e8b2e1c92",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "评论丨从追问出发，向未来而行",
-      "url": "http://opinion.people.com.cn/n1/2026/0824/c461529-40784628.html",
-      "publishedDate": "2026-08-24"
+      "title": "在雄安新区，领悟“千年大计”里的政绩观",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c461001-40785408.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "b2ce23a9135fef8f",
+      "id": "2fafa78a99c92744",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "浙江17万名“急救侠”守护群众生命安全",
+      "url": "http://society.people.com.cn/n1/2026/0825/c1008-40785387.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "10f4c6ce573b1097",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "帮工厂“预知未来”",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784614.html",
-      "publishedDate": "2026-08-24"
+      "title": "河南泥河洼蓄滞洪区，何以“装”下2.2亿立方米洪水",
+      "url": "http://env.people.com.cn/n1/2026/0825/c1010-40785393.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "562014881cfa1c22",
+      "id": "4a3101c07e50b82d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "点评：持续关注交叉领域新动向",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784615.html",
-      "publishedDate": "2026-08-24"
+      "title": "在真空世界里“点石成金”",
+      "url": "http://finance.people.com.cn/n1/2026/0825/c1004-40785361.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "8f59bda2a705121c",
+      "id": "19f432af1444135a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "乌蒙山的石头地，真能种出花！",
+      "url": "http://politics.people.com.cn/n1/2026/0825/c1001-40785367.html",
+      "publishedDate": "2026-08-25"
+    },
+    {
+      "id": "be3152f3b6276db9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "最美新时代革命军人丨“帮战友们照亮向战冲锋的路”",
-      "url": "http://military.people.com.cn/n1/2026/0824/c1011-40784623.html",
-      "publishedDate": "2026-08-24"
+      "title": "佛山：“敢饮头啖汤”",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785406.html",
+      "publishedDate": "2026-08-25"
     },
     {
-      "id": "720b65fd74700ca4",
+      "id": "a77c6aa5a3284e50",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "悬于绝壁的古建明珠",
-      "url": "http://ent.people.com.cn/n1/2026/0824/c1012-40784653.html",
-      "publishedDate": "2026-08-24"
-    },
-    {
-      "id": "f46c668debcee5ab",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "海拔5373米,“银行驿站”到村口",
-      "url": "http://finance.people.com.cn/n1/2026/0824/c1004-40784675.html",
-      "publishedDate": "2026-08-24"
+      "title": "记者手记丨发展因共享更有温度",
+      "url": "http://world.people.com.cn/n1/2026/0825/c1002-40785407.html",
+      "publishedDate": "2026-08-25"
     }
   ],
-  "errors": [
-    {
-      "source": "qiushi",
-      "message": "未找到可用标题"
-    }
-  ]
+  "errors": []
 }
