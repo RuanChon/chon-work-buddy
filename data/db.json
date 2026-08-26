@@ -113,6 +113,14 @@
       "images": [],
       "audios": [],
       "createdAt": 1787124221576
+    },
+    {
+      "id": "de6861d7-1243-48f9-9e30-46ecf9887700",
+      "board": "analysis",
+      "text": "现价 = 原价 X 折扣，所以原价 = 现价 ➗ 折扣，不要和求基期搞混了",
+      "images": [],
+      "audios": [],
+      "createdAt": 1787731874029
     }
   ],
   "papers": [],
