@@ -5,11 +5,12 @@ import { uid, todayStr } from '../constants.js';
 export default function Plan() {
   const { data, apply } = useStore();
   const [longText, setLongText] = useState('');
-  const [dailyDate, setDailyDate] = useState(todayStr());
   const [dailyText, setDailyText] = useState('');
 
   const long = data.plans.filter((p) => p.kind === 'long');
-  const daily = data.plans.filter((p) => p.kind === 'daily' && p.date === dailyDate);
+  const daily = data.plans
+    .filter((p) => p.kind === 'daily')
+    .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
 
   function addLong(e) {
     e.preventDefault();
@@ -20,7 +21,7 @@ export default function Plan() {
   function addDaily(e) {
     e.preventDefault();
     if (!dailyText) return;
-    apply((d) => { d.plans.push({ id: uid(), kind: 'daily', date: dailyDate, text: dailyText, done: false }); });
+    apply((d) => { d.plans.push({ id: uid(), kind: 'daily', date: todayStr(), text: dailyText, done: false }); });
     setDailyText('');
   }
   function toggle(id) {
@@ -53,12 +54,10 @@ export default function Plan() {
       </section>
 
       <section>
-        <h3>每日计划表</h3>
-        <div className="row">
-          <input type="date" value={dailyDate} onChange={(e) => setDailyDate(e.target.value)} />
-        </div>
+        <h3>每日固定计划</h3>
+        <p className="muted">这里的计划会每天固定显示在首页，只有在这里删除才会移除。</p>
         <form className="row" onSubmit={addDaily}>
-          <input placeholder="今日计划项（做完可勾选划线）" value={dailyText} onChange={(e) => setDailyText(e.target.value)} />
+          <input placeholder="添加每天固定执行的计划" value={dailyText} onChange={(e) => setDailyText(e.target.value)} />
           <button className="btn primary" type="submit">添加</button>
         </form>
         <ul className="list">
@@ -71,7 +70,7 @@ export default function Plan() {
               <button className="btn ghost sm" onClick={() => del(p.id)}>删</button>
             </li>
           ))}
-          {daily.length === 0 && <li className="muted">这一天还没有计划</li>}
+          {daily.length === 0 && <li className="muted">还没有每日固定计划</li>}
         </ul>
       </section>
     </div>

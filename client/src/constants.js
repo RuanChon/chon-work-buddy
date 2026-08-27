@@ -22,10 +22,11 @@ export const BOARDS = [
   { key: 'math', name: '数量关系' },
   { key: 'analysis', name: '资料分析' },
   { key: 'politics', name: '政治与常识' },
+  { key: 'police', name: '公专' },
   { key: 'essay', name: '申论' }
 ];
 
-export const PAPER_TYPES = ['行测', '申论', '综应'];
+export const PAPER_TYPES = ['行测', '申论', '公专'];
 
 export const uid = () =>
   (crypto.randomUUID ? crypto.randomUUID() : 'id' + Date.now() + Math.random().toString(16).slice(2));

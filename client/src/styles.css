@@ -453,8 +453,10 @@ body {
 .home-todo-list {
   display: grid;
   gap: 8px;
+  max-height: 228px;
   margin: 0;
-  padding: 0;
+  padding: 0 4px 0 0;
+  overflow-y: auto;
   list-style: none;
 }
 .home-todo-list li {
@@ -477,6 +479,12 @@ body {
 .home-todo-list li.done span {
   color: var(--muted);
   text-decoration: line-through;
+}
+.todo-fixed-note {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.5;
 }
 .empty-action {
   width: 100%;

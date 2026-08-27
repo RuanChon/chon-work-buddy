@@ -50,9 +50,13 @@ export default function Home({ onNavigate }) {
     .filter((exam) => exam.date >= today)
     .sort((a, b) => a.date.localeCompare(b.date));
   const nextExam = upcomingExams[0];
-  const todayPlans = (data.plans || []).filter((item) => item.kind === 'daily' && item.date === today);
-  const completedPlans = todayPlans.filter((item) => item.done).length;
-  const planProgress = todayPlans.length ? Math.round((completedPlans / todayPlans.length) * 100) : 0;
+  // 首页固定展示所有“每日计划”，不因计划日期变化或勾选完成而移除。
+  // 只有学习计划模块中的删除操作会真正从数据中删除计划。
+  const dailyPlans = (data.plans || [])
+    .filter((item) => item.kind === 'daily')
+    .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const completedPlans = dailyPlans.filter((item) => item.done).length;
+  const planProgress = dailyPlans.length ? Math.round((completedPlans / dailyPlans.length) * 100) : 0;
 
   const togglePlan = (id) => {
     apply((draft) => {
@@ -168,20 +172,20 @@ export default function Home({ onNavigate }) {
           <div className="dashboard-card-head">
             <div>
               <span className="dashboard-kicker">每日计划 Todo</span>
-              <h3>今天完成 {completedPlans} / {todayPlans.length}</h3>
+              <h3>已完成 {completedPlans} / {dailyPlans.length}</h3>
             </div>
             <button className="card-link" type="button" onClick={() => onNavigate('plan')}>
               全部计划 →
             </button>
           </div>
 
-          <div className="todo-progress" aria-label={`今日计划完成 ${planProgress}%`}>
+          <div className="todo-progress" aria-label={`每日计划完成 ${planProgress}%`}>
             <span style={{ width: `${planProgress}%` }} />
           </div>
 
-          {todayPlans.length ? (
+          {dailyPlans.length ? (
             <ul className="home-todo-list">
-              {todayPlans.slice(0, 6).map((plan) => (
+              {dailyPlans.map((plan) => (
                 <li key={plan.id} className={plan.done ? 'done' : ''}>
                   <label>
                     <input type="checkbox" checked={plan.done} onChange={() => togglePlan(plan.id)} />
@@ -192,8 +196,11 @@ export default function Home({ onNavigate }) {
             </ul>
           ) : (
             <button className="empty-action" type="button" onClick={() => onNavigate('plan')}>
-              今天还没有计划，去添加一项
+              还没有每日计划，去添加一项
             </button>
+          )}
+          {dailyPlans.length > 0 && (
+            <p className="todo-fixed-note">计划会固定显示；如需移除，请前往“学习计划”删除。</p>
           )}
         </section>
 

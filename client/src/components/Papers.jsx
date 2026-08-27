@@ -55,7 +55,10 @@ export default function Papers() {
     })
   }
 
-  const list = data.papers.filter(p => p.type === type).sort((a, b) => a.date.localeCompare(b.date))
+  // “综应”已更名为“公专”；兼容历史记录，避免旧数据在切换分类后不可见。
+  const list = data.papers
+    .filter(p => p.type === type || (type === '公专' && p.type === '综应'))
+    .sort((a, b) => a.date.localeCompare(b.date))
   const avg = list.length ? Math.round(list.reduce((s, p) => s + p.score, 0) / list.length) : 0
   const option = {
     tooltip: { trigger: 'axis' },
