@@ -25,34 +25,6 @@
   ],
   "plans": [
     {
-      "id": "40a605d9-9ba9-4f8f-b3a2-3c9dcae9dbde",
-      "kind": "daily",
-      "date": "2026-07-29",
-      "text": "生成绩效模版，并建站",
-      "done": false
-    },
-    {
-      "id": "4e3648a8-4c79-4e52-8c58-ccbb84dd2378",
-      "kind": "daily",
-      "date": "2026-07-30",
-      "text": "okk",
-      "done": true
-    },
-    {
-      "id": "f78bb7a0-1ab7-4bb1-82b5-ceda88e23a91",
-      "kind": "daily",
-      "date": "2026-07-30",
-      "text": "生成绩效模板，对接飞书，生成系统",
-      "done": false
-    },
-    {
-      "id": "90728212-20e0-468b-9499-ac18172610e4",
-      "kind": "daily",
-      "date": "2026-07-30",
-      "text": "学习任务",
-      "done": true
-    },
-    {
       "id": "e7ed343e-27cb-455d-9834-1781142cb1fd",
       "kind": "daily",
       "date": "2026-08-27",
@@ -71,6 +43,13 @@
       "kind": "daily",
       "date": "2026-08-27",
       "text": "资料分析600题两篇",
+      "done": false
+    },
+    {
+      "id": "f66c1b5b-838e-4cee-923b-762c30f5739e",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "粉笔逻辑填空20题",
       "done": false
     }
   ],
@@ -162,7 +141,12 @@
       "e346997a-8ac4-4fab-80d0-20c9c9ab1d4d": 1785311110123
     },
     "practice": {},
-    "plans": {},
+    "plans": {
+      "90728212-20e0-468b-9499-ac18172610e4": 1787842018323,
+      "f78bb7a0-1ab7-4bb1-82b5-ceda88e23a91": 1787842021200,
+      "4e3648a8-4c79-4e52-8c58-ccbb84dd2378": 1787842022765,
+      "40a605d9-9ba9-4f8f-b3a2-3c9dcae9dbde": 1787842023430
+    },
     "mistakes": {},
     "papers": {}
   }
