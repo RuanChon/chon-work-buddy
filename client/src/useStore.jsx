@@ -50,6 +50,14 @@ export function StoreProvider({ children }) {
       const { client } = getSync();
       const res = await client.pushState(snapshot);
       revRef.current = res.rev || 0;
+      if (res.data) {
+        // GitHub 写入前会先与云端合并。必须把合并结果写回当前浏览器，
+        // 否则新浏览器首次配置 Token 后虽然云端同步成功，页面仍保持本地空数据。
+        const merged = mergeData(res.data, dataRef.current || snapshot || EMPTY_DATA);
+        dataRef.current = merged;
+        setData(merged);
+        persistLocal(merged);
+      }
       setStatus('synced');
       return res;
     };

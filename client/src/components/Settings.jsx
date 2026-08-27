@@ -36,7 +36,7 @@ export default function Settings({ onClose, onSaved }) {
           <p className="muted">
             把仓库当成共享数据库：数据存于 <code>data/db.json</code>。
             需一个<strong>仅限本仓库</strong>的 Fine-grained PAT（Contents 和 Actions 均为 Read &amp; Write）。
-            令牌只保存在你本机浏览器，不会上传。
+            未填写 Token 时仍可读取云端历史数据；填写后才能修改并同步。令牌只保存在当前浏览器，不会上传。
           </p>
           <label className="set-row"><span>Owner</span><input value={g.owner} onChange={(e) => setG('owner', e.target.value)} /></label>
           <label className="set-row"><span>Repo</span><input value={g.repo} onChange={(e) => setG('repo', e.target.value)} /></label>

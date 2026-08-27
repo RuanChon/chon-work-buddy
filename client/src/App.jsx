@@ -104,8 +104,8 @@ function Main() {
 
         {needToken && (
           <div className="notice">
-            当前为<strong>公网部署</strong>。点击侧边栏「同步与设置」，选择 GitHub
-            方式并填入仅限本仓库的 Token，数据即可实时同步到公网、在任意浏览器/设备间共享。
+            当前已从<strong>公网云端</strong>读取历史数据。若要在此浏览器新增或修改内容，请点击侧边栏
+            「同步与设置」，选择 GitHub 方式并填写仅限本仓库的 Token。
           </div>
         )}
 
