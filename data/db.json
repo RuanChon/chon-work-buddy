@@ -43,7 +43,7 @@
       "kind": "daily",
       "date": "2026-08-27",
       "text": "资料分析600题两篇",
-      "done": false
+      "done": true
     },
     {
       "id": "f66c1b5b-838e-4cee-923b-762c30f5739e",
@@ -71,6 +71,13 @@
       "kind": "daily",
       "date": "2026-08-27",
       "text": "粉笔逻辑判断20题",
+      "done": false
+    },
+    {
+      "id": "bf2532f1-4dbe-4cde-8d28-6dc13c605625",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "公专一节课",
       "done": false
     }
   ],
