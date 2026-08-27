@@ -51,6 +51,13 @@
       "date": "2026-07-30",
       "text": "学习任务",
       "done": true
+    },
+    {
+      "id": "e7ed343e-27cb-455d-9834-1781142cb1fd",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "速算一篇",
+      "done": false
     }
   ],
   "mistakes": [
