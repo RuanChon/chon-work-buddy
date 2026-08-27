@@ -51,6 +51,27 @@
       "date": "2026-08-27",
       "text": "粉笔逻辑填空20题",
       "done": false
+    },
+    {
+      "id": "147a5c9e-5467-4faa-9e45-70a23703b6c4",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "粉笔片段15题",
+      "done": false
+    },
+    {
+      "id": "b416a85e-7a95-4226-b9db-e26ec0ed3dfa",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "粉笔图推15题",
+      "done": false
+    },
+    {
+      "id": "3cbb99d1-3b7e-4bf7-827e-6442d3643ab0",
+      "kind": "daily",
+      "date": "2026-08-27",
+      "text": "粉笔逻辑判断20题",
+      "done": false
     }
   ],
   "mistakes": [
