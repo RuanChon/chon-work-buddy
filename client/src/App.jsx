@@ -35,10 +35,11 @@ function StatusBadge() {
 }
 
 function Main() {
-  const { syncNow, status } = useStore()
+  const { pullNow, syncNow, status } = useStore()
   const [sec, setSec] = useState('home')
   const [showSettings, setShowSettings] = useState(false)
   const [toast, setToast] = useState(null)
+  const [syncAction, setSyncAction] = useState(null)
   const toastTimer = useRef(null)
 
   const isPublic = typeof location !== 'undefined' && location.hostname.endsWith('github.io')
@@ -78,6 +79,28 @@ function Main() {
     )
   }
 
+  const handlePull = async () => {
+    setSyncAction('pull')
+    const ok = await pullNow()
+    setSyncAction(null)
+    flash(ok ? '已从云端拉取，并与当前浏览器数据安全合并' : '拉取失败，请检查网络或同步设置', 3600)
+  }
+
+  const handleUpload = async () => {
+    const currentSettings = loadSettings()
+    const canUpload = currentSettings.mode === 'github' && !!currentSettings.github?.token
+    if (isPublic && !canUpload) {
+      setShowSettings(true)
+      flash('上传前请先在「同步与设置」中填写 GitHub Token', 3600)
+      return
+    }
+
+    setSyncAction('upload')
+    const ok = await syncNow()
+    setSyncAction(null)
+    flash(ok ? '本地数据已与云端合并并上传' : '上传失败，请检查网络和 Token 权限', 3600)
+  }
+
   return (
     <div className="app">
       <Sidebar
@@ -85,7 +108,10 @@ function Main() {
         active={sec}
         onSelect={handleSectionSelect}
         onSettings={() => setShowSettings(v => !v)}
+        onPull={handlePull}
+        onUpload={handleUpload}
         syncStatus={status}
+        syncAction={syncAction}
       />
       <div className="content">
         <header className="topbar">

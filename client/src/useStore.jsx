@@ -104,6 +104,30 @@ export function StoreProvider({ children }) {
     }
   }, [pushState]);
 
+  // 手动从同步后端拉取并与当前浏览器数据做安全合并。
+  // 拉取不会直接覆盖本地数据，避免尚未上传的本地记录意外丢失。
+  const pullNow = useCallback(async () => {
+    clearTimeout(pushTimer.current);
+    setStatus('saving');
+    try {
+      // 等待可能正在进行的上传结束，再读取最新的云端版本。
+      await pushQueue.current.catch(() => {});
+      const { client } = getSync();
+      const remote = await client.fetchState();
+      const merged = mergeData(remote.data, dataRef.current || EMPTY_DATA);
+      dataRef.current = merged;
+      setData(merged);
+      persistLocal(merged);
+      revRef.current = remote.rev || 0;
+      setStatus('synced');
+      return true;
+    } catch (e) {
+      console.warn('pull failed', e);
+      setStatus('offline');
+      return false;
+    }
+  }, []);
+
   useEffect(() => {
     let alive = true;
     const localData = loadLocal() || EMPTY_DATA;
@@ -164,7 +188,7 @@ export function StoreProvider({ children }) {
     };
   }, []);
 
-  return <Ctx.Provider value={{ data, apply, syncNow, status }}>{children}</Ctx.Provider>;
+  return <Ctx.Provider value={{ data, apply, pullNow, syncNow, status }}>{children}</Ctx.Provider>;
 }
 
 export const useStore = () => useContext(Ctx);
