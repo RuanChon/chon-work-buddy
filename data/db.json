@@ -177,5 +177,13 @@
     },
     "mistakes": {},
     "papers": {}
+  },
+  "dailyPlanStatus": {
+    "2026-08-28": {
+      "e7ed343e-27cb-455d-9834-1781142cb1fd": {
+        "done": true,
+        "updatedAt": 1787890513209
+      }
+    }
   }
 }
