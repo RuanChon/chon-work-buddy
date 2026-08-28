@@ -11,6 +11,9 @@ export default function Plan() {
   const daily = data.plans
     .filter((p) => p.kind === 'daily')
     .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const today = todayStr();
+  const todayPlanStatus = data.dailyPlanStatus?.[today] || {};
+  const isDailyDone = (plan) => !!todayPlanStatus[plan.id]?.done;
 
   function addLong(e) {
     e.preventDefault();
@@ -25,10 +28,25 @@ export default function Plan() {
     setDailyText('');
   }
   function toggle(id) {
-    apply((d) => { const it = d.plans.find((x) => x.id === id); if (it) it.done = !it.done; });
+    apply((d) => {
+      const it = d.plans.find((x) => x.id === id);
+      if (!it) return;
+      if (it.kind !== 'daily') {
+        it.done = !it.done;
+        return;
+      }
+      d.dailyPlanStatus ||= {};
+      d.dailyPlanStatus[today] ||= {};
+      const previous = d.dailyPlanStatus[today][id];
+      d.dailyPlanStatus[today][id] = { done: !previous?.done, updatedAt: Date.now() };
+      it.done = false;
+    });
   }
   function del(id) {
-    apply((d) => { d.plans = d.plans.filter((x) => x.id !== id); });
+    apply((d) => {
+      d.plans = d.plans.filter((x) => x.id !== id);
+      for (const dailyStatus of Object.values(d.dailyPlanStatus || {})) delete dailyStatus[id];
+    });
   }
 
   return (
@@ -62,9 +80,9 @@ export default function Plan() {
         </form>
         <ul className="list">
           {daily.map((p) => (
-            <li key={p.id} className={p.done ? 'done' : ''}>
+            <li key={p.id} className={isDailyDone(p) ? 'done' : ''}>
               <label>
-                <input type="checkbox" checked={p.done} onChange={() => toggle(p.id)} />
+                <input type="checkbox" checked={isDailyDone(p)} onChange={() => toggle(p.id)} />
                 <span>{p.text}</span>
               </label>
               <button className="btn ghost sm" onClick={() => del(p.id)}>删</button>

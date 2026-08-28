@@ -19,6 +19,7 @@ const EMPTY = {
     mistakes: [],
     papers: [],
     checkins: {},
+    dailyPlanStatus: {},
     settings: {},
     _deleted: {
       exams: {},
@@ -81,11 +82,29 @@ function mergeState(clientData) {
     result._deleted[col] = deleted;
   }
   result.checkins = { ...(serverData.checkins || {}), ...(clientData.checkins || {}) };
+  result.dailyPlanStatus = mergeDailyPlanStatus(
+    serverData.dailyPlanStatus,
+    clientData.dailyPlanStatus
+  );
   result.settings = { ...(serverData.settings || {}), ...(clientData.settings || {}) };
   c.data = result;
   c.rev = (c.rev || 0) + 1;
   schedulePersist();
   return { rev: c.rev, data: c.data };
+}
+
+function mergeDailyPlanStatus(serverStatus = {}, clientStatus = {}) {
+  const result = JSON.parse(JSON.stringify(serverStatus || {}));
+  for (const [date, clientPlans] of Object.entries(clientStatus || {})) {
+    result[date] ||= {};
+    for (const [planId, clientValue] of Object.entries(clientPlans || {})) {
+      const serverValue = result[date][planId];
+      const clientUpdatedAt = Number(clientValue?.updatedAt || 0);
+      const serverUpdatedAt = Number(serverValue?.updatedAt || 0);
+      if (!serverValue || clientUpdatedAt >= serverUpdatedAt) result[date][planId] = clientValue;
+    }
+  }
+  return result;
 }
 
 module.exports = { getState, mergeState, FILES_DIR };

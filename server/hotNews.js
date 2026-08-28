@@ -110,6 +110,7 @@ async function fetchSource(source, today) {
     }))
   );
   const seen = new Set();
+  const seenUrls = new Set();
   const candidates = [];
 
   for (const result of pageResults) {
@@ -125,8 +126,9 @@ async function fetchSource(source, today) {
       if (!url || !source.accepts(url)) return;
 
       const key = title.toLocaleLowerCase('zh-CN');
-      if (seen.has(key)) return;
+      if (seen.has(key) || seenUrls.has(url.href)) return;
       seen.add(key);
+      seenUrls.add(url.href);
 
       candidates.push({
         id: crypto.createHash('sha1').update(`${source.id}:${url.href}`).digest('hex').slice(0, 16),
@@ -240,5 +242,6 @@ module.exports = {
   HOT_NEWS_FILE,
   readHotNews,
   scheduleHotNewsRefresh,
+  shanghaiNowParts,
   updateHotNews
 };

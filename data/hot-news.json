@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-27T05:14:39.637Z",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T01:36:26.532Z",
   "sources": [
     {
       "id": "people",
@@ -15,302 +15,280 @@
   ],
   "items": [
     {
-      "id": "b8fe4e16b792f923",
+      "id": "0adb505fb22e2fe6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "《习近平文化文选》第一卷、第二卷出版发行",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c1001-40787482.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "badbb5c364f4d4e5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "推动构建更加公正合理的全球治理体系",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c461001-40787477.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "5ed5f8f15cec2803",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "十四届人大常委会举行第七十二次委员长会议 赵乐际主持",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c1024-40787478.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "3c9e9331e0c9c286",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "在国际比较中把握全过程人民民主",
+      "url": "http://opinion.people.com.cn/n1/2026/0828/c461530-40787508.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "011ba9b682f40ba0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "以学习跑赢时光、赢得荣光",
+      "url": "http://opinion.people.com.cn/n1/2026/0828/c461529-40787498.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "47885d369338e253",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国汽车“群星闪耀”",
-      "url": "http://finance.people.com.cn/n1/2026/0827/c1004-40786774.html",
-      "publishedDate": "2026-08-27"
+      "title": "透视新能源汽车产业:内卷,须用新市场逻辑分析",
+      "url": "http://finance.people.com.cn/n1/2026/0828/c1004-40787479.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "f47cfca29ea3e39f",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "巩固团结互信 深化务实合作——写在习近平主席即将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问之际",
-      "url": "https://www.qstheory.cn/20260827/efa85f53f9e14e7d9ca9b80a3859f936/c.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "7dcb7326dd0915b1",
+      "id": "c4748f20c6cdbf1b",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李强在黑龙江、吉林调研",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c1024-40786768.html",
-      "publishedDate": "2026-08-27"
+      "topic": "综合",
+      "title": "安徽下好创新先手棋",
+      "url": "http://finance.people.com.cn/n1/2026/0828/c1004-40787480.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "8d0c0b419f5a1eef",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "深化团结协作 擘画合作蓝图",
-      "url": "https://www.qstheory.cn/20260827/7dfecec3c57745fc8fd066637779ba40/c.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "c6ea645778d15f38",
+      "id": "a6193ca33f086bbf",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赵乐际同全国人大常委会会议列席代表座谈",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c1024-40786769.html",
-      "publishedDate": "2026-08-27"
+      "topic": "综合",
+      "title": "高质量发展故事汇|能源的饭碗必须端在自己手里",
+      "url": "http://finance.people.com.cn/n1/2026/0828/c1004-40787507.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "630654a41cd409a3",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "汇聚建设科技强国的磅礴力量",
-      "url": "https://www.qstheory.cn/20260827/db5e1c7c6ba7439caaf31d6d23546c6f/c.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "5b4d227596786585",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "全国政协十四届常委会第十八次会议闭幕 王沪宁主持",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c1024-40786770.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "b736d7ff72ad8c2f",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "“十五五”，中国制造业这样争“先”",
-      "url": "https://www.qstheory.cn/20260827/1c72b4523c2d45e8b30bae55ce54f3e6/c.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "ec237e8fa10b6187",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "丁薛祥在安徽合肥出席财政科学管理试点座谈会",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c1024-40786771.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "6facf9ff11bee09f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "今日谈|用好考核指挥棒",
-      "url": "http://opinion.people.com.cn/n1/2026/0827/c461529-40786773.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "f918f916ac424c4c",
+      "id": "4ce727a0f7392c50",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "西藏吉隆泥石流灾害救出2人,3人遇难、558人失联",
-      "url": "http://society.people.com.cn/n1/2026/0827/c1008-40787255.html",
-      "publishedDate": "2026-08-27"
+      "title": "台风“沙德尔”在浙江龙湾二次登陆",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787868.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "f71a339b12e0c105",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "海南琼海:用好红色资源 激发奋进力量",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786788.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "cf91a8f14a04de80",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "台风\"沙德尔\"预计28日登陆 警惕多地大暴雨",
-      "url": "http://society.people.com.cn/n1/2026/0827/c1008-40787286.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "aaafc1fe8fa738bf",
+      "id": "de696b1e286cb2b4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "一艘油轮在霍尔木兹海峡被击中",
-      "url": "http://world.people.com.cn/n1/2026/0827/c1002-40787183.html",
-      "publishedDate": "2026-08-27"
+      "title": "斯诺克武汉公开赛:赵心童、肖国栋、常冰玉晋级四强",
+      "url": "http://ent.people.com.cn/n1/2026/0828/c1012-40787468.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "2243d66fb09e69ed",
+      "id": "859e14a47bb6ab2b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "元宇宙愿支付最高170亿美元和解社交媒体成瘾诉讼",
-      "url": "http://world.people.com.cn/n1/2026/0827/c1002-40786765.html",
-      "publishedDate": "2026-08-27"
+      "title": "中国男篮世界杯预选赛战胜卡塔尔队",
+      "url": "http://ent.people.com.cn/n1/2026/0828/c1012-40787475.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "b16f14083509823a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "内蒙古满洲里：百年口岸通关忙",
-      "url": "http://pic.people.com.cn/n1/2026/0827/c1016-40787174.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "367e50dc61972bc1",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "8秒64，机器人“百米飞人赛”实现突破",
-      "url": "http://pic.people.com.cn/n1/2026/0827/c1016-40787157.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "08628dca9999c514",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "行进中国 | 重卡换“口粮”",
-      "url": "http://sx.people.com.cn/n2/2026/0827/c189132-41679053.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "fe54a8dd0e0356b3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中俄记者感受科技魅力",
-      "url": "http://pic.people.com.cn/n1/2026/0827/c1016-40787271.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "f8d50d9c3b10f4bb",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "为生态文明建设提供坚实法治保障",
-      "url": "http://theory.people.com.cn/n1/2026/0827/c40531-40786984.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "ab6e9179f07b5e8f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从党章中感悟正确政绩观",
-      "url": "http://dangjian.people.com.cn/n1/2026/0827/c117092-40787044.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "c766d2a6fd5770b2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "湖南发布省委管理干部任前公示公告",
-      "url": "http://renshi.people.com.cn/n1/2026/0827/c139617-40787043.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "66de36a122268c5d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "广州市黄埔区不断完善容错纠错机制",
-      "url": "http://fanfu.people.com.cn/n1/2026/0827/c64371-40786906.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "0939207cc3d13541",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "遵义三日 伟大转折",
-      "url": "http://cpc.people.com.cn/n1/2026/0827/c443712-40786990.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "1d61828ed97e1417",
+      "id": "19a977bbe94061ba",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "王毅会见美国驻华大使庞德伟",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c1001-40787289.html",
-      "publishedDate": "2026-08-27"
+      "url": "http://politics.people.com.cn/n1/2026/0828/c1001-40787490.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "3969130c6bfbbc84",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "奥地利国民议会议长将访华",
-      "url": "http://world.people.com.cn/n1/2026/0827/c1002-40787281.html",
-      "publishedDate": "2026-08-27"
-    },
-    {
-      "id": "a23731135928bcdb",
+      "id": "3e124ba56b734268",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "十四届全国人大常委会第二十四次会议审议多部法律草案和报告",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786794.html",
-      "publishedDate": "2026-08-27"
+      "title": "十四届全国人大常委会第二十四次会议审议多部报告和法律草案",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c461001-40787503.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "b320b516363f5d21",
+      "id": "2f3c5368cebbc60c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "加大保障和改善民生力度，扎实推进全体人民共同富裕",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786837.html",
-      "publishedDate": "2026-08-27"
+      "title": "7月全国查处违反中央八项规定精神问题27995起",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c461001-40787494.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "e6a55c7cd78333ff",
+      "id": "6d6348d8d8eabd6c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "前7个月全国规模以上工业企业利润增长17.6%",
-      "url": "http://finance.people.com.cn/n1/2026/0827/c1004-40787285.html",
-      "publishedDate": "2026-08-27"
+      "title": "外交部：中方正同尼方密切沟通 共同做好搜救工作",
+      "url": "http://world.people.com.cn/n1/2026/0828/c1002-40787486.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "f61df081c3c78fc2",
+      "id": "feb15f4a0b2cdb7f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "书写“人民公安为人民”崭新篇章",
-      "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786795.html",
-      "publishedDate": "2026-08-27"
+      "title": "“九五”普法从政策驱动向依法实施转变",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c461001-40787495.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "86fe433468664b6f",
+      "id": "bf3d4cce1b851388",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "财政科学管理试点一年：把“紧日子”过出“高效能”",
+      "url": "http://politics.people.com.cn/n1/2026/0828/c461001-40787504.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "86e00519f8a0a2b6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "西部战区指导组赴西藏组织子弟兵救援",
-      "url": "http://military.people.com.cn/n1/2026/0827/c1011-40787221.html",
-      "publishedDate": "2026-08-27"
+      "title": "坚守初心正道 勇担时代使命",
+      "url": "http://media.people.com.cn/n1/2026/0828/c14677-40787506.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "f88ab3cd735377bd",
+      "id": "be5373a460f3a954",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中吉务实合作驶入快车道",
+      "url": "http://world.people.com.cn/n1/2026/0828/c1002-40787483.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "286f6093ea7d295c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "贡献上合智慧 推进中吉友好",
+      "url": "http://world.people.com.cn/n1/2026/0828/c1002-40787485.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "1efba59511f9393e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨无法割裂的血脉联结",
+      "url": "http://opinion.people.com.cn/n1/2026/0828/c461529-40787499.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "457ac1cc703750c0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨为强国建设培养更多“会创造的人”",
+      "url": "http://opinion.people.com.cn/n1/2026/0828/c461530-40787509.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "3408e0272669556d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "国网西藏电力加大保电力量",
-      "url": "http://society.people.com.cn/n1/2026/0827/c1008-40787184.html",
-      "publishedDate": "2026-08-27"
+      "title": "多地巧用地铁角落打造便民纳凉处",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787511.html",
+      "publishedDate": "2026-08-28"
     },
     {
-      "id": "d0fde2dd6dccdc70",
+      "id": "508eec737755d7de",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "车站有清凉 城市有温暖",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787512.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "05170db97667b68e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "《中国新闻工作者职业道德准则》颁布实施35周年座谈会在京召开",
-      "url": "http://media.people.com.cn/n1/2026/0827/c14677-40786803.html",
-      "publishedDate": "2026-08-27"
+      "title": "长白山下，像苹果的梨成了“金果果”",
+      "url": "http://finance.people.com.cn/n1/2026/0828/c1004-40787530.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "a96dda89f0c3790b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "上海这个社区，让骑手变成“自家人”",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787533.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "67ab3259d5434fcb",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "家庭医生签约服务，何以提升感受度",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787520.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "b00c46529b61989e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "当好“健康守门人”",
+      "url": "http://society.people.com.cn/n1/2026/0828/c1008-40787521.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "5bf05c4f0e4639ef",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“丝路友好使者”：讲好丝路故事 传承丝路精神",
+      "url": "http://world.people.com.cn/n1/2026/0828/c1002-40787522.html",
+      "publishedDate": "2026-08-28"
+    },
+    {
+      "id": "377683ed53a5268e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "AI越“懂你”，越要保持清醒",
+      "url": "http://world.people.com.cn/n1/2026/0828/c1002-40787524.html",
+      "publishedDate": "2026-08-28"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "qiushi",
+      "message": "未找到可用标题"
+    }
+  ]
 }

@@ -51,7 +51,24 @@ export function mergeData(serverData, clientData) {
     result._deleted[col] = deleted;
   }
   result.checkins = { ...(s.checkins || {}), ...(c.checkins || {}) };
+  result.dailyPlanStatus = mergeDailyPlanStatus(s.dailyPlanStatus, c.dailyPlanStatus);
   result.settings = { ...(s.settings || {}), ...(c.settings || {}) };
+  return result;
+}
+
+function mergeDailyPlanStatus(serverStatus = {}, clientStatus = {}) {
+  const result = JSON.parse(JSON.stringify(serverStatus || {}));
+  for (const [date, clientPlans] of Object.entries(clientStatus || {})) {
+    result[date] ||= {};
+    for (const [planId, clientValue] of Object.entries(clientPlans || {})) {
+      const serverValue = result[date][planId];
+      const clientUpdatedAt = Number(clientValue?.updatedAt || 0);
+      const serverUpdatedAt = Number(serverValue?.updatedAt || 0);
+      if (!serverValue || clientUpdatedAt >= serverUpdatedAt) {
+        result[date][planId] = clientValue;
+      }
+    }
+  }
   return result;
 }
 
