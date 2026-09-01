@@ -718,6 +718,156 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 22px;
 }
+
+/* Learning path */
+.learning-path {
+  width: 100%;
+  margin: 0 auto;
+}
+.route-intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+.route-eyebrow {
+  color: var(--primary);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+.route-intro h2 {
+  margin: 5px 0;
+  color: var(--text);
+  font-size: 22px;
+}
+.route-intro p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+.route-modules {
+  --route-module-gap: clamp(12px, 1.5vw, 20px);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--route-module-gap);
+}
+.route-module {
+  overflow: hidden;
+  width: auto;
+  height: 100%;
+  min-width: 0;
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--card);
+  box-shadow: 0 10px 32px rgba(31, 37, 51, 0.06);
+}
+.route-module-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--line);
+}
+.route-module-head h3 {
+  margin: 0;
+  color: var(--text);
+  font-size: 16px;
+}
+.route-module-head > span {
+  flex: none;
+  padding: 4px 8px;
+  border-radius: 7px;
+  background: #f2f5ff;
+  color: var(--primary);
+  font-size: 11px;
+  font-weight: 600;
+}
+.route-table-wrap {
+  overflow-x: auto;
+}
+.route-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.route-table th,
+.route-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #edf0f5;
+  text-align: left;
+  vertical-align: middle;
+}
+.route-table th {
+  background: #f7f8fc;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+}
+.route-table td {
+  color: #344056;
+  font-size: 13px;
+}
+.route-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+.route-table tbody tr {
+  transition: background 0.18s ease;
+}
+.route-table tbody tr:hover {
+  background: #fbfcff;
+}
+.route-table th:nth-child(1),
+.route-table td:nth-child(1) { width: 22%; }
+.route-table th:nth-child(2),
+.route-table td:nth-child(2) { width: 25%; }
+.route-table th:nth-child(3),
+.route-table td:nth-child(3) { width: 25%; }
+.route-table th:nth-child(4),
+.route-table td:nth-child(4) { width: 28%; }
+.route-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.route-teacher {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 4px;
+}
+.route-tag {
+  display: inline-flex;
+  align-items: center;
+  min-height: 22px;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #eef2ff;
+  color: var(--primary);
+  font-size: 12px;
+  line-height: 1;
+  white-space: nowrap;
+}
+.route-muted,
+.route-note-muted {
+  color: #9aa1af;
+  font-style: normal;
+}
+@media (min-width: 1050px) {
+  .route-modules {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1280px) {
+  .route-modules {
+    min-height: calc(100vh - 220px);
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+  }
+}
 @media (max-width: 820px) {
   html,
   body,
@@ -734,6 +884,11 @@ body {
   }
   .two-col {
     grid-template-columns: 1fr;
+  }
+  .route-intro {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 14px;
   }
   .home-dashboard {
     grid-template-areas: 'countdown' 'todo' 'news';
@@ -1398,5 +1553,45 @@ textarea {
   .thumb {
     width: 72px;
     height: 72px;
+  }
+  .route-module {
+    border-radius: 14px;
+  }
+  .route-table thead {
+    display: none;
+  }
+  .route-table,
+  .route-table tbody,
+  .route-table tr,
+  .route-table td {
+    display: block;
+    width: 100%;
+  }
+  .route-table tbody {
+    padding: 4px 0;
+  }
+  .route-table tr {
+    padding: 8px 0;
+    border-bottom: 1px solid #edf0f5;
+  }
+  .route-table tbody tr:last-child {
+    border-bottom: 0;
+  }
+  .route-table td,
+  .route-table td:nth-child(n) {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 72px minmax(0, 1fr);
+    gap: 10px;
+    padding: 5px 14px;
+    border: 0;
+    line-height: 1.55;
+  }
+  .route-table td::before {
+    color: var(--muted);
+    content: attr(data-label);
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
   }
 }

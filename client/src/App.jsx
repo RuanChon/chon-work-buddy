@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar.jsx'
 import Countdown from './components/Countdown.jsx'
 import Practice from './components/Practice.jsx'
 import Plan from './components/Plan.jsx'
+import LearningPath from './components/LearningPath.jsx'
 import Mistakes from './components/Mistakes.jsx'
 import Checkin from './components/Checkin.jsx'
 import Papers from './components/Papers.jsx'
@@ -14,6 +15,7 @@ import { loadSettings } from './sync.js'
 
 const SECTIONS = [
   { key: 'home', name: '首页' },
+  { key: 'learning-path', name: '学习路线' },
   { key: 'countdown', name: '考试倒计时' },
   { key: 'practice', name: '每日刷题' },
   { key: 'plan', name: '学习计划' },
@@ -142,6 +144,7 @@ function Main() {
           {sec === 'countdown' && <Countdown />}
           {sec === 'practice' && <Practice />}
           {sec === 'plan' && <Plan />}
+          {sec === 'learning-path' && <LearningPath />}
           {sec === 'mistakes' && <Mistakes />}
           {sec === 'checkin' && <Checkin />}
           {sec === 'papers' && <Papers />}
