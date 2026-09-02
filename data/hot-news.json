@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T01:55:13.365Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T01:09:43.378Z",
   "sources": [
     {
       "id": "people",
@@ -15,292 +15,337 @@
   ],
   "items": [
     {
-      "id": "3395143cf80cbdeb",
+      "id": "44d1e49a0f38cb37",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789768.html",
-      "publishedDate": "2026-09-01"
+      "title": "习近平抵达开罗对埃及进行国事访问",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1024-40790685.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "722418465c2b23ce",
+      "id": "471c5c8da719796e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平抵达埃及开罗国际机场发表书面讲话",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1024-40790606.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "83d8d5c3baa33de9",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平在埃及媒体发表署名文章",
-      "url": "https://www.qstheory.cn/20260901/c5aef1ef0e4845299973245f70d6cfad/c.html",
-      "publishedDate": "2026-09-01"
+      "title": "习近平抵达开罗国际机场发表书面讲话",
+      "url": "https://www.qstheory.cn/20260902/ca2ef991327446679be106d8cdeb9605/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "55474b38e9704045",
+      "id": "d7a7e8f007c75fe0",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789763.html",
-      "publishedDate": "2026-09-01"
+      "topic": "时政",
+      "title": "为深化中埃全面战略伙伴关系擘画新蓝图",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790681.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "924032a6c573b69a",
+      "id": "27bf7b2c16c389cc",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "永久的友好近邻 真诚的合作伙伴",
-      "url": "https://www.qstheory.cn/20260901/bd62800410e745fca236b30fa3228987/c.html",
-      "publishedDate": "2026-09-01"
+      "title": "埃及总统夫妇热情迎接",
+      "url": "https://www.qstheory.cn/20260902/2f63b94e4d1640ef93af27e5aa5c4500/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "aed37abe124e28d0",
+      "id": "0535813c17dfa819",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "永久睦邻友好合作条约",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789762.html",
-      "publishedDate": "2026-09-01"
+      "topic": "时政",
+      "title": "为推动上海合作组织实现更高质量发展汇聚合力",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790682.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "caf59c045464c4ad",
+      "id": "bea530ac9b5b5481",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "深入推进基础教育高质量发展",
-      "url": "https://www.qstheory.cn/20260901/13f12564d7ec4a5e8cbe2a0164aeab9d/c.html",
-      "publishedDate": "2026-09-01"
+      "title": "习近平主席在署名文章中这样阐述发展中埃关系",
+      "url": "https://www.qstheory.cn/20260902/4ebac23511d34555bc269a90f8c7690f/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "96406403208c3d55",
+      "id": "658ede031e03a2c3",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平主席推动上海合作组织发展金句",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789755.html",
-      "publishedDate": "2026-09-01"
+      "topic": "综合",
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790679.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "0cc2a6f0315d26d8",
+      "id": "f9aecbe054a4bde7",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "强化教育对科技和人才的支撑作用",
-      "url": "https://www.qstheory.cn/20260901/1dc9d8abe85f47d4b1d7724096d33f72/c.html",
-      "publishedDate": "2026-09-01"
+      "title": "引埃各界强烈共鸣",
+      "url": "https://www.qstheory.cn/20260902/2f71b6178dc341fcbd75957f9ec20512/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "37748d4bdfe276df",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平在埃及媒体发表署名文章《风雨同舟七十载,踔厉奋发新征程》",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789769.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "6d45f4a766667841",
+      "id": "0e7198ce676aa819",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "埃及总统塞西在人民日报发表署名文章《携手共创埃中两国人民及全人类更加繁荣未来》",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789748.html",
-      "publishedDate": "2026-09-01"
+      "title": "推动上海合作组织发展的中国行动成果清单",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790678.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "954a65f634e8ce48",
-      "source": "people",
-      "sourceName": "人民网",
+      "id": "a7a3600fd5be19b2",
+      "source": "qiushi",
+      "sourceName": "求是网",
       "topic": "时政",
-      "title": "彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789761.html",
-      "publishedDate": "2026-09-01"
+      "title": "为中埃友好合作注入信心和力量",
+      "url": "https://www.qstheory.cn/20260902/a06b1f0cfb6142e0bb9c213cdd71c376/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "06f1bcecad978a05",
+      "id": "d5364ba0df238e34",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "赓续传统友谊 加强交流合作",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789752.html",
-      "publishedDate": "2026-09-01"
+      "title": "关于加强核安全与核安保多边伙伴关系的宣言、",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790677.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "e8434e846b551519",
+      "id": "f4064b637e699b47",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "新华社评论员：勇担历史责任，共谱上合新篇",
+      "url": "https://www.qstheory.cn/20260902/55fa847674764cf1914347a6a764b4e8/c.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "3a62457eae4b739d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国际观澜|构建埃中关系的\"共同叙事\"",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789751.html",
-      "publishedDate": "2026-09-01"
+      "title": "加强对受紧急情况影响的国家援助响应能力的声明",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790676.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "34a25c1215bcc51e",
-      "source": "people",
-      "sourceName": "人民网",
+      "id": "e80ef4e1ddfede01",
+      "source": "qiushi",
+      "sourceName": "求是网",
       "topic": "时政",
-      "title": "文章强调，党要管党，才能管好党；从严治党，才能治好党",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789764.html",
-      "publishedDate": "2026-09-01"
+      "title": "深学细悟习近平党建思想“总论”",
+      "url": "https://www.qstheory.cn/20260902/92bfae73139b4afcb8dbf0e93b92981b/c.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "f191622b40f57420",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李强主持召开国务院常务会议",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789760.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "29f491875427ec17",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赵乐际同奥地利国民议会议长罗森克兰茨会谈",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789759.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "0af14eabd27c32f0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王沪宁会见奥地利国民议会议长罗森克兰茨",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789758.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "fff271be29bc67bc",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "丁薛祥将赴俄罗斯出席第十一届东方经济论坛",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789757.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "eb52bb58406176ba",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "如常凭什么非凡常",
-      "url": "http://opinion.people.com.cn/n1/2026/0901/c461529-40789809.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "210c6dbce2a141b0",
+      "id": "cedeb6d023e44bbd",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "创新驱动发展、拓展有效投资的有力抓手",
-      "url": "http://finance.people.com.cn/n1/2026/0901/c1004-40789816.html",
-      "publishedDate": "2026-09-01"
+      "title": "中埃两大文明双向奔赴",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790673.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "4ec1beb4ed610e08",
+      "id": "b9bb9d7db611416b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "文明对话的生动典范",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790672.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "ad8962b13d1091ae",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "\"共同建设更长、更宽、更坚固的埃中友谊之桥\"",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790669.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "7fe28c4d2783aec2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "和音丨共同推动中吉命运共同体建设走深走实",
+      "url": "http://opinion.people.com.cn/n1/2026/0902/c461529-40790671.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "3bf12a14467b72b8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "深学细悟习近平党建思想\"总论\"",
+      "url": "http://opinion.people.com.cn/n1/2026/0902/c461530-40790654.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "0c015c427a34714b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李强会见美中贸易全国委员会董事会代表团",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1024-40790675.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "117a08120aea9f87",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "权威发布|展示经贸合作成果 提升开放合作能级",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c461001-40790628.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "fa0da1dbded022e5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "念好创新\"融\"字诀",
+      "url": "http://opinion.people.com.cn/n1/2026/0902/c461529-40790666.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "478241655da290e3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "\"中国经济圆桌会\"聚焦科技创新引领产业升级",
+      "url": "http://finance.people.com.cn/n1/2026/0902/c1004-40790622.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "52a489353a50a331",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "30年,从老京九到新京港",
+      "url": "http://finance.people.com.cn/n1/2026/0902/c1004-40790627.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "3a656eaff3d91015",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "\"我们一直在,再难也不放弃\"",
-      "url": "http://society.people.com.cn/n1/2026/0901/c1008-40789827.html",
-      "publishedDate": "2026-09-01"
+      "title": "全力抢通最后一段路",
+      "url": "http://society.people.com.cn/n1/2026/0902/c1008-40790637.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "2e04139510e4f081",
+      "id": "958b1b3e76fc1146",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "小农机闯入海外大市场",
-      "url": "http://finance.people.com.cn/n1/2026/0901/c1004-40789819.html",
-      "publishedDate": "2026-09-01"
+      "title": "从1.4亿人\"全球购\"看中国机遇2.0",
+      "url": "http://finance.people.com.cn/n1/2026/0902/c1004-40790643.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "3760c0dba53fbf9c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "把支部建在\"车轮上\"",
-      "url": "http://society.people.com.cn/n1/2026/0901/c1008-40789802.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "6bc5e34722d29cd5",
+      "id": "64ddf1a84681564b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "2026年暑期档电影票房为124.98亿元",
-      "url": "http://ent.people.com.cn/n1/2026/0901/c1012-40790173.html",
-      "publishedDate": "2026-09-01"
+      "title": "财米油盐|品牌连锁打开县域消费新空间",
+      "url": "http://finance.people.com.cn/n1/2026/0902/c1004-40790618.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "958b4ce4de7bb2d7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "台风\"沙德尔\"复活 中央气象台发布台风蓝色预警",
-      "url": "http://society.people.com.cn/n1/2026/0901/c1008-40789847.html",
-      "publishedDate": "2026-09-01"
-    },
-    {
-      "id": "e1096d1c3f6f8d51",
+      "id": "16296709d0e5d517",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美伊再度交火 布伦特油价站上每桶90美元",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789750.html",
-      "publishedDate": "2026-09-01"
+      "title": "每天超2亿人次绿色出行,太行了!",
+      "url": "http://env.people.com.cn/n1/2026/0902/c1010-40790658.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "eaca4c8b81b1a03d",
+      "id": "9f1f7b5525de4888",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "涵养风清气正政治生态",
-      "url": "http://dangjian.people.com.cn/n1/2026/0901/c117092-40790117.html",
-      "publishedDate": "2026-09-01"
+      "title": "国际视点|埃及加快推动能源绿色转型",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790670.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "dfd7095af7622ff1",
+      "id": "46ce7e419a9fda52",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "甘肃发布干部任前公示",
-      "url": "http://renshi.people.com.cn/n1/2026/0901/c139617-40790052.html",
-      "publishedDate": "2026-09-01"
+      "title": "伊朗回应美军袭击 称击落一架MQ-9无人机",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790689.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "564295db56a60b6d",
+      "id": "c4cc7a19ca0ca7f9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "扣好廉洁从政“第一粒扣子”",
-      "url": "http://fanfu.people.com.cn/n1/2026/0901/c64371-40789908.html",
-      "publishedDate": "2026-09-01"
+      "title": "俄罗斯外交部发言人:在日部署\"堤丰\"导弹系统\"不可接受\"",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790690.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "f99f5a2c98187d8a",
+      "id": "12a43893f4f5abae",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "毛泽东纠治干部特殊化倾向",
-      "url": "http://cpc.people.com.cn/n1/2026/0901/c443712-40789991.html",
-      "publishedDate": "2026-09-01"
+      "title": "阿根廷外长：将以更具体的外交行动维护马岛主权",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790692.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "0979c3fc27a85f39",
+      "id": "4c6a5ed219dabb6d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "委内瑞拉首都附近国际机场恢复商业客运航班",
+      "url": "http://world.people.com.cn/n1/2026/0902/c1002-40790691.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "981b472ba416301b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "渝万高铁钢轨全线铺通",
+      "url": "http://pic.people.com.cn/n1/2026/0902/c1016-40790602.html",
+      "publishedDate": "2026-09-02"
+    },
+    {
+      "id": "5448a7d6e6579917",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "学习《习近平党建文选》座谈会发言摘编",
-      "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789821.html",
-      "publishedDate": "2026-09-01"
+      "title": "第十三届中华慈善奖表彰大会在京召开 谌贻琴出席并讲话",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790674.html",
+      "publishedDate": "2026-09-02"
     },
     {
-      "id": "5dcff71c4f239179",
+      "id": "745ea11bbed0f5ae",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "外交部：中方同尼方就人员搜救等保持顺畅沟通",
-      "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789832.html",
-      "publishedDate": "2026-09-01"
+      "topic": "时政",
+      "title": "《中华人民共和国农业法》自2027年1月1日起施行",
+      "url": "http://politics.people.com.cn/n1/2026/0902/c1001-40790610.html",
+      "publishedDate": "2026-09-02"
     }
   ],
   "errors": []
