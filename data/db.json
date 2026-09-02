@@ -28,6 +28,13 @@
       "board": "verbal",
       "done": 15,
       "correct": 10
+    },
+    {
+      "id": "cad48359-0e9e-49fb-a334-c6c4379df886",
+      "date": "2026-09-02",
+      "board": "analysis",
+      "done": 20,
+      "correct": 16
     }
   ],
   "plans": [
