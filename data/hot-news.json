@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-03T01:15:28.020Z",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T01:07:11.019Z",
   "sources": [
     {
       "id": "people",
@@ -15,311 +15,280 @@
   ],
   "items": [
     {
-      "id": "ea0c6d64539c2d32",
+      "id": "2d1b9f0810105b89",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平同埃及总统塞西会谈",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791342.html",
-      "publishedDate": "2026-09-03"
+      "title": "同行廿五载 上合启新程",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c461001-40792235.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "7f2b5cfb71031c9d",
-      "source": "qiushi",
-      "sourceName": "求是网",
+      "id": "7cfbd96ade76d9ba",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平圆满结束对埃及的国事访问",
-      "url": "https://www.qstheory.cn/20260903/a6cb4d5954424125be3880d54c84b8b5/c.html",
-      "publishedDate": "2026-09-03"
+      "title": "从三个时间坐标读懂中埃关系",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c461001-40792273.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "f43743f926c8e52c",
+      "id": "166de2f8ccb557a7",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "“一本读不完的书”",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c461001-40792262.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "3e95c49949068320",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "\"给孩子们的梦想插上科技的翅膀\"",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c461001-40792258.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "ea5a48bedaf752d5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "丁薛祥出席第十一届东方经济论坛全会并致辞",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c1024-40792075.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "56d896525b03545d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "坚持党中央集中统一领导",
+      "url": "http://opinion.people.com.cn/n1/2026/0904/c461530-40792131.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "24cbee3d9f75b2ac",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "和音|共同书写中埃友好历史新篇",
+      "url": "http://opinion.people.com.cn/n1/2026/0904/c461529-40792088.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "8669f79a9177bafe",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "人民论坛|一则\"史料\"里的政绩观启示",
+      "url": "http://opinion.people.com.cn/n1/2026/0904/c461529-40792106.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "b5875566e48a1b60",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
-      "url": "http://pic.people.com.cn/n1/2026/0903/c426981-40791334.html",
-      "publishedDate": "2026-09-03"
+      "title": "\"十五五\"开好局起好步|青年挑大梁 创新添动能",
+      "url": "http://finance.people.com.cn/n1/2026/0904/c1004-40792081.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "f6158d4a72231c07",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "新华图讯｜习近平圆满结束对埃及的国事访问",
-      "url": "https://www.qstheory.cn/20260903/6bfb2390244e4e9d878360c1b370e73f/c.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "92766cd48af4863d",
+      "id": "99790e063a53c3c6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "推动埃中全面战略伙伴关系迈向新高度",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791348.html",
-      "publishedDate": "2026-09-03"
+      "title": "从智能工厂看\"六张网\"建设",
+      "url": "http://finance.people.com.cn/n1/2026/0904/c1004-40792134.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "953f05157e510093",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "习近平主席的“比什凯克时间”：主动引领历史航向的大国担当",
-      "url": "https://www.qstheory.cn/20260903/ed31104a3cb649128a72426420259d3c/c.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "f5e0588068b3d3ab",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "《平\"语\"近人——习近平喜欢的典故》(阿拉伯语版)在埃及主流媒体播出",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791346.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "f1a7377b287afbc9",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "习近平主席总结中埃关系70年鲜明特征",
-      "url": "https://www.qstheory.cn/20260903/a5a3bc0164d745b38496b9b47ae7d720/c.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "36d0d4bcad718b3d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791347.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "a86c8cb270fe0062",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "为推进平等有序的世界多极化贡献上合力量",
-      "url": "https://www.qstheory.cn/20260903/9db48a285dcd44bd928ee6a5251279ab/c.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "bff0d6bd7f225c47",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "彭丽媛同埃及总统塞西夫人依缇萨尔茶叙并参观小型手工艺品展",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791350.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "5393830c89e20504",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"埃中关系发展的一件大事\"",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791349.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "75b96cf299a2c7f0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中埃经贸合作建起优质\"样板间\"",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791353.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "d0529ac2191d8f74",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "和音丨铭记伟大胜利 共创美好未来",
-      "url": "http://opinion.people.com.cn/n1/2026/0903/c461529-40791359.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "a840d501526e6742",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "81年，山河记得，我们记得",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c461001-40791383.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "71a72716855d7083",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平致电祝贺挪威国王哈康八世即位",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791345.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "a5626d95245f2c93",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "吉尔吉斯斯坦各界人士高度评价习近平主席国事访问",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791352.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "ec609315061f2290",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "丁薛祥会见俄罗斯总统普京",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791681.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "09ccd6ac36283c32",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "坚持党的领导是中国特色社会主义最本质的特征",
-      "url": "http://opinion.people.com.cn/n1/2026/0903/c461530-40791396.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "fec586dba5d0c823",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "为推动构建人类命运共同体作出更大上合贡献",
-      "url": "http://opinion.people.com.cn/n1/2026/0903/c461529-40791351.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "aec60a1517226997",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"六张网\"这样建|从\"布点畅线\"向\"成链成网\"转型升级",
-      "url": "http://finance.people.com.cn/n1/2026/0903/c1004-40791408.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "81aef14b7bc1957c",
+      "id": "7409f7c85bd0e8b6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "关键救援通道抢通",
-      "url": "http://society.people.com.cn/n1/2026/0903/c1008-40791362.html",
-      "publishedDate": "2026-09-03"
+      "title": "在吉隆,看到这些坚定的身影",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792101.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "f580efe2c08671a1",
+      "id": "43ad6cd59b9f1a62",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国密切与尼泊尔合作,携手应对灾害",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791426.html",
-      "publishedDate": "2026-09-03"
+      "title": "加强跨国协作,应对冰川灾害风险",
+      "url": "http://world.people.com.cn/n1/2026/0904/c1002-40792151.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "705522a90b48c09d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "浙江宁波:立足实业根基 激活创新动能",
-      "url": "http://finance.people.com.cn/n1/2026/0903/c1004-40791390.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "b76e40ca4fd27975",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "孩子写作业先问AI,家长怎么办",
-      "url": "http://edu.people.com.cn/n1/2026/0903/c1006-40791414.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "540afcb2aba9247c",
+      "id": "b77ee0e794db97f4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "台风“沙德尔”第三次登陆我国",
-      "url": "http://society.people.com.cn/n1/2026/0903/c1008-40791492.html",
-      "publishedDate": "2026-09-03"
+      "title": "从\"干沙滩\"到\"金沙滩\"",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792159.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "cec3ab02989ead3e",
+      "id": "45b78f547433d044",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "联合国秘书长对美伊新一轮交火深表关切",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791443.html",
-      "publishedDate": "2026-09-03"
+      "topic": "社会",
+      "title": "\"两片叶子\"背后的乘数效应",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792158.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "ce70acebdba88279",
+      "id": "1d129b18d8a713ad",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "青海海西州发生5.1级地震",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792076.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "0ec226bd02d48680",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "《中华人民共和国国防动员法》自2026年10月1日起施行",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791419.html",
-      "publishedDate": "2026-09-03"
+      "title": "刘国中：切实抓好农业防灾减灾 全力夺取秋粮丰产丰收",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c1001-40792089.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "1ecbfe8eb6cdb08e",
+      "id": "a231188ef2652cc6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "国务院任免国家工作人员",
-      "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791370.html",
-      "publishedDate": "2026-09-03"
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利81周年座谈会举行",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c1001-40792090.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "fcab0fb79e6cd681",
+      "id": "0e3e5564ec72bc04",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "2026年《开学第一课》播出赓续伟大精神 走好我们的长征路",
-      "url": "http://society.people.com.cn/n1/2026/0903/c1008-40791361.html",
-      "publishedDate": "2026-09-03"
+      "topic": "时政",
+      "title": "谌贻琴：推动养老服务扩容提质增效 让广大老年人安享幸福晚年",
+      "url": "http://politics.people.com.cn/n1/2026/0904/c1001-40792095.html",
+      "publishedDate": "2026-09-04"
     },
     {
-      "id": "87a32e7367cf2f70",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "外交部：敦促日本当局同军国主义彻底切割",
-      "url": "http://world.people.com.cn/n1/2026/0903/c1002-40791337.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "c09f2494238479ad",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "中央网信办深入整治AI应用乱象 累计清理违法违规信息561万余条",
-      "url": "http://society.people.com.cn/n1/2026/0903/c1008-40791384.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "b7a82214bc06cbb3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "从三起案件看深化扫黑除恶专项斗争",
-      "url": "http://society.people.com.cn/n1/2026/0903/c1008-40791434.html",
-      "publishedDate": "2026-09-03"
-    },
-    {
-      "id": "5fa3a24a4b5f648a",
+      "id": "7eb6b9cdbb8e4015",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国台办：衷心感谢台湾各界人士和大陆台胞台企关心慰问泥石流灾情",
-      "url": "http://tw.people.com.cn/n1/2026/0903/c14657-40791340.html",
-      "publishedDate": "2026-09-03"
+      "title": "外交部：希望韩国政府切实践行一个中国原则",
+      "url": "http://world.people.com.cn/n1/2026/0904/c1002-40792074.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "54cb6cfee202982b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "权威发布丨坚持办人民群众可感可及的体育",
+      "url": "http://ent.people.com.cn/n1/2026/0904/c1012-40792169.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "a48732c4d9849350",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "全国碳市场配额分配相关方案印发",
+      "url": "http://env.people.com.cn/n1/2026/0904/c1010-40792145.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "446acf3e563c1489",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "2026党报评论融合发展论坛举行",
+      "url": "http://media.people.com.cn/n1/2026/0904/c14677-40792116.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "960290671cc8ecae",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨“渐”的耐心与“进”的节奏",
+      "url": "http://opinion.people.com.cn/n1/2026/0904/c461529-40792108.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "b2a72d8014b9f010",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨构建中国工商管理学自主知识体系的着力点",
+      "url": "http://opinion.people.com.cn/n1/2026/0904/c461530-40792132.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "ed4dc287699798c0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "带着实践成果去答辩，是什么体验",
+      "url": "http://edu.people.com.cn/n1/2026/0904/c1006-40792122.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "d746586c582706e3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "上海浦东：把最好的资源留给市民",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792168.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "c8ec3b2672e9cc17",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "科普",
+      "title": "陪诊师：患者就医路上的“临时家人”",
+      "url": "http://health.people.com.cn/n1/2026/0904/c14739-40792139.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "de87522da99ff8b4",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "街道长出来的足球赛，何以燃动大湾区",
+      "url": "http://ent.people.com.cn/n1/2026/0904/c1012-40792149.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "5218d2f1bb6da6ee",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "记者调查丨“梦的远方”成“新的故乡”",
+      "url": "http://ent.people.com.cn/n1/2026/0904/c1012-40792147.html",
+      "publishedDate": "2026-09-04"
+    },
+    {
+      "id": "615a0d1cf7b4d20b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "记者手记：“搭一把手，能帮就帮”",
+      "url": "http://society.people.com.cn/n1/2026/0904/c1008-40792104.html",
+      "publishedDate": "2026-09-04"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "qiushi",
+      "message": "未找到可用标题"
+    }
+  ]
 }
