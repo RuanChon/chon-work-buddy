@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T01:09:26.243Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T01:15:42.840Z",
   "sources": [
     {
       "id": "people",
@@ -15,283 +15,301 @@
   ],
   "items": [
     {
-      "id": "ae7a7b66160eb71e",
+      "id": "378847b52cd6838a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "拾光纪·习主席中亚中东行的三点启示",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793741.html",
-      "publishedDate": "2026-09-07"
+      "title": "《习近平生态文明思想概论》出版发行",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c1001-40794228.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "0a62a6467b3c3024",
+      "id": "3808811f66279cc8",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "什么是全面从严治党责任体系，如何认识和把握",
-      "url": "https://www.qstheory.cn/20260907/87707a6602724734873aa3c4f4457b34/c.html",
-      "publishedDate": "2026-09-07"
+      "title": "携手推进平等有序的世界多极化",
+      "url": "https://www.qstheory.cn/20260908/f92ea23bdf2c44de9d60b0882b248220/c.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "c9da419fd09104b8",
+      "id": "91d2c9bf5237e5ed",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "高质量教材体系映照育人初心",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793407.html",
-      "publishedDate": "2026-09-07"
+      "title": "李强会见卡塔尔首相兼外交大臣穆罕默德",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c1024-40794229.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "71ab1bf48140a1fa",
+      "id": "f04262a787a7ea43",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "坚持不忘初心、牢记使命",
+      "url": "https://www.qstheory.cn/20260908/3dcbcf9a36d7404d8afc7cd7f7de3283/c.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "9fd220751876a0b6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "坚持全面从严治党",
-      "url": "http://opinion.people.com.cn/n1/2026/0907/c461530-40793449.html",
-      "publishedDate": "2026-09-07"
+      "title": "韩正分别会见普列夫、孙占托、梅萨罗维奇",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c1001-40794327.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "e4089bdd8a72b9ea",
+      "id": "1cd60c294dcbe22f",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "不断提升领导干部科学决策能力",
+      "url": "https://www.qstheory.cn/20260908/7c7033d236fe4ebfa92a6ad691362d06/c.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "ba94d3f6ab0fa934",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "怎样用好问责这个利器",
+      "url": "https://www.qstheory.cn/20260908/43d811944921404888847c840bb66480/c.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "8720d8f108421b4a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "和音|为破解中东安全困局提供可行路径",
-      "url": "http://opinion.people.com.cn/n1/2026/0907/c461529-40793419.html",
-      "publishedDate": "2026-09-07"
+      "title": "从审美出圈读懂\"中国引力\"",
+      "url": "http://opinion.people.com.cn/n1/2026/0908/c461529-40794258.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "630c362a7927432a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "北京一线快递员,多了个\"新角色\"",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793408.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "7a033e9c9e0f66f7",
+      "id": "b317537412b4f1be",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "5年再增约10亿\"风光\"意味着什么",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793412.html",
-      "publishedDate": "2026-09-07"
+      "title": "发展传统技艺 激发消费潜力",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794235.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "1712317c62474515",
+      "id": "8aa424d1ab44991c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "中外媒体见面会举行",
-      "url": "http://society.people.com.cn/n1/2026/0907/c1008-40793428.html",
-      "publishedDate": "2026-09-07"
+      "title": "吉隆转移安置群众返乡见闻",
+      "url": "http://society.people.com.cn/n1/2026/0908/c1008-40794252.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "02e52e239bab09c2",
+      "id": "a1cbaa037373863f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "让水果\"过路通道\"变为\"产业磁场\"",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794233.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "d2683fa61b5fa571",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "平陆运河,\"百桥工程\"蕴巧思",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794262.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "5b409660c691370c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "当AI也能\"教学\",老师教什么?",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794288.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "a1145fb756dfdf5e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "为变乱交织的世界提供中国方案、中国智慧",
+      "url": "http://world.people.com.cn/n1/2026/0908/c1002-40794241.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "582707678f8106b5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "女篮世界杯小组赛:中国队战胜意大利队",
+      "url": "http://ent.people.com.cn/n1/2026/0908/c1012-40794328.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "82830bf96bea47d3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "郑钦文战胜斯维亚特克 晋级美网八强",
+      "url": "http://ent.people.com.cn/n1/2026/0908/c1012-40794217.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "7ab7b29da140e52a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“中国智造”，中国式现代化的亮丽名片",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794276.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "9ade09f01a066321",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "王毅同墨西哥外长贝拉斯科会谈",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c1001-40794248.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "4542816091b17f2f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "中央宣传部、国家发展改革委联合发布“诚信之星”",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c461001-40794251.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "7ce2187f6a2dab1f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "王小洪主持中国—中亚公安内务部长会晤机制非正式会晤",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c1001-40794249.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "387ed77cad27bea7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "吉隆,希望在升腾",
-      "url": "http://society.people.com.cn/n1/2026/0907/c1008-40793429.html",
-      "publishedDate": "2026-09-07"
+      "title": "最高法发布意见 平衡保护个人信息权益与人工智能产业发展",
+      "url": "http://society.people.com.cn/n1/2026/0908/c1008-40794270.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "a35b5641b2442446",
+      "id": "aee3613a4faddbe1",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "与李书福谈\"新\":汽车产业是没有尽头的马拉松",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793441.html",
-      "publishedDate": "2026-09-07"
+      "title": "外交部介绍禁止化学武器组织代表团访华情况",
+      "url": "http://world.people.com.cn/n1/2026/0908/c1002-40794246.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "4c2cf03b763e424a",
+      "id": "dc51b96f6f05f229",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "四川巴中:看病不用翻山越岭了",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793409.html",
-      "publishedDate": "2026-09-07"
+      "topic": "综合",
+      "title": "六部门联合印发实施方案 完善乡村振兴投入机制",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794263.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "98403f6b9d99445d",
+      "id": "544eb4c2823c00fe",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "多头监管,苏州非法码头4年关不掉",
-      "url": "http://society.people.com.cn/n1/2026/0907/c428181-40793502.html",
-      "publishedDate": "2026-09-07"
+      "title": "财政部、应急管理部紧急拨付2.4亿元中央自然灾害救灾资金",
+      "url": "http://society.people.com.cn/n1/2026/0908/c1008-40794256.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "e095db85bfe4647b",
+      "id": "5e28501cde77525e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "脑机接口,别把它看\"小\"了",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793482.html",
-      "publishedDate": "2026-09-07"
+      "title": "公路法修正草案征求意见稿公开征求意见",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794236.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "ff7bcb3f025cda83",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "伊朗称将在霍尔木兹海峡之外设立禁区",
-      "url": "http://world.people.com.cn/n1/2026/0907/c1002-40793498.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "71f1555d74defc1f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"姜健\"号驱逐舰正式入列朝鲜海军",
-      "url": "http://world.people.com.cn/n1/2026/0907/c1002-40793499.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "0172ab80d3baa536",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "一架亚马逊货机在迈阿密降落时发生事故 至少5人死亡",
-      "url": "http://world.people.com.cn/n1/2026/0907/c1002-40793490.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "04011a22c8fec7af",
+      "id": "527b49ceca42f835",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王小洪分别会见老挝和乌兹别克斯坦客人",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c1001-40793427.html",
-      "publishedDate": "2026-09-07"
+      "title": "奋力推动“十五五”时期供销合作事业高质量发展",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c461001-40794281.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "451f3b9fa9ed9945",
+      "id": "99a4c8738d0146b3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "第五届数贸会将于9月23日至27日举办",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794257.html",
+      "publishedDate": "2026-09-08"
+    },
+    {
+      "id": "b080c61ea7909858",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "《电力安全事故应急处置和调查处理条例》自2027年1月1日起施行",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793467.html",
-      "publishedDate": "2026-09-07"
+      "title": "理论｜小事察德辨才 大事看德识才",
+      "url": "http://opinion.people.com.cn/n1/2026/0908/c461530-40794280.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "fae08cdf84a03537",
+      "id": "c4e24f296d82c520",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "共同书写亚太媒体合作新篇章",
-      "url": "http://world.people.com.cn/n1/2026/0907/c1002-40793420.html",
-      "publishedDate": "2026-09-07"
+      "topic": "社会",
+      "title": "评论｜流量面前守住边界",
+      "url": "http://society.people.com.cn/n1/2026/0908/c1008-40794282.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "13037f9679df9618",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "3000亿元特别国债支持金融央企",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793440.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "aca53baebe60b809",
+      "id": "4b055c3d11151c8d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "2026“把青春华章写在祖国大地上”大思政课主题宣传活动举行",
-      "url": "http://politics.people.com.cn/n1/2026/0907/c461001-40793432.html",
-      "publishedDate": "2026-09-07"
+      "title": "呼和浩特：为干部的好点子“搭台子”",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c461001-40794268.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "26bb7823dd710c5f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "瑞金—延安 长征出发地到落脚点实现高铁直达",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793410.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "8d09028f5633e795",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "8月物流业景气指数为50.9%",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793411.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "2e6df024a71b9781",
+      "id": "d1fd13269750f1f5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "理论｜和衷共济完善人工智能全球治理",
-      "url": "http://opinion.people.com.cn/n1/2026/0907/c461530-40793450.html",
-      "publishedDate": "2026-09-07"
+      "title": "为什么年轻人愿意跨越山海，汇聚蓉城？",
+      "url": "http://politics.people.com.cn/n1/2026/0908/c461001-40794317.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "efa1a77c15a41396",
+      "id": "6d5459722b2c1e42",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "在田间地头 给土地“治病”",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793434.html",
-      "publishedDate": "2026-09-07"
+      "title": "北斗规模应用从“天边”到“身边”",
+      "url": "http://finance.people.com.cn/n1/2026/0908/c1004-40794226.html",
+      "publishedDate": "2026-09-08"
     },
     {
-      "id": "2eb766648f9ac2ca",
+      "id": "d272b7500b481067",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "跟土地打交道，急不得",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793435.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "238281a26869f608",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "这里的思政课“长”在泥土中",
-      "url": "http://edu.people.com.cn/n1/2026/0907/c1006-40793452.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "132dac9c935705b3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "北方地区将有降雨降温过程",
-      "url": "http://env.people.com.cn/n1/2026/0907/c1010-40793461.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "f248a2fcc8248ae8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "12秒传高清月照，如何做到",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793414.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "19e8b9dd5bca1257",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "一群“老木匠”，把废弃木料变为“宝”",
-      "url": "http://env.people.com.cn/n1/2026/0907/c1010-40793459.html",
-      "publishedDate": "2026-09-07"
-    },
-    {
-      "id": "5e5077d38d6d619e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "财政管理“精打细算”为哪般？",
-      "url": "http://finance.people.com.cn/n1/2026/0907/c1004-40793478.html",
-      "publishedDate": "2026-09-07"
+      "title": "文化中国行｜红色热土续写新时代长征故事",
+      "url": "http://ent.people.com.cn/n1/2026/0908/c1012-40794308.html",
+      "publishedDate": "2026-09-08"
     }
   ],
   "errors": []
