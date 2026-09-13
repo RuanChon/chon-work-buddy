@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T01:18:13.013Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T01:14:42.286Z",
   "sources": [
     {
       "id": "people",
@@ -15,274 +15,274 @@
   ],
   "items": [
     {
-      "id": "1778bdd221981404",
+      "id": "420d1b3b31bbde23",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平主席出席金砖国家领导人会晤安排",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797297.html",
-      "publishedDate": "2026-09-12"
+      "title": "离京赴新德里出席金砖国家领导人第十八次会晤 习近平抵达新德里",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c1024-40797629.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "dee646e339442154",
+      "id": "d01fb3afe4166166",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平主席推动金砖合作金句",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797320.html",
-      "publishedDate": "2026-09-12"
+      "title": "连续第三年会晤莫迪,习主席这样指引中印关系",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797607.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "836e257b3985267e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "学习笔记丨习近平纵论金砖合作之道",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797398.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "e161d37314ea3423",
+      "id": "e938abe7b7878a35",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"大金砖合作\",何以成其大?",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797302.html",
-      "publishedDate": "2026-09-12"
+      "title": "国际社会热切期待中国明年接任金砖主席国",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797633.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "a51efcaf060169d4",
+      "id": "1c6a234d523e56a5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "寰宇平|勇做时代先锋 展现金砖担当",
+      "url": "http://opinion.people.com.cn/n1/2026/0913/c461529-40797640.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "419dcdb43fb8b0c6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平:金砖国家要勇做这4方面的\"先锋力量\"",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797608.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "97ed1cbfeed2bfe2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平主席倡导金砖国家共担时代责任",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797613.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "e412e6df1dfc1aa3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平主席强调金砖国家要勇做时代先锋",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797603.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "b17b844c9f956065",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "共创繁荣进步的光明前景",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797609.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "7cf58e20ce6b0bcf",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "金砖国家领导人第十八次会晤新德里宣言(摘要)",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797631.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "6f42e17d0066d8ab",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "为构建人类命运共同体贡献\"大金砖\"力量",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797303.html",
-      "publishedDate": "2026-09-12"
+      "title": "\"金砖国家在维护多边主义方面发挥着重要作用\"",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797634.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "104addb5792d034e",
+      "id": "c738780f134c218c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "携手推动\"大金砖合作\"高质量发展",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797304.html",
-      "publishedDate": "2026-09-12"
+      "title": "大国外交零时差|期待2027金砖\"中国年\"更加精彩",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797614.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "d4e546a0737d5b3c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1024-40797430.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "9e2aa8b9b6ba0991",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平：把金砖打造成推动全球治理变革的先锋力量",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797394.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "e214c6ad1c1a4978",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "推动金砖大船行稳致远",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797396.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "97f2207116a4e81d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "\"在开放合作中实现自立自强\"",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797385.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "ffb9ec44cee5b055",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|福建守护\"红色家底\"",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797295.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "e1d38458151866fc",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李强主持召开国务院常务会议",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1024-40797298.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "cd6bd965494bbae7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赵乐际同安哥拉国民议会议长德阿尔梅达会谈",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1024-40797299.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "1e0fd409545ca91f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王沪宁会见安哥拉国民议会议长德阿尔梅达",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1024-40797300.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "6031331ecd348c4f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "今日谈|从快递利润增速看活力",
-      "url": "http://opinion.people.com.cn/n1/2026/0912/c461529-40797301.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "f29314eee0bb3d0c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "联勤保障部队牢记使命嘱托、担当强军重任",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797296.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "afb960fa975f6318",
+      "id": "78b952ac50d3ccaa",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "服贸会上探企业\"走出去\"新动能",
-      "url": "http://finance.people.com.cn/n1/2026/0912/c1004-40797309.html",
-      "publishedDate": "2026-09-12"
+      "title": "海林观察|三组数据看金砖二十年发展",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797589.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "c2b8b4cba2203209",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "美国多地举行\"9·11\"事件25周年纪念活动",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797328.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "8d1266991ac08ff7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中方警告勿随意扩大苏丹制裁范围",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797291.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "c5dda7c164cba594",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "斯诺克英格兰公开赛:丁俊晖晋级四强",
-      "url": "http://ent.people.com.cn/n1/2026/0912/c1012-40797270.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "5ce208248e1c0b60",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "WTT澳门冠军赛:中国队三人晋级单打八强",
-      "url": "http://ent.people.com.cn/n1/2026/0912/c1012-40797268.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "eff9df11f6e6a3d1",
+      "id": "c9340dcef5ea7e1c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "李干杰在宁夏调研",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1001-40797308.html",
-      "publishedDate": "2026-09-12"
+      "title": "赓续长征精神 奋进复兴征程｜一汪古井鉴初心",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797641.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "ed88b122264ddc28",
+      "id": "162d902009619f98",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "“核心价值观百场讲坛”第172场在江西瑞金举办",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797317.html",
-      "publishedDate": "2026-09-12"
+      "title": "习语|\"我在这个地方踢过球\"",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797626.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "044bb3528c780ec7",
+      "id": "534ba8f74bc085d5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "年轻人爱上户外运动 给城市生活\"充满电\"",
+      "url": "http://society.people.com.cn/n1/2026/0913/c1008-40797647.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "9326d9239978e9e2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "文商旅体展深度融合",
+      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797632.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "87f228b46f810122",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "\"科技范儿\"十足",
+      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797656.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "76d707dfba011478",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "重庆猎神村:靠山吃山,但先把山养好",
+      "url": "http://env.people.com.cn/n1/2026/0913/c1010-40797642.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "8c61753c811c7f63",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "在实践中,看见更大的世界",
+      "url": "http://society.people.com.cn/n1/2026/0913/c1008-40797648.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "c98e0437596ea8ca",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "\"十送红军\"视觉回响",
+      "url": "http://ent.people.com.cn/n1/2026/0913/c1012-40797650.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "348f8774e3e3112b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一场\"艺术长征\"",
+      "url": "http://ent.people.com.cn/n1/2026/0913/c1012-40797651.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "1b5b854add484f86",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "荒凉沙漠里,苗木长势旺",
+      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797645.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "c818ae7e29c47a90",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "锐财经|推动软件产业实现\"换道超车\"",
+      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797615.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "7194e10f35ed9a1a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "从一句\"你好\"开始 他们与中文相遇相知",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797625.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "d5b0368fe770d007",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "环球热点|\"纠正地图\"意味着什么?",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797621.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "9d96126c800d5d47",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "第83届威尼斯电影节闭幕 中国VR片获沉浸单元大奖",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797612.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "b30e0c287a222b58",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "联合国南南合作日纪念活动在杭州举行",
+      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797586.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "ac9aa5c5acfa03f6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "第37届上海旅游节大巡游点亮外滩",
+      "url": "http://pic.people.com.cn/n1/2026/0913/c1016-40797655.html",
+      "publishedDate": "2026-09-13"
+    },
+    {
+      "id": "cc930fac9819154a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "第三次中国—东非执法安全部长级对话举行",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c1001-40797305.html",
-      "publishedDate": "2026-09-12"
+      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛",
+      "url": "http://politics.people.com.cn/n1/2026/0913/c1001-40797639.html",
+      "publishedDate": "2026-09-13"
     },
     {
-      "id": "d67e611553a5ebc9",
+      "id": "aad32162b79216cd",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "外交部：中方愿与世界共享创新红利，实现共同发展",
-      "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797277.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "5803d7f2a67f94c7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "两部门公开通报六起地方政府隐性债务追责问责典型案例",
-      "url": "http://politics.people.com.cn/n1/2026/0912/c461001-40797314.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "71bed1c216609689",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国家数据产权登记服务系统上线试运行",
-      "url": "http://finance.people.com.cn/n1/2026/0912/c1004-40797279.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "6801287f33a93458",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国矿产资源家底更加厚实",
-      "url": "http://finance.people.com.cn/n1/2026/0912/c1004-40797282.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "4537fabdcbe7d181",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "2026年“最美教师”刘雪雅：“不让一个残障孩子被遗忘、被放弃”",
-      "url": "http://edu.people.com.cn/n1/2026/0912/c1006-40797313.html",
-      "publishedDate": "2026-09-12"
-    },
-    {
-      "id": "a82c1c998c52ef14",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "最美新时代革命军人｜步佳文：云霄之上，以胜战作答",
-      "url": "http://military.people.com.cn/n1/2026/0912/c1011-40797315.html",
-      "publishedDate": "2026-09-12"
+      "title": "多元力量关心支持参与退役军人服务保障工作",
+      "url": "http://military.people.com.cn/n1/2026/0913/c1011-40797597.html",
+      "publishedDate": "2026-09-13"
     }
   ],
   "errors": [
