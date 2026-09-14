@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-13T01:14:42.286Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T04:37:52.957Z",
   "sources": [
     {
       "id": "people",
@@ -15,280 +15,392 @@
   ],
   "items": [
     {
-      "id": "420d1b3b31bbde23",
+      "id": "5c0793e371795e6c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "离京赴新德里出席金砖国家领导人第十八次会晤 习近平抵达新德里",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c1024-40797629.html",
-      "publishedDate": "2026-09-13"
+      "title": "为推动“大金砖合作”高质量发展定向领航",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797891.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "d01fb3afe4166166",
+      "id": "7221fd8b22806ce2",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "习近平主席倡导推进“大金砖合作”广受赞誉",
+      "url": "https://www.qstheory.cn/20260914/f4220e12df924e5b81d924ac1da8949d/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "6203c5b74e0b5fe1",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "连续第三年会晤莫迪,习主席这样指引中印关系",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797607.html",
-      "publishedDate": "2026-09-13"
+      "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797886.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "e938abe7b7878a35",
+      "id": "2baa38e99b197b11",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "习近平主席引领“大金砖合作”开启新篇章",
+      "url": "https://www.qstheory.cn/20260914/1396a86b72eb407c8d14ffd1bfeb86b9/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "2d1976694081afb8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平结束出席金砖国家领导人第十八次会晤",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797887.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "35a4823815b9197e",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "从战略高度和长远角度看待和发展中印关系",
+      "url": "https://www.qstheory.cn/20260914/0641d5a1b3df484196af3ea6d39b1e5d/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "62776044c51de5f7",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "为全球南方聚力 启金砖合作新程",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797888.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "f55237971d195cf3",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "坚持健全上下贯通、执行有力的组织体系",
+      "url": "https://www.qstheory.cn/20260914/f8d7be8b060b462496b96315ad5f99b6/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "cb7832db7d42ca72",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "“大金砖”如何实现大发展？",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40798310.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "02b565ac350279cb",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "加快建设新型能源体系 支撑能源强国建设",
+      "url": "https://www.qstheory.cn/20260914/2808a903c5e8459ab734d5ebf5c77f9f/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "fa0c22a3075539f6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "和音|共同书写全球南方团结自强新篇章",
+      "url": "http://opinion.people.com.cn/n1/2026/0914/c461529-40797890.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "57797badb895f3e3",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "2026年服贸会达成各类成果1200余项",
+      "url": "https://www.qstheory.cn/20260914/8bcca57399b14078a2adec1add61ce60/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "21145d88827e8309",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国际社会热切期待中国明年接任金砖主席国",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797633.html",
-      "publishedDate": "2026-09-13"
+      "title": "金砖国家致力于做推动文明互鉴的先锋",
+      "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797921.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "1c6a234d523e56a5",
-      "source": "people",
-      "sourceName": "人民网",
+      "id": "0263fa9c1ce136a8",
+      "source": "qiushi",
+      "sourceName": "求是网",
       "topic": "时政",
-      "title": "寰宇平|勇做时代先锋 展现金砖担当",
-      "url": "http://opinion.people.com.cn/n1/2026/0913/c461529-40797640.html",
-      "publishedDate": "2026-09-13"
+      "title": "我国实现一体化算力统筹监测",
+      "url": "https://www.qstheory.cn/20260914/70e8ce0abea144e294199a0fb38abbff/c.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "419dcdb43fb8b0c6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平:金砖国家要勇做这4方面的\"先锋力量\"",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797608.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "97ed1cbfeed2bfe2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平主席倡导金砖国家共担时代责任",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797613.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "e412e6df1dfc1aa3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平主席强调金砖国家要勇做时代先锋",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797603.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "b17b844c9f956065",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "共创繁荣进步的光明前景",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797609.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "7cf58e20ce6b0bcf",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "金砖国家领导人第十八次会晤新德里宣言(摘要)",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797631.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "6f42e17d0066d8ab",
+      "id": "796d8a9956661c3b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"金砖国家在维护多边主义方面发挥着重要作用\"",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797634.html",
-      "publishedDate": "2026-09-13"
+      "title": "油气“全国一张网”如何更高效",
+      "url": "http://finance.people.com.cn/n1/2026/0914/c1004-40797895.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "c738780f134c218c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "大国外交零时差|期待2027金砖\"中国年\"更加精彩",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797614.html",
-      "publishedDate": "2026-09-13"
+      "id": "d53aeb02416fb5e1",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "向高向智 煤博会展现煤化工产业转型新风向",
+      "url": "https://www.qstheory.cn/20260914/fc2a8c1eb96d47bfbe7cac3333481373/c.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "78b952ac50d3ccaa",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "海林观察|三组数据看金砖二十年发展",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797589.html",
-      "publishedDate": "2026-09-13"
+      "id": "040f383327a1f797",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应",
+      "url": "https://www.qstheory.cn/20260914/ffb4bf7c800a4edaa0d1d69016a8bb5f/c.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "c9340dcef5ea7e1c",
+      "id": "79235df8fa82060e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程｜一汪古井鉴初心",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797641.html",
-      "publishedDate": "2026-09-13"
+      "title": "总书记的一周(9月7日—9月13日)",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40798313.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "162d902009619f98",
+      "id": "bd8d3a759b7609cd",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "高频数据显示8月消费活力持续提升",
+      "url": "https://www.qstheory.cn/20260914/d208ccb9b06b4c65adcfcdc9aa198d1f/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "309f6d5f28fa2aea",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习语|\"我在这个地方踢过球\"",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797626.html",
-      "publishedDate": "2026-09-13"
+      "title": "奋力开创新时代新征程基层工作新局面的强大思想武器",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797912.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "534ba8f74bc085d5",
+      "id": "0b4718ba885e35fd",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "我国稀土、钨、锡等14种矿产储量居世界第一",
+      "url": "https://www.qstheory.cn/20260914/2ce541661c214fb78a66b384598112c3/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "fe1c8055f8430128",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "平陆运河16日通航 准备工作进展如何",
+      "url": "https://www.qstheory.cn/20260914/b361c5d3a2674cd4930a91bfe5d1c0c5/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "b7255c29ea26399c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "激发机器人的现实生产力",
+      "url": "http://opinion.people.com.cn/n1/2026/0914/c461529-40797908.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "f5887a55ff6e29ef",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "最低工资标准上调，这些待遇跟着涨",
+      "url": "https://www.qstheory.cn/20260914/9adf03a9fc9042abb068ec3fd4c18165/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "83196476dccb198d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "服贸会\"收获清单\"",
+      "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797922.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "5c45935730e58b75",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "全球能源格局之变的深层动因",
+      "url": "https://www.qstheory.cn/20260914/2ec338d845624a1c817183ab5fb657a3/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "ec55e2c31f09a797",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "看服务业开放合作新机遇",
+      "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797923.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "f819195330fb447e",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "当前全球能源发展逻辑与格局加速调整",
+      "url": "https://www.qstheory.cn/20260914/7128311c123a43adaca86d299ac0a7f5/c.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "a7444ae835db3808",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赓续长征精神 奋进复兴征程|红土地上号角吹",
+      "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797902.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "9c14f9ff2feb3d1f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "从三笔账读懂平陆运河",
+      "url": "http://finance.people.com.cn/n1/2026/0914/c1004-40797927.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "7eb8984307f02bb7",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "当好田管家,长本事鼓口袋",
+      "url": "http://finance.people.com.cn/n1/2026/0914/c1004-40797898.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "bec2f5ffb568b40a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "年轻人爱上户外运动 给城市生活\"充满电\"",
-      "url": "http://society.people.com.cn/n1/2026/0913/c1008-40797647.html",
-      "publishedDate": "2026-09-13"
+      "title": "\"那块地两天施了3300多吨\"",
+      "url": "http://society.people.com.cn/n1/2026/0914/c1008-40797916.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "9326d9239978e9e2",
+      "id": "40a8a73bba0b96ff",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "文商旅体展深度融合",
-      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797632.html",
-      "publishedDate": "2026-09-13"
+      "title": "华西牛,为啥\"牛\"?",
+      "url": "http://finance.people.com.cn/n1/2026/0914/c1004-40797959.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "87f228b46f810122",
+      "id": "f3a34f255da0abd0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"科技范儿\"十足",
-      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797656.html",
-      "publishedDate": "2026-09-13"
+      "title": "\"词元贷\"给人工智能企业\"贷\"来什么?",
+      "url": "http://finance.people.com.cn/n1/2026/0914/c1004-40797956.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "76d707dfba011478",
+      "id": "6bf36533d2103617",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "科普",
+      "title": "国家卫健委：进一步营造生育友好环境",
+      "url": "http://health.people.com.cn/n1/2026/0914/c14739-40798404.html",
+      "publishedDate": "2026-09-14"
+    },
+    {
+      "id": "1ea2aae62f0e679f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "重庆猎神村:靠山吃山,但先把山养好",
-      "url": "http://env.people.com.cn/n1/2026/0913/c1010-40797642.html",
-      "publishedDate": "2026-09-13"
+      "title": "无视英国反对 特朗普再挺“爱尔兰统一”",
+      "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797968.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "8c61753c811c7f63",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "在实践中,看见更大的世界",
-      "url": "http://society.people.com.cn/n1/2026/0913/c1008-40797648.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "c98e0437596ea8ca",
+      "id": "af48b7f6642ef469",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"十送红军\"视觉回响",
-      "url": "http://ent.people.com.cn/n1/2026/0913/c1012-40797650.html",
-      "publishedDate": "2026-09-13"
+      "title": "重庆：配属列车组开展秋季整修",
+      "url": "http://pic.people.com.cn/n1/2026/0914/c1016-40798218.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "348f8774e3e3112b",
+      "id": "e19489150186f7b9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "一场\"艺术长征\"",
-      "url": "http://ent.people.com.cn/n1/2026/0913/c1012-40797651.html",
-      "publishedDate": "2026-09-13"
+      "title": "广西南宁：三角梅绽放 扮靓人行天桥",
+      "url": "http://pic.people.com.cn/n1/2026/0914/c1016-40798294.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "1b5b854add484f86",
+      "id": "da28f1c76fd6989f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "荒凉沙漠里,苗木长势旺",
-      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797645.html",
-      "publishedDate": "2026-09-13"
+      "title": "“鳌鱼飞天”闹古村",
+      "url": "http://pic.people.com.cn/n1/2026/0914/c1016-40798252.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "c818ae7e29c47a90",
+      "id": "1f4904ed48a77989",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "锐财经|推动软件产业实现\"换道超车\"",
-      "url": "http://finance.people.com.cn/n1/2026/0913/c1004-40797615.html",
-      "publishedDate": "2026-09-13"
+      "title": "着力建设绿色低碳的美丽城市",
+      "url": "http://theory.people.com.cn/n1/2026/0914/c40531-40798067.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "7194e10f35ed9a1a",
+      "id": "a2a1ccc0f0d80074",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "从一句\"你好\"开始 他们与中文相遇相知",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797625.html",
-      "publishedDate": "2026-09-13"
+      "title": "四川眉山建立台账跟踪督办",
+      "url": "http://fanfu.people.com.cn/n1/2026/0914/c64371-40798141.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "d5b0368fe770d007",
+      "id": "6b34b112a6efbeca",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "环球热点|\"纠正地图\"意味着什么?",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797621.html",
-      "publishedDate": "2026-09-13"
+      "title": "以昂扬向上的精气神不断创造新业绩",
+      "url": "http://dangjian.people.com.cn/n1/2026/0914/c117092-40798153.html",
+      "publishedDate": "2026-09-14"
     },
     {
-      "id": "9d96126c800d5d47",
+      "id": "39875d365d37ae00",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "第83届威尼斯电影节闭幕 中国VR片获沉浸单元大奖",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797612.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "b30e0c287a222b58",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "联合国南南合作日纪念活动在杭州举行",
-      "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797586.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "ac9aa5c5acfa03f6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "第37届上海旅游节大巡游点亮外滩",
-      "url": "http://pic.people.com.cn/n1/2026/0913/c1016-40797655.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "cc930fac9819154a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛",
-      "url": "http://politics.people.com.cn/n1/2026/0913/c1001-40797639.html",
-      "publishedDate": "2026-09-13"
-    },
-    {
-      "id": "aad32162b79216cd",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "多元力量关心支持参与退役军人服务保障工作",
-      "url": "http://military.people.com.cn/n1/2026/0913/c1011-40797597.html",
-      "publishedDate": "2026-09-13"
+      "title": "安徽发布一批干部任前公示公告",
+      "url": "http://renshi.people.com.cn/n1/2026/0914/c139617-40798191.html",
+      "publishedDate": "2026-09-14"
     }
   ],
-  "errors": [
-    {
-      "source": "qiushi",
-      "message": "未找到可用标题"
-    }
-  ]
+  "errors": []
 }
