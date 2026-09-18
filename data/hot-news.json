@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T01:33:34.343Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T01:21:13.341Z",
   "sources": [
     {
       "id": "people",
@@ -15,301 +15,319 @@
   ],
   "items": [
     {
-      "id": "067264cbe61d803a",
+      "id": "419610651e3ad6d6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平致信祝贺吉林大学建校80周年",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c1024-40800064.html",
-      "publishedDate": "2026-09-17"
+      "title": "习近平就发展先进制造业作出重要指示",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1024-40800736.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "ef24ff1f1296c74e",
+      "id": "f109b36a5b1d83d5",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "让新兴技术照亮共同繁荣之路",
-      "url": "https://www.qstheory.cn/20260917/3a5f9e20037f4cc09c191c1a55c4c6e0/c.html",
-      "publishedDate": "2026-09-17"
+      "title": "商务部回应中美降税磋商最新进展等经贸热点",
+      "url": "https://www.qstheory.cn/20260918/a3068437b1c74a4881112d9d731a0129/c.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "eef754d861179617",
+      "id": "bffd80c09dfb46aa",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "激励广大青年学生和教育工作者矢志拼搏奋斗",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800058.html",
-      "publishedDate": "2026-09-17"
+      "title": "坚定不移建设制造强国",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800738.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "1cc680a780d25bb2",
+      "id": "e85d42df2b1d192f",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "坚持用严明的纪律管全党治全党",
-      "url": "https://www.qstheory.cn/20260917/bbb9791db8a448c98bc5a4b2ce4bd4ed/c.html",
-      "publishedDate": "2026-09-17"
+      "title": "中方反对在安理会强推恢复对伊朗制裁",
+      "url": "https://www.qstheory.cn/20260918/3970fecc0e784bbb87f25f028e5b6bc4/c.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "31d1ef69374d0623",
+      "id": "5f473057a75f759a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "做党和人民的忠诚卫士",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800066.html",
-      "publishedDate": "2026-09-17"
+      "title": "为加快构建现代化产业体系铸牢骨干",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800732.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "cfa95af24acfd79e",
+      "id": "5874ca2bb42f01b5",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "从长征传单中读懂中国共产党优秀特质",
-      "url": "https://www.qstheory.cn/20260917/d6a0c4eadcda4b53a84e2d3b89308bb6/c.html",
-      "publishedDate": "2026-09-17"
+      "title": "美国返还中方两批64件文物艺术品和古生物化石",
+      "url": "https://www.qstheory.cn/20260918/f80ba79137264aa1abe7c84a3b8805b3/c.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "db871d2383b78225",
+      "id": "65d60798b579b99c",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "凝聚各方合作共识 促进地区共同安全",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800079.html",
-      "publishedDate": "2026-09-17"
+      "topic": "时政",
+      "title": "让中国制造的根扎得更深",
+      "url": "http://opinion.people.com.cn/n1/2026/0918/c461529-40800742.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "9aaa90a39cdbc1a6",
+      "id": "997d80d10265a78d",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "用司法为人工智能系牢“安全带”",
-      "url": "https://www.qstheory.cn/20260917/d22ca67bebf04aee98387a730d493c0f/c.html",
-      "publishedDate": "2026-09-17"
+      "title": "国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》",
+      "url": "https://www.qstheory.cn/20260918/8d90071076d042f7a834076cea838225/c.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "12225f5abdd8f979",
+      "id": "1c86c055bf59f9a1",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "丁薛祥出席平陆运河通航仪式",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c1024-40800065.html",
-      "publishedDate": "2026-09-17"
+      "title": "丁薛祥出席东博会开幕式并会见与会外国政要",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1024-40800737.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "62ab9dcc7325ec4a",
+      "id": "0e01111a9d9645d5",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "农业农村部等三部门联合实施农业品牌保护专项行动",
+      "url": "https://www.qstheory.cn/20260918/d74afee3ad594beea149f37ac2daa889/c.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "6ec0cddea1823e28",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "金沙滩结出文化果",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800067.html",
-      "publishedDate": "2026-09-17"
+      "title": "坚持一体推进不敢腐不能腐不想腐",
+      "url": "http://opinion.people.com.cn/n1/2026/0918/c461530-40800748.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "b225e22adafcf486",
+      "id": "b01df15dbc8d31e6",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "二〇二六年“铸牢共同体 中华一家亲”主题宣传活动启动",
+      "url": "https://www.qstheory.cn/20260918/1331a8f0a262442cad59ccb2ca392a97/c.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "0bce60872eb995b4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民论坛|\"算账\"的智慧",
-      "url": "http://opinion.people.com.cn/n1/2026/0917/c461529-40800092.html",
-      "publishedDate": "2026-09-17"
+      "title": "凝聚起中华民族伟大复兴的磅礴力量",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800741.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "b674d9c4b0645f0e",
+      "id": "09bb453767574015",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "第23届中国—东盟博览会开幕 新成员东帝汶首次亮相",
+      "url": "https://www.qstheory.cn/20260918/4befd3dfcad24e47aaa0abbcaff3fb39/c.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "73bb7110d2435db8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|红军街上触摸\"新时尚\"",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800094.html",
-      "publishedDate": "2026-09-17"
+      "title": "赓续长征精神 奋进复兴征程|枝叶总关情 初心暖山乡",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800740.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "80e9c66b5e3461dd",
+      "id": "9290223ef5a88a48",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "启航,向海,奔向未来",
-      "url": "http://finance.people.com.cn/n1/2026/0917/c1004-40800072.html",
-      "publishedDate": "2026-09-17"
+      "title": "钟声|病根不除,日本没有未来",
+      "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800759.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "5d9fb02f67e9cad3",
+      "id": "6df5661e2bc8ea49",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "\"十五五\"开好局起好步|沈阳:擦亮\"面子\",做实\"里子\"",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800068.html",
-      "publishedDate": "2026-09-17"
+      "title": "权威发布|做乡亲们信任的\"自家人\"",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800764.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "2611556622cd04c0",
+      "id": "3a0cad689f427bbc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "平陆运河开辟中国东盟合作新通道",
+      "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800755.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "fc3f683c8b2d5ed0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一家美国人的湟源乡愁",
+      "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800963.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "182e7a4519fa7eef",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "真\"陪\"实\"跑\" 助创业者奔跑追梦",
+      "url": "http://finance.people.com.cn/n1/2026/0918/c1004-40800796.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "4bbb2d6902b5f085",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "科普",
+      "title": "医药工业发展“十五五”规划发布",
+      "url": "http://health.people.com.cn/n1/2026/0918/c14739-40801117.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "a2e94d4f0cbcc3ee",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "四川重庆湖北等地较强降雨持续 周末北方将迎降温",
+      "url": "http://society.people.com.cn/n1/2026/0918/c1008-40801122.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "484f8db83681a2ab",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "美媒：伊朗领导人将出席在纽约举行的联合国大会",
+      "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800818.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "d85155ae8a4106f0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "第九届俄罗斯国家杜马选举开始投票",
+      "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800734.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "c2e3bf31efecbad3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "权威发布|有力有序协调推进全面依法治国任务落实",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800093.html",
-      "publishedDate": "2026-09-17"
+      "title": "王毅同美国国务卿鲁比奥通电话",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1001-40800751.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "05db89d9f6115cd1",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "科技下田,沃野\"丰\"景可期",
-      "url": "http://finance.people.com.cn/n1/2026/0917/c1004-40800106.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "76f77fa39584d393",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "美联储三年多来首次加息",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800062.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "ed6e398510f10f34",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中方呼吁也门各方立即停火止战早日重返外交谈判",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800061.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "679c1e7c5addbdd4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "特朗普签署公告将加拿大产品排除出美政府采购计划",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800166.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "32f6b2acf0c47c93",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "联合国秘书长呼吁全球合作为人工智能设立护栏",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800063.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "8844fc3aa0046d08",
+      "id": "75ee0c939a586124",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅同伊朗外长会谈",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c1001-40800087.html",
-      "publishedDate": "2026-09-17"
+      "title": "中国和平统一促进会召开十届四次常务理事会会议",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1001-40800762.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "dfea38699a8e1036",
+      "id": "56de703bc388dd39",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅会见巴西总统首席特别顾问",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c1001-40800088.html",
-      "publishedDate": "2026-09-17"
+      "title": "谌贻琴会见越南妇联主席黎氏水",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1001-40800753.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "bf464d5c84c493e0",
+      "id": "976545ec936bb60b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "树立和践行正确政绩观学习教育中央指导组总结会议召开",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c1001-40800071.html",
-      "publishedDate": "2026-09-17"
+      "title": "国办印发《关于进一步加强烟花爆竹全链条安全监管的意见》",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c1001-40800763.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "953ae309bfdbe229",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "第十三届北京香山论坛开幕",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800085.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "2866fdaa564274ce",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "董军同出席论坛客人举行会谈",
-      "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800086.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "bc91040dab731315",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国台办：反对“台独”符合两岸同胞的根本利益和切身福祉",
-      "url": "http://tw.people.com.cn/n1/2026/0917/c14657-40800139.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "b7ba556d20ffbbc2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "夏粮收购接近尾声 累计收购小麦1亿吨、早籼稻1200万吨",
-      "url": "http://finance.people.com.cn/n1/2026/0917/c1004-40800069.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "74089a7a6ec8450d",
+      "id": "c9a4b0f44e51b532",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "评论丨舍得在“看不见的地方”下功夫",
-      "url": "http://opinion.people.com.cn/n1/2026/0917/c461529-40800160.html",
-      "publishedDate": "2026-09-17"
+      "title": "2026年“铸牢共同体 中华一家亲”主题宣传活动启动",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800768.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "05f5032a03713313",
+      "id": "14531248f0f2a491",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "公安机关依法打击网络谣言、电话短信“轰炸”等问题",
+      "url": "http://society.people.com.cn/n1/2026/0918/c1008-40800784.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "afacc3a8b2c6f4b7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "理论丨高质量开展中外联合考古",
-      "url": "http://opinion.people.com.cn/n1/2026/0917/c461530-40800104.html",
-      "publishedDate": "2026-09-17"
+      "title": "权威发布丨加快推动广电视听高质量发展",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800767.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "7a2c4a18bb6ecb18",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "在“青创村”让创意落地",
-      "url": "http://finance.people.com.cn/n1/2026/0917/c1004-40800073.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "ea1f128456019558",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "矿业“含绿量”提升发展“含金量”",
-      "url": "http://env.people.com.cn/n1/2026/0917/c1010-40800113.html",
-      "publishedDate": "2026-09-17"
-    },
-    {
-      "id": "d0b67adfaa177298",
+      "id": "8ba5ce26df24d4e4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "海外看中国·全球发展倡议主题交流活动举行",
-      "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800112.html",
-      "publishedDate": "2026-09-17"
+      "title": "政策解读丨打通新技术新产品走向临床的“关键一公里”",
+      "url": "http://politics.people.com.cn/n1/2026/0918/c461001-40800765.html",
+      "publishedDate": "2026-09-18"
     },
     {
-      "id": "969af3c8e88983f3",
+      "id": "acec339c4a26b134",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨感悟踏实而温热的“减”与“加”",
+      "url": "http://opinion.people.com.cn/n1/2026/0918/c461529-40800743.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "2d894c409b81554a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨让人民享受更高品质的文化生活",
+      "url": "http://opinion.people.com.cn/n1/2026/0918/c461530-40800749.html",
+      "publishedDate": "2026-09-18"
+    },
+    {
+      "id": "204e401d5c6ebbb5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "2026智能经济论坛在京举行",
-      "url": "http://finance.people.com.cn/n1/2026/0917/c1004-40800108.html",
-      "publishedDate": "2026-09-17"
+      "title": "千年运河焕发新活力",
+      "url": "http://ent.people.com.cn/n1/2026/0918/c1012-40800771.html",
+      "publishedDate": "2026-09-18"
     }
   ],
   "errors": []
