@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T01:20:14.033Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T01:17:51.846Z",
   "sources": [
     {
       "id": "people",
@@ -15,319 +15,283 @@
   ],
   "items": [
     {
-      "id": "b05672341f9b6cbd",
+      "id": "acf2858461bf23c6",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "释放“海”的潜力 激发“江”的活力 做足“边”的文章",
-      "url": "http://finance.people.com.cn/n1/2026/0920/c1004-40801670.html",
-      "publishedDate": "2026-09-20"
+      "topic": "时政",
+      "title": "习近平主席引领全球发展倡议造福世界",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802338.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "648a40ee9d2313e1",
+      "id": "4e2a23a006a4a1a3",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "以文化自觉，守护城市根脉",
-      "url": "https://www.qstheory.cn/20260920/c1b0305470a9442d8bc0e4bfd96dde3f/c.html",
-      "publishedDate": "2026-09-20"
+      "title": "基础研究：如何把握组织化科研和自由探索的关系",
+      "url": "https://www.qstheory.cn/20260921/7fb06d8696914fde842c9f39b9dc2044/c.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "9eb60d9b83c9b160",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "今日谈|成才答卷,写在祖国大地上",
-      "url": "http://opinion.people.com.cn/n1/2026/0920/c461529-40801676.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "dd00f0dcc0f555fc",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "探索共同富裕的康庄大道",
-      "url": "https://www.qstheory.cn/20260920/28f167d21a4443598c39503d49c91e39/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "6919ef1d37eed05a",
+      "id": "949153ab8d7a817e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "湖北自贸试验区:改革破题 法律护航",
-      "url": "http://finance.people.com.cn/n1/2026/0920/c1004-40801677.html",
-      "publishedDate": "2026-09-20"
+      "title": "理念引领效应持续释放 务实合作成果接连落地",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802325.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "3f5dddd2a6a18374",
-      "source": "qiushi",
-      "sourceName": "求是网",
+      "id": "1715e36b9641f2d0",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
-      "title": "新一代通信网不止于扩容升级",
-      "url": "https://www.qstheory.cn/20260920/f3612a8761c447cf93d325d98910e9c9/c.html",
-      "publishedDate": "2026-09-20"
+      "title": "蜀乡\"战旗\"红 坊间万象新",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802441.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "80cda5fbe82619c4",
+      "id": "d403e80da344de6a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赵乐际同澳大利亚联邦议会众议长迪克会谈",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c1024-40802264.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "65d42c35acb42f90",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "铸牢共同体 中华一家亲|中华儿女咱心连着心",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802261.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "64c25eb3b771f2d2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "寰宇平|汇聚共同发展力量 照亮人类美好未来",
+      "url": "http://opinion.people.com.cn/n1/2026/0921/c461529-40802267.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "ad9067b9e986ddd2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "坚持制度治党、依规治党",
+      "url": "http://opinion.people.com.cn/n1/2026/0921/c461530-40802306.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "94bddf1ca7cacb8f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "南京高标准打造一流营商环境",
-      "url": "http://finance.people.com.cn/n1/2026/0920/c1004-40801672.html",
-      "publishedDate": "2026-09-20"
+      "title": "中美经贸磋商在美国纽约开始举行",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802269.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "9d621557b149b2cd",
-      "source": "qiushi",
-      "sourceName": "求是网",
+      "id": "d7b2190bd34a068e",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
-      "title": "弘扬长征精神 共筑强大国防",
-      "url": "https://www.qstheory.cn/20260920/83b778e1a996450a810d309edbfe1735/c.html",
-      "publishedDate": "2026-09-20"
+      "title": "赓续长征精神 奋进复兴征程|讲好长征故事 加快老区发展",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802262.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "237f5aff55459ebf",
+      "id": "124558d363d76a79",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "多彩丰收托举万家烟火",
-      "url": "http://finance.people.com.cn/n1/2026/0920/c1004-40801678.html",
-      "publishedDate": "2026-09-20"
+      "title": "活力中国调研行|湖南高质量发展\"三箭齐发\"",
+      "url": "http://finance.people.com.cn/n1/2026/0921/c1004-40802265.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "3d6b5997bca91e54",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
-      "url": "https://www.qstheory.cn/20260920/6f92fe8d4022409392ae84d2cbb82314/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "2f02b8564affb0cd",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|一碗坨坨饺唤起鱼水情",
-      "url": "http://politics.people.com.cn/n1/2026/0920/c461001-40801690.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "5f6d30248423bc10",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "我国完成“地星三号”卧床实验 为太空长期驻留和载人登月任务提供技术支持",
-      "url": "https://www.qstheory.cn/20260920/b7f5e173c9f44e52a7b0adf5bca05519/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "1ee28022bac5c7fe",
+      "id": "672938888c86b269",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "东博会:展品上新 机制创新 机遇更新",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801681.html",
-      "publishedDate": "2026-09-20"
+      "title": "一条轴线,何以生生不息",
+      "url": "http://ent.people.com.cn/n1/2026/0921/c1012-40802322.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "5ba0f73326ed9107",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "整治恶意炒作涉企信息 国家网信办从严处置一批违法违规账号",
-      "url": "https://www.qstheory.cn/20260920/c3fad2baef684a04a563a3da61c3e1bb/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "9b1dd20d02c5b0e0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国际论坛|上合组织不断焕发新的生机与活力",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801682.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "17f2d7f1ade06791",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "我国成功发射株洲太空星际PIESAT-2 13~16星",
-      "url": "https://www.qstheory.cn/20260920/bc1d099aa5664a14a3032942e19f58ae/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "7e82f423daf0e495",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "第二十届亚运会开幕",
-      "url": "http://ent.people.com.cn/n1/2026/0920/c1012-40801693.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "c36dfc04d66bb0c7",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "第48届世界技能大赛中国代表团在上海完成集结",
-      "url": "https://www.qstheory.cn/20260920/4a9d5a1c6e1d45339884f0dc8e27eb29/c.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "e887490a6af5b881",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "特朗普称将组建一支“人工智能部队”",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801668.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "a1bc2fbff3cf8a93",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "伊朗称仍在通过调解方向美方传递谈判条件",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801667.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "63b6b35b094f8575",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "俄罗斯“进步MS-35”货运飞船与国际空间站对接",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801669.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "3611db9de806974b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "“新时代统一战线论坛·2026”在京举办",
-      "url": "http://politics.people.com.cn/n1/2026/0920/c461001-40801680.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "e432c5fccc4897e7",
+      "id": "32209bf9eef6edf2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "“公园+”激发城市空间活力",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801688.html",
-      "publishedDate": "2026-09-20"
+      "title": "@所有人 技能高手对决,上海见",
+      "url": "http://society.people.com.cn/n1/2026/0921/c1008-40802287.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "1e4d33a71801e6df",
+      "id": "c3fa7f872fc81627",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "卡塔尔称美国希望与伊朗达成协议",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802414.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "230993c92e94d82b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "世界清洁日全球主场活动首次落地中国",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802389.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "960f8ad97a57f44c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "董建华先生公祭仪式在香港举行",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802263.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "5e7374e39dbd69ae",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "2026世界公众科学素质促进大会在北京开幕 李书磊出席并致辞",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c1001-40802272.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "4dd39dbc5c49b61d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李鸿忠在辽宁调研",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c1001-40802273.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "d9ec0b510d9f391c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "国务院任免国家工作人员",
+      "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802280.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "883a0100a2379416",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "权威发布丨推动平台经济创新和健康发展",
+      "url": "http://finance.people.com.cn/n1/2026/0921/c1004-40802274.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "b949caedd1cbd01e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "5位法院系统代表与中外记者见面交流",
+      "url": "http://society.people.com.cn/n1/2026/0921/c1008-40802279.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "021b27098968187d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "把青春华章写在祖国大地上丨青春逐梦启新程",
+      "url": "http://society.people.com.cn/n1/2026/0921/c1008-40802309.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "95c58fe6b2648683",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "与祖国发展同频共振",
+      "url": "http://society.people.com.cn/n1/2026/0921/c1008-40802310.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "b514124b2de4c481",
       "source": "people",
       "sourceName": "人民网",
       "topic": "科普",
-      "title": "2026致敬医者盛典在京举行",
-      "url": "http://health.people.com.cn/n1/2026/0920/c14739-40801691.html",
-      "publishedDate": "2026-09-20"
+      "title": "2026致敬医者盛典举行：医者仁心 践行生命至上",
+      "url": "http://health.people.com.cn/n1/2026/0921/c14739-40802302.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "9b8c436253ecab7a",
+      "id": "b56f45d59d8da2ab",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "理论丨把握敢于善于斗争的方法论",
+      "url": "http://opinion.people.com.cn/n1/2026/0921/c461530-40802307.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "9cc47a40a7d54e56",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "评论丨一个“齐”字，何以照见发展之路",
+      "url": "http://opinion.people.com.cn/n1/2026/0921/c461529-40802282.html",
+      "publishedDate": "2026-09-21"
+    },
+    {
+      "id": "d7cecf632aad97f8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "两岸影视双向奔赴",
-      "url": "http://tw.people.com.cn/n1/2026/0920/c14657-40801703.html",
-      "publishedDate": "2026-09-20"
+      "title": "走过这座桥，也成为这座桥",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802318.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "4fa669b6c0391584",
+      "id": "0b2491b6e777b59b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "“发出更强劲的全球南方声音”",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801683.html",
-      "publishedDate": "2026-09-20"
+      "title": "他们为什么学中文？",
+      "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802345.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "02bbab5105404fb7",
+      "id": "048b1a546ca34a09",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "“中国入境游”备受阿拉伯国家青睐",
-      "url": "http://world.people.com.cn/n1/2026/0920/c1002-40801686.html",
-      "publishedDate": "2026-09-20"
+      "title": "当科学家海报登上城市大屏",
+      "url": "http://finance.people.com.cn/n1/2026/0921/c1004-40802329.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "d15badf006a18f3f",
+      "id": "b1ec38f315d2f6be",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "从终本裁定里“抠”出的典型案例",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801958.html",
-      "publishedDate": "2026-09-20"
+      "topic": "综合",
+      "title": "6640笔理赔，暖了杞县老乡的心",
+      "url": "http://finance.people.com.cn/n1/2026/0921/c1004-40802327.html",
+      "publishedDate": "2026-09-21"
     },
     {
-      "id": "1a62ec6e02287471",
+      "id": "01f877cb4909416d",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "社会",
-      "title": "最高检发布10件全民国防教育日检察公益诉讼典型案例",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801953.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "218baa3c39e93305",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801927.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "4159a9effd54b59b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "共话国际商事法治新图景",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801922.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "2e79247ffc8aaaee",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "福建顺昌：协同联动破解查人找物执行难题",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801915.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "67969f6fac61c228",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "这位温和的法官，办了近五千件执行案",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801866.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "be2510cb832e8ac9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "重庆城口：让绿色资源转化为绿色收益",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801844.html",
-      "publishedDate": "2026-09-20"
-    },
-    {
-      "id": "3099fde903069cc3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "算电协同开启“闽宁协作”新模式",
-      "url": "http://society.people.com.cn/n1/2026/0920/c1008-40801842.html",
-      "publishedDate": "2026-09-20"
+      "topic": "综合",
+      "title": "走近太空新基建|打通地月“信息高速公路”",
+      "url": "http://finance.people.com.cn/n1/2026/0921/c1004-40802330.html",
+      "publishedDate": "2026-09-21"
     }
   ],
   "errors": []
