@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-23T01:35:28.120Z",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T01:32:14.207Z",
   "sources": [
     {
       "id": "people",
@@ -15,337 +15,328 @@
   ],
   "items": [
     {
-      "id": "832bb7029efd6d79",
+      "id": "52f38d10415f7416",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "艾奥瓦州\"老朋友\"热烈欢迎习近平主席访美",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803779.html",
-      "publishedDate": "2026-09-23"
+      "title": "习近平抵达华盛顿对美国进行国事访问",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1024-40804741.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "2c8bc1b5237c533a",
+      "id": "a96eb6a012ad72d1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1024-40804925.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "9814c60521e5f67a",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "“十五五”首个丰收节，总书记指引“三农”启新程",
-      "url": "https://www.qstheory.cn/20260923/27d9bc373c6a41928c909b0eafb3671c/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "习近平抵达安德鲁斯空军基地发表书面讲话",
+      "url": "https://www.qstheory.cn/20260924/75c38bf0e71543dfaf8ad5b6e8c521a6/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "fd701a5717bc459d",
+      "id": "5a08c66d31d43481",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "钟声|相向而行,走好大国正确相处之道",
-      "url": "http://opinion.people.com.cn/n1/2026/0923/c461529-40803791.html",
-      "publishedDate": "2026-09-23"
+      "topic": "综合",
+      "title": "一见|\"推动中美关系这艘巨轮沿着正确航道平稳前行\"",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804599.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "339fcf9848c11bb0",
+      "id": "2f9edefbfa16d602",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平总书记在“中国农民丰收节”到来之际的节日祝贺和诚挚问候凝聚“三农”发展合力",
-      "url": "https://www.qstheory.cn/20260923/2aab50f64d354567ab21ac5f9823d754/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "习近平主席抵达华盛顿 美方机场举行隆重迎接仪式",
+      "url": "https://www.qstheory.cn/20260924/52baf5e2573f40c69ca737c28f099501/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "5d7438e1ac32107e",
+      "id": "af9d4182d8250bb2",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国际社会热切期待习近平主席对美国进行国事访问",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803784.html",
-      "publishedDate": "2026-09-23"
+      "topic": "时政",
+      "title": "近闻·今年以来,习主席这样阐释中美关系",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804789.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "7e9372965864e3b7",
+      "id": "9352939a873fb086",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "推动中美关系迈向更美好未来——美国各界对习近平主席国事访问充满期待",
-      "url": "https://www.qstheory.cn/20260923/fddffdf9c3b446b48df79bff2d6de327/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "新华图讯丨习近平抵达华盛顿对美国进行国事访问",
+      "url": "https://www.qstheory.cn/20260924/d39355d306364fbc8e7f12c398b82bdd/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "4314b9601756a66b",
+      "id": "79b7860daaa5b228",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "习近平主席复信美国十所高校青年学生引发热烈反响",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803785.html",
-      "publishedDate": "2026-09-23"
+      "title": "国际论坛|美中元首会晤对两国和世界都意义重大",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804601.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "a22e5d57078800a3",
+      "id": "4f1e2a05dc36f02a",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "“愿做跨越太平洋的友谊使者”——习近平主席复信为中美友好合作汇聚青春力量",
-      "url": "https://www.qstheory.cn/20260923/aa606964bf444b098f06e7982fc093ca/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "习近平抵达华盛顿，特朗普机场热情迎接",
+      "url": "https://www.qstheory.cn/20260924/48b1072425ee49bd97f1ca4f4a87dbfc/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "3f3148f585425563",
+      "id": "3fe3d4607cb667dd",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "大使随笔|推动中美建设性战略稳定关系落地落实",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803786.html",
-      "publishedDate": "2026-09-23"
+      "topic": "时政",
+      "title": "跨越太平洋的青春之约",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804596.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "261895653b965d06",
+      "id": "2ee6d921309dbe5e",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "基础研究：如何把握自主和开放的关系",
-      "url": "https://www.qstheory.cn/20260923/fbbe6b7f401742519b6411406af34e47/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "习近平抵达华盛顿，开始对美国进行国事访问",
+      "url": "https://www.qstheory.cn/20260924/973afa3ff5bd401285f08d93d6e8cb49/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "ee4c2bdd2a45cbb8",
+      "id": "c94c939e3dd13275",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "让经贸继续成为中美关系的压舱石和推进器",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803806.html",
-      "publishedDate": "2026-09-23"
+      "title": "友城为舟 民心为帆",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804600.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "c2bd934106d0731c",
+      "id": "126013d68622c603",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "企业应该做基础研究吗",
-      "url": "https://www.qstheory.cn/20260923/425b8e83f06f40dfb6cae44caa88abed/c.html",
-      "publishedDate": "2026-09-23"
+      "title": "如何塑造有利于基础研究的创新生态",
+      "url": "https://www.qstheory.cn/20260924/cca04e71050e4c65a7d30b75d00911e3/c.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "461c12e272cde493",
+      "id": "9df22ad430b733da",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国际论坛|美中经贸关系稳定是重要国际公共产品",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803807.html",
-      "publishedDate": "2026-09-23"
+      "title": "中美关系的根基由人民浇筑,未来靠青年创造",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804618.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "c5f711beb1c39d83",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "驱动基础研究发展的动力是什么",
-      "url": "https://www.qstheory.cn/20260923/63ae2f6562754e619e4c2a1e17069623/c.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "e51a5efe79942783",
+      "id": "53b0f191b58425b4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "相知无远近——中美人文交流跨越山海美美与共",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40804073.html",
-      "publishedDate": "2026-09-23"
+      "title": "Follow Xi | \"中美关系希望在人民\"",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804787.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "9bd4ac4d75e01f2e",
+      "id": "2e2ea79a10dcf20a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "万里尚为邻——中美民间友好的六个印记",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40804074.html",
-      "publishedDate": "2026-09-23"
+      "title": "这一球,跨越55年",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804790.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "42935ddb9c7bd57f",
+      "id": "885aa6be12e2b87d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "“把我们的农民扶一把”，读懂总书记的“三农”瞩望",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803998.html",
-      "publishedDate": "2026-09-23"
+      "title": "和音|\"小球接力\",见证友谊传承",
+      "url": "http://opinion.people.com.cn/n1/2026/0924/c461529-40804619.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "72c3c34208c5c627",
+      "id": "ca2a4d720c6ed9de",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "从三个丰收故事看乡村全面振兴好势头",
-      "url": "http://finance.people.com.cn/n1/2026/0923/c1004-40803781.html",
-      "publishedDate": "2026-09-23"
+      "title": "\"美中两国都将受益于稳定的贸易关系\"",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804603.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "30bcfb86eb16ce58",
+      "id": "af04b6b363e15238",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "今日谈丨将大地厚赠化为农民美好生活",
-      "url": "http://opinion.people.com.cn/n1/2026/0923/c461529-40803782.html",
-      "publishedDate": "2026-09-23"
+      "title": "述评|推动中美关系大船平稳前行",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804808.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "83e8e557b8702ffb",
+      "id": "5edebac94de1f8dc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "努力让广大农民生活更加幸福美好",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804594.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "37a8b9f84eb2035f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "精进技艺 技能成才",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804595.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "ed02ac7124bb9276",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李强出席2026年世界技能大会开幕式并致辞",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1024-40804592.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "1b78ecb6c51fc578",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "第七届全国少数民族文艺会演在京闭幕 王沪宁出席闭幕式",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1024-40804593.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "5e91b6315fb6975a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "高质量推进城市更新是城市现代化建设的重要抓手",
+      "url": "http://opinion.people.com.cn/n1/2026/0924/c461530-40804635.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "a32b0e0b835ecf9f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "从通道联通到和合共生",
+      "url": "http://opinion.people.com.cn/n1/2026/0924/c461529-40804628.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "156d41fe8f33ec54",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "外国网友点赞中国“三农”新貌",
-      "url": "http://finance.people.com.cn/n1/2026/0923/c1004-40803855.html",
-      "publishedDate": "2026-09-23"
+      "title": "\"十五五\"开好局起好步|大连前瞻布局氢能产业",
+      "url": "http://finance.people.com.cn/n1/2026/0924/c1004-40804598.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "47f4da00209f03e4",
+      "id": "bd5aa932fd42d42f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "六起违反中央八项规定精神典型问题被公开通报",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804613.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "128837ff287faf3f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赓续长征精神 奋进复兴征程|喜看红乡披\"新裳\"",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804597.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "84496e8870dd6409",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "权威发布|\"十五五\"民政事业有这些重点",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c461001-40804610.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "1943f1962d02fcb4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国农民“云连线”五大洲农友",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803858.html",
-      "publishedDate": "2026-09-23"
+      "title": "这三封信,写给爱科学的孩子们",
+      "url": "http://finance.people.com.cn/n1/2026/0924/c1004-40804647.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "6f4c6efb61237b3d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平向第48届世界技能大赛致贺信",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803776.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "7c53f4437dfab3e6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "蔡奇出席纪念中国工农红军长征胜利90周年主题展览开幕式",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803850.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "fdf5367a971a3afb",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "丁薛祥会见哈萨克斯坦第一副总理纳利巴耶夫",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803777.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "4284458d9102454e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "韩正会见柬埔寨国王西哈莫尼和太后莫尼列",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803783.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "02d5d76c457e5afd",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "以农业科技创新支撑农业强国建设",
-      "url": "http://opinion.people.com.cn/n1/2026/0923/c461530-40803821.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "dbd54353d5b10bba",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|红色记忆 永不褪色",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803804.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "108c8204187959ea",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "壹时评:丰收节里读懂\"中国粮\"的世界分量",
-      "url": "http://opinion.people.com.cn/n1/2026/0923/c223228-40803937.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "a4dfd3811d3728b0",
+      "id": "86493cc3011734b7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "特朗普证实美伊官员在纽约会谈3小时",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803851.html",
-      "publishedDate": "2026-09-23"
+      "title": "求索比答案更珍贵",
+      "url": "http://finance.people.com.cn/n1/2026/0924/c1004-40804648.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "842c696109b8acbc",
+      "id": "21f81c9c5fdd2724",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "欧盟延长涉乌克兰危机制裁措施至2029年",
-      "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803849.html",
-      "publishedDate": "2026-09-23"
+      "title": "秋收来了AI助手",
+      "url": "http://finance.people.com.cn/n1/2026/0924/c1004-40804653.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "fd77a93c14eafdac",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "2026北京文化论坛开幕 李书磊出席并发表主旨演讲",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803800.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "386a14816ac62594",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "张国清出席2026年全国食品安全宣传周主场活动",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803801.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "707eb715c254f3ec",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803802.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "85b6625d30f2654c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "8月全国查处违反中央八项规定精神问题29171起",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803795.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "123c739f2f505a7b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王小洪：坚决扛牢守百姓幸福护家国平安重任",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803803.html",
-      "publishedDate": "2026-09-23"
-    },
-    {
-      "id": "5f5adf40d64bfa35",
+      "id": "9cb6be74a6f84a74",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "权威发布丨配置好使用好新增建设用地等资源",
-      "url": "http://finance.people.com.cn/n1/2026/0923/c1004-40803796.html",
-      "publishedDate": "2026-09-23"
+      "title": "智慧赋能,绘就新\"丰\"景",
+      "url": "http://finance.people.com.cn/n1/2026/0924/c1004-40804654.html",
+      "publishedDate": "2026-09-24"
     },
     {
-      "id": "59f16e3a79af9fab",
+      "id": "b8e6fd04ad1f41e9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方呼吁俄乌早日实现停火止战",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804671.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "c42626c89ec7cb53",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "也门胡塞武装:近期逾400艘商船通过曼德海峡",
+      "url": "http://world.people.com.cn/n1/2026/0924/c1002-40804672.html",
+      "publishedDate": "2026-09-24"
+    },
+    {
+      "id": "51e5fe4f3704af76",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "西藏等3省区党委主要负责同志职务调整",
-      "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803805.html",
-      "publishedDate": "2026-09-23"
+      "title": "刘国中出席2026年中国农民丰收节全国主场活动",
+      "url": "http://politics.people.com.cn/n1/2026/0924/c1001-40804607.html",
+      "publishedDate": "2026-09-24"
     }
   ],
   "errors": []
