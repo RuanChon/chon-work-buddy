@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T01:40:06.133Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T01:45:04.420Z",
   "sources": [
     {
       "id": "people",
@@ -15,301 +15,328 @@
   ],
   "items": [
     {
-      "id": "2b9e7b89d315849b",
+      "id": "53846ecec0eaa24e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805418.html",
-      "publishedDate": "2026-09-25"
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "88b66ad8013e6dbb",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805497.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "7946ab0408d5b2e2",
+      "id": "2d249c1357370eca",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平同美国总统特朗普会谈",
-      "url": "https://www.qstheory.cn/20260925/1101a258b97b48dbb7671868dfad5a48/c.html",
-      "publishedDate": "2026-09-25"
+      "title": "习近平圆满结束对美国的国事访问",
+      "url": "https://www.qstheory.cn/20260926/587861dbc0be47958789149e2eaec198/c.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "f8636391c0baf458",
+      "id": "0f61d4e0dc0b03f3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805684.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "c699b1524ab39b20",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
-      "url": "https://www.qstheory.cn/20260925/a2faf85af63c4a50ab910c052dcf9fa5/c.html",
-      "publishedDate": "2026-09-25"
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆",
+      "url": "https://www.qstheory.cn/20260926/907e1a5ed9f14253bce079376afbbdc5/c.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "73af272aaff92102",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平：把中美建设性战略稳定关系从愿景转化为行动",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805345.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "83b51a2aa5cc6954",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-      "url": "http://pic.people.com.cn/n1/2026/0925/c426981-40805370.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "944fdfe16fc3499b",
+      "id": "35073e81ffaf33e8",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "新华社快讯：习近平出席美国总统特朗普举行的欢迎宴会",
-      "url": "https://www.qstheory.cn/20260925/616ee3931b4942558c7a76755b566068/c.html",
-      "publishedDate": "2026-09-25"
+      "title": "习近平向全球发展倡议5周年高级别对话会致贺信",
+      "url": "https://www.qstheory.cn/20260926/828a097dfab5451e9a5492840562dc46/c.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "925a2718be66332b",
+      "id": "40236aa23d400c29",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "习近平同美国总统特朗普小范围交流",
-      "url": "http://pic.people.com.cn/n1/2026/0925/c426981-40805348.html",
-      "publishedDate": "2026-09-25"
+      "title": "为中美关系提供新的战略指引",
+      "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "af24e95281ed2d46",
+      "id": "0ad8600030f98117",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平谈中东局势",
-      "url": "https://www.qstheory.cn/20260925/b8d1596d3a94491eb5e2379ef2b7d580/c.html",
-      "publishedDate": "2026-09-25"
+      "title": "习近平主席讲述的中美人民友好故事",
+      "url": "https://www.qstheory.cn/20260926/04e30fc47ba942e3b36aa03449b163c0/c.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "2ea2995c6b759b6e",
+      "id": "948d6957f4ff7741",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平出席特朗普在白宫举行的欢迎仪式",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805380.html",
-      "publishedDate": "2026-09-25"
+      "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+      "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "d3db2186a20a2970",
+      "id": "7493219f274aa537",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平：美方应慎重处理台湾问题",
-      "url": "https://www.qstheory.cn/20260925/9b3abfc3a57d4ae797521b91227b145e/c.html",
-      "publishedDate": "2026-09-25"
+      "title": "三个维度理解中美建设性战略稳定关系",
+      "url": "https://www.qstheory.cn/20260926/a21f63ec44f042bdb1f5b06c7d4b34e3/c.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "62eae0f67eb15f15",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "习近平在白宫欢迎仪式上的致辞(全文)",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805382.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "78a956b8f2aa8fad",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "一见|这份倡议,关乎中美关系的未来",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805384.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "903104c16b40efa2",
+      "id": "d6d04348b7d7e01f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "引领中美关系这艘大船行稳致远",
-      "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805388.html",
-      "publishedDate": "2026-09-25"
+      "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+      "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "edad18ea327b7fdc",
+      "id": "af738e213ac8cc29",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "把中美建设性战略稳定关系从愿景转化为行动",
+      "url": "https://www.qstheory.cn/20260926/4cb3221ddc0940999b183eade926cfe4/c.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "9d2c2032f60d5785",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "以网络安全法治护航人工智能健康发展",
+      "url": "https://www.qstheory.cn/20260926/bb8d84a014da4b1ba90dfc99c671177a/c.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "86916666f0976134",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美国企业代表:坚定做中国发展的长期伙伴",
-      "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805389.html",
-      "publishedDate": "2026-09-25"
+      "title": "生物制造为未来产业发展打造新引擎",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805726.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "39694d4dbd5e14a9",
+      "id": "90b0054bc0820755",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "能源转型发展“难”在哪里",
+      "url": "https://www.qstheory.cn/20260926/b3bd43ffa3b649a98f38c7988cbda342/c.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "1d01cca601a49853",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "韩正分别会见塞浦路斯总统、",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40805701.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "ae22892e1732923b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "今日谈|明月亘古 发展弥新",
+      "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805716.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "e7d47b0ad48a5b2c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"为美中关系发展注入正能量\"",
-      "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805390.html",
-      "publishedDate": "2026-09-25"
+      "title": "杭州加速打通人工智能生产力转化通道",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805717.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "d977f0b3a8d65691",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "金轩：北斗为新兴支柱产业打造重要增长极",
-      "url": "http://opinion.people.com.cn/n1/2026/0925/c461529-40805391.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "4fa9914e06305db4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "学习新语|团圆最幸福",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805414.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "a8942445dc594bb9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805392.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "52321fc133397635",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赵乐际在吉林黑龙江调研",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805395.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "3c201235fdfdb6e2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王沪宁主持召开全国政协主席会议",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805396.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "d557ccfc8bcd3aab",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|扎进红色山乡 孕育金色希望",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805399.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "f1ae627262e8b337",
+      "id": "7dec9da03fdbd0ba",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "前8月全国新设经营主体1550.2万户",
-      "url": "http://finance.people.com.cn/n1/2026/0925/c1004-40805386.html",
-      "publishedDate": "2026-09-25"
+      "title": "全国建成一刻钟便民生活圈9156个",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805718.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "2fa3db0d30ed997d",
+      "id": "bd75dfd2883b925b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赓续长征精神 奋进复兴征程|三代接力,从一个人到一群人",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805733.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "2ec367b532bad125",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "数字贸易新图景:AI应用全面开花",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805727.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "1c41cb2c8c265d5e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "共同创造更加繁荣稳定、公平正义的世界",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805734.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "c710f5da9a3f013b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "大地秋韵·千里共婵娟",
+      "url": "http://ent.people.com.cn/n1/2026/0926/c1012-40805704.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "629ea4830a512eb6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "南太平洋新喀里多尼亚附近海域发生6.6级地震",
+      "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805742.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "c9220d13316b9c8a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "沙土巴三国军方高层会晤 着手落实共同防务协议",
+      "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805705.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "b8fdd153c518f561",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中国海军\"吉祥方舟\"号医院船抵达塞内加尔",
+      "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805703.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "af74702624faf207",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "我们的节日·中秋丨传承团圆文脉 厚植家国情怀",
+      "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805732.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "3b46abd48a00e358",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "1至8月全国新设经营主体1550.2万户 市场活力持续激发",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805708.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "3a2c23cdccef07e7",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "10部门推出促进房车消费措施",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805731.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "c01e85bdce5edb17",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
       "title": "中国对外投资存量连续9年保持全球前三",
-      "url": "http://finance.people.com.cn/n1/2026/0925/c1004-40805387.html",
-      "publishedDate": "2026-09-25"
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805706.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "fda31da554460f2c",
+      "id": "09717edd273bed2e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "统筹推动文化事业、文化产业和旅游业高质量发展",
-      "url": "http://finance.people.com.cn/n1/2026/0925/c1004-40805397.html",
-      "publishedDate": "2026-09-25"
+      "title": "截至8月底电动汽车充电基础设施超2420万个",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805712.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "2df4766d6545c8ca",
+      "id": "bb564db4c7ced6c3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "中秋假期第一天 全社会跨区域人员流动量超2.43亿人次",
+      "url": "http://society.people.com.cn/n1/2026/0926/c1008-40805746.html",
+      "publishedDate": "2026-09-26"
+    },
+    {
+      "id": "ea21672d9ed5b4ce",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "大地秋韵·经典里的中秋",
-      "url": "http://ent.people.com.cn/n1/2026/0925/c1012-40805369.html",
-      "publishedDate": "2026-09-25"
+      "title": "走进世界技能大赛丨技能让文化交融交流",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805729.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "86d01a4000d9021e",
+      "id": "20baa89dda9df920",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "法国拟召集七国集团商讨释放战略石油储备",
-      "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805378.html",
-      "publishedDate": "2026-09-25"
+      "title": "读懂中国制造的世界价值",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805692.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "7cd6cc1ad75c4b6c",
+      "id": "28eb6bf31bb64f4d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "哥伦比亚宣布与伊朗断绝外交关系",
-      "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805377.html",
-      "publishedDate": "2026-09-25"
+      "title": "中国第16次北冰洋考察丨加克洋中脊调查获新突破",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805696.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "5b89b8ac83cf3e8b",
+      "id": "95362b9c2e64d2e6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "第五届全球数字贸易博览会在浙江杭州启动",
-      "url": "http://pic.people.com.cn/n1/2026/0925/c1016-40805352.html",
-      "publishedDate": "2026-09-25"
+      "title": "民间资本参与重大项目建设空间持续拓宽",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805710.html",
+      "publishedDate": "2026-09-26"
     },
     {
-      "id": "1737d1bd9da91e2a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "李鸿忠：更好发挥法治保障国家粮食安全重要作用",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c1001-40805398.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "92f05b021d116d6d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "全国人大常委会无障碍环境建设法执法检查组举行第二次全体会议",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805400.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "544e79ce5b00074b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "全国政协“委员科学讲堂”举办科普讲座",
-      "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805404.html",
-      "publishedDate": "2026-09-25"
-    },
-    {
-      "id": "06e02b056d82d11b",
+      "id": "bf48acda1be234c5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "权威发布｜全力确保假期平安顺畅出行",
-      "url": "http://finance.people.com.cn/n1/2026/0925/c1004-40805385.html",
-      "publishedDate": "2026-09-25"
+      "title": "京港高铁雄商段等4条高铁将开通",
+      "url": "http://finance.people.com.cn/n1/2026/0926/c1004-40805730.html",
+      "publishedDate": "2026-09-26"
     }
   ],
   "errors": []
