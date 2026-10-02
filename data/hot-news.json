@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T02:15:29.140Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T02:22:15.665Z",
   "sources": [
     {
       "id": "people",
@@ -15,274 +15,274 @@
   ],
   "items": [
     {
-      "id": "23a443f7c7f3b309",
+      "id": "54e7e0c289c321c0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报社论：在新的伟大征程上接续奋斗再创辉煌",
-      "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808491.html",
-      "publishedDate": "2026-10-01"
+      "title": "人民日报评论员：努力在服务新时代国家战略中当先锋作表率",
+      "url": "http://opinion.people.com.cn/n1/2026/1002/c461529-40808715.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "d3c963394fb0e103",
+      "id": "d85fb21d8d5bcd74",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1024-40808486.html",
-      "publishedDate": "2026-10-01"
+      "title": "重要讲话引发热烈反响",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808872.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "79ddc3a30d837945",
+      "id": "bf4a77e8b3a4cdd5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平：为新中国取得的举世瞩目成就无比自豪",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808593.html",
-      "publishedDate": "2026-10-01"
+      "title": "激励亿万人民踔厉奋发、勇毅前行",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c1001-40808716.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "24aa253ff9679dd5",
+      "id": "4fc618347b9de42b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习语丨“伟大的中华人民共和国万岁！”",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808591.html",
-      "publishedDate": "2026-10-01"
+      "title": "一见丨迈步新征程，我们自信而笃行",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808720.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "78f51254df9f83de",
+      "id": "10a7c879a63b24b3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1024-40808487.html",
-      "publishedDate": "2026-10-01"
+      "title": "领航丨江山壮阔万象新",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808861.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "1e92bc9d0db0c2f6",
+      "id": "3cb573b6b68487ab",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "《求是》杂志发表习近平总书记重要文章",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808490.html",
-      "publishedDate": "2026-10-01"
+      "title": "习语|爱国是心之所系、情之所归",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808865.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "efa1da9a04724769",
+      "id": "06c0a7cb82d513e6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "努力在服务新时代国家战略中当先锋作表率",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808492.html",
-      "publishedDate": "2026-10-01"
+      "title": "习近平主席华盛顿之行:三个场景的历史分量",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808869.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "2803ca7936ac17a1",
+      "id": "92daf2011968d93f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "神州共欢歌 同心贺华诞",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808714.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "80d43895f6d5b64a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "金轩:新场景激活发展新动能",
+      "url": "http://opinion.people.com.cn/n1/2026/1002/c461529-40808725.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "17232e0a0ab06e51",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "大道之行|\"一位大国领导人的远见与格局\"",
-      "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808493.html",
-      "publishedDate": "2026-10-01"
+      "title": "\"中国机遇2.0\"的三重红利",
+      "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808718.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "7a082469408e5c2f",
+      "id": "d08b7d22612b1f5b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "时政画说|山河永念",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808602.html",
-      "publishedDate": "2026-10-01"
+      "title": "赓续长征精神 奋进复兴征程|从\"红色电波\"到数智之城",
+      "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808717.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "b8994bebade590bb",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "今日谈|弘扬英烈精神 凝聚奋进力量",
-      "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808505.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "b434ac63eaf50db5",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "任网平:从凌晨排队到世赛夺金,看见技能人才的时代机遇",
-      "url": "http://opinion.people.com.cn/n1/2026/1001/c462630-40808529.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "e3ca8603ce681078",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "权威发布|现代化水网建设加快推进",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808502.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "a9ce0e1e57da82a9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "金轩:服务业打开内需新空间",
-      "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808506.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "ed3acdb6b1444eaf",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|汲取红色养分 乡村花繁叶茂",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808503.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "c68a17f04ac519c1",
+      "id": "45fbe1ea0e5ff436",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国式现代化的生动实践拓展了现代化的实现路径",
-      "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808494.html",
-      "publishedDate": "2026-10-01"
+      "title": "重庆,越过山峰闯新路",
+      "url": "http://unn.people.com.cn/n1/2026/1002/c14717-40808740.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "13a44d8160b6105c",
+      "id": "590f397291fee63d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美防长宣布组建“自主作战司令部”",
-      "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808521.html",
-      "publishedDate": "2026-10-01"
+      "title": "多国人士盛赞中国发展成就 期待深化对华合作",
+      "url": "http://world.people.com.cn/n1/2026/1002/c1002-40808721.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "db1a9bd3b3a6cafb",
+      "id": "08fe0e2db03bea5d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "黄河水\"浇\"出好日子",
+      "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808730.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "5a1cc9a00f68d0ce",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "扎哈罗娃：愿深化俄中立法机构间合作",
-      "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808517.html",
-      "publishedDate": "2026-10-01"
+      "title": "亲历新中国的\"第一\"|跨越山海星河 书写时代新篇",
+      "url": "http://finance.people.com.cn/n1/2026/1002/c1004-40808731.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "f541cfbd3764aee8",
+      "id": "0ab36a04de2ab08b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "北京发布商品住房销售制度改革后首宗土拍项目",
-      "url": "http://finance.people.com.cn/n1/2026/1001/c1004-40808478.html",
-      "publishedDate": "2026-10-01"
+      "title": "菜市场里看具体、丰富、鲜活的中国",
+      "url": "http://ent.people.com.cn/n1/2026/1002/c1012-40808732.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "302612f68315ba12",
+      "id": "02d18677f084c3a1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "假期首日全社会跨区域人员流动量预计超3.3亿人次",
+      "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808719.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "51e69531af97bf5d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "欧洲航空安全局就沙特空域发布安全建议",
-      "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808518.html",
-      "publishedDate": "2026-10-01"
+      "title": "中方在联大三委作共同发言 敦促遏止单边强制措施",
+      "url": "http://world.people.com.cn/n1/2026/1002/c1002-40808739.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "c2e2f9896f04fa8c",
+      "id": "ad2e357d60fada24",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国担当赋能“一带一路”共建",
-      "url": "http://theory.people.com.cn/n1/2026/1001/c40531-40808607.html",
-      "publishedDate": "2026-10-01"
+      "title": "厄特宣布与埃塞断绝外交关系",
+      "url": "http://world.people.com.cn/n1/2026/1002/c1002-40808738.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "d71d2030bfadd5cf",
+      "id": "bed4eae1d1b87e28",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "堵漏洞补短板 养老院里人心暖",
-      "url": "http://fanfu.people.com.cn/n1/2026/1001/c64371-40808563.html",
-      "publishedDate": "2026-10-01"
+      "title": "龙与熊“相遇” 马德里中西融合式牌坊揭幕",
+      "url": "http://world.people.com.cn/n1/2026/1002/c1002-40808705.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "f990d0e28710b7dd",
+      "id": "08f3d4bae7d3cf83",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "老百姓说好才是真的好",
-      "url": "http://fanfu.people.com.cn/n1/2026/1001/c64371-40808562.html",
-      "publishedDate": "2026-10-01"
+      "title": "国家繁荣富强 人民幸福安康",
+      "url": "http://pic.people.com.cn/n1/2026/1002/c1016-40808728.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "3a5050fb5d0097d5",
+      "id": "88400cadd5c2c508",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "天津市市管干部任前公示",
-      "url": "http://renshi.people.com.cn/n1/2026/1001/c139617-40808603.html",
-      "publishedDate": "2026-10-01"
+      "title": "畅游花海 乐享假期",
+      "url": "http://pic.people.com.cn/n1/2026/1002/c1016-40808850.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "5fc9988cc5b11dee",
+      "id": "2fd7e3a9fe278ab2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "赤胆忠诚写春秋 强军报国建功勋——纪念刘华清同志诞辰110周年",
-      "url": "http://military.people.com.cn/n1/2026/1001/c1011-40808508.html",
-      "publishedDate": "2026-10-01"
+      "title": "探访辽宁省水下机器人工程研究中心",
+      "url": "http://pic.people.com.cn/n1/2026/1002/c1016-40808833.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "e48ef2f1bdd35d91",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "中国政府友谊奖颁奖仪式在北京举行 谌贻琴出席并讲话",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808519.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "17f604da19c77746",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "《中国发展报告2026》在京首发",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808479.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "c34fcdc0256ce39d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "《关于促进广播电视和网络视听公益广告高质量发展的意见》发布",
-      "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808520.html",
-      "publishedDate": "2026-10-01"
-    },
-    {
-      "id": "592ec12145d71df7",
+      "id": "7723e8072fdb9831",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国台办：欢迎两岸同胞为“两制”台湾方案提出更多意见和建议",
-      "url": "http://tw.people.com.cn/n1/2026/1001/c14657-40808481.html",
-      "publishedDate": "2026-10-01"
+      "title": "成达万高铁开启全线铺轨施工",
+      "url": "http://pic.people.com.cn/n1/2026/1002/c1016-40808873.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "ebd0bb6fa6d93035",
+      "id": "57199322f37666ac",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "三大指数重返扩张区间 我国经济景气水平有所回升",
-      "url": "http://finance.people.com.cn/n1/2026/1001/c1004-40808485.html",
-      "publishedDate": "2026-10-01"
+      "title": "新时代中国特色社会主义文化发展要求",
+      "url": "http://theory.people.com.cn/n1/2026/1002/c40531-40808848.html",
+      "publishedDate": "2026-10-02"
     },
     {
-      "id": "b0bc4a52010b7587",
+      "id": "31d80571fd4d80bf",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "房贷贴息如何办，六大行发文推进落实",
-      "url": "http://finance.people.com.cn/n1/2026/1001/c1004-40808484.html",
-      "publishedDate": "2026-10-01"
+      "title": "以全链条闭环体系激活青年党员队伍动能",
+      "url": "http://dangjian.people.com.cn/n1/2026/1002/c117092-40808845.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "735d7b2aca223464",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "上海市市管干部任职前公示",
+      "url": "http://renshi.people.com.cn/n1/2026/1002/c139617-40808830.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "f659432b79f325cc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "重庆江津：营造崇廉尚廉良好氛围",
+      "url": "http://fanfu.people.com.cn/n1/2026/1002/c64371-40808837.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "793f67df7617ce69",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "新中国成立伊始的首次建交",
+      "url": "http://cpc.people.com.cn/n1/2026/1002/c443712-40808846.html",
+      "publishedDate": "2026-10-02"
+    },
+    {
+      "id": "1b99ed4229f71565",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "公安部交管局提示：国庆假期出行牢记交通安全",
+      "url": "http://society.people.com.cn/n1/2026/1002/c1008-40808699.html",
+      "publishedDate": "2026-10-02"
     }
   ],
   "errors": [
