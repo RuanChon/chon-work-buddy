@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-03T02:09:12.023Z",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T02:47:10.668Z",
   "sources": [
     {
       "id": "people",
@@ -15,274 +15,274 @@
   ],
   "items": [
     {
-      "id": "d40b811caf09a70b",
+      "id": "3309494b9889a85d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "长征精神永传承 昂扬奋进启新程",
-      "url": "http://politics.people.com.cn/n1/2026/1003/c461001-40808997.html",
-      "publishedDate": "2026-10-03"
+      "title": "人民日报评论员：为变乱交织的世界注入更多确定性和正能量",
+      "url": "http://opinion.people.com.cn/n1/2026/1004/c461529-40809199.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "5e9c585f17c332f9",
+      "id": "ebf052174d73e4a3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "以奋斗之姿书写时代华章",
-      "url": "http://politics.people.com.cn/n1/2026/1003/c1001-40808999.html",
-      "publishedDate": "2026-10-03"
+      "title": "\"五十六个民族就是相亲相爱的一家人\"",
+      "url": "http://politics.people.com.cn/n1/2026/1004/c461001-40809198.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "1e8a0d83974fb589",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"理解中国发展重点和政策方向的重要参考\"",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809001.html",
-      "publishedDate": "2026-10-03"
-    },
-    {
-      "id": "f413c91ed780466c",
+      "id": "aa474c1c1950f995",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "金轩:支持民营企业在高质量发展中大显身手",
-      "url": "http://opinion.people.com.cn/n1/2026/1003/c461529-40809007.html",
-      "publishedDate": "2026-10-03"
+      "title": "一见·读懂总书记的丰收祝愿",
+      "url": "http://politics.people.com.cn/n1/2026/1004/c1001-40809202.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "bfab825f90c33483",
+      "id": "4cdf609507e7317e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "元首外交引领中美关系稳步前行",
+      "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809209.html",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "id": "605c5a31657ba63a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|跟着政策走 日子有奔头",
-      "url": "http://politics.people.com.cn/n1/2026/1003/c461001-40809005.html",
-      "publishedDate": "2026-10-03"
+      "title": "金轩:加快建设强大国内市场",
+      "url": "http://opinion.people.com.cn/n1/2026/1004/c461529-40809203.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "f196de95a6e92116",
+      "id": "375e63e2662dd9e7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"两山\"理念的生动实践",
-      "url": "http://env.people.com.cn/n1/2026/1003/c1010-40809016.html",
-      "publishedDate": "2026-10-03"
+      "title": "行走山河,阅见文化中国",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809200.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "6bb8f473f7882d9f",
+      "id": "298d86ec0bc780f6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "绍兴上虞何以竞逐具身智能赛道",
-      "url": "http://finance.people.com.cn/n1/2026/1003/c1004-40809000.html",
-      "publishedDate": "2026-10-03"
+      "title": "多国政要祝贺新中国成立77周年 希望继续深化对华关系",
+      "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809208.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "3b055dba8ff1c4f6",
+      "id": "a6bd789d2e5a4a32",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赓续长征精神 奋进复兴征程|金银滩上的新故事",
+      "url": "http://politics.people.com.cn/n1/2026/1004/c461001-40809204.html",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "id": "883c249fb92c5cff",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "激发县域消费潜能",
-      "url": "http://finance.people.com.cn/n1/2026/1003/c1004-40809006.html",
-      "publishedDate": "2026-10-03"
+      "title": "家国同庆 文明同行",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809201.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "9dc52a720179d148",
+      "id": "23a5e6732af59863",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "沈阳故宫博物院百年回望",
-      "url": "http://ent.people.com.cn/n1/2026/1003/c1012-40809017.html",
-      "publishedDate": "2026-10-03"
+      "title": "\"在平陆运河,做到100分才合格\"",
+      "url": "http://finance.people.com.cn/n1/2026/1004/c1004-40809216.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "3039e2f34350ee41",
+      "id": "8d462ac938eb8f37",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "从三个纹样看敦煌美学内涵",
-      "url": "http://ent.people.com.cn/n1/2026/1003/c1012-40809020.html",
-      "publishedDate": "2026-10-03"
+      "title": "从\"人找书\"到\"书找人\"",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809220.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "b68ae2dce808ec26",
+      "id": "5ed93dfb3b9347dc",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国式现代化为全球南方发展提供宝贵启示",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809002.html",
-      "publishedDate": "2026-10-03"
+      "title": "古村有了\"护身符\"",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809217.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "5071ef381ef4a913",
+      "id": "8f4a8272cebc50e5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809031.html",
-      "publishedDate": "2026-10-03"
+      "title": "上海入境游,热度\"节节高\"",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809205.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "53240ac601f338cd",
+      "id": "8d8f72ff6c9bb3f6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "沙土巴三国将会商与胡塞武装政治接触",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809030.html",
-      "publishedDate": "2026-10-03"
+      "title": "研考报名临近，报名流程有新变化",
+      "url": "http://edu.people.com.cn/n1/2026/1004/c1006-40809401.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "c679ea162789dc5b",
+      "id": "e8363cbfd3d95ed4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "七国集团将释放1亿桶战略石油储备",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809029.html",
-      "publishedDate": "2026-10-03"
+      "title": "毕焜将担任爱知·名古屋亚运会闭幕式中国代表团旗手",
+      "url": "http://ent.people.com.cn/n1/2026/1004/c1012-40809374.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "5d3642fff99ea7f3",
+      "id": "dfc341839dee4400",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美驻巴西使领馆及澳驻巴西使馆因“安全问题”关闭",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809028.html",
-      "publishedDate": "2026-10-03"
+      "title": "伊媒:伊朗革命卫队近日对7艘\"违规\"油轮采取行动",
+      "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809230.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "fa685ce2ab2e7d4a",
+      "id": "dbe01c89f32b0bc5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "在新的长征路上继续奋勇前进",
-      "url": "http://pic.people.com.cn/n1/2026/1003/c1016-40809013.html",
-      "publishedDate": "2026-10-03"
+      "title": "也门胡塞武装称袭击沙特首都利雅得石油设施",
+      "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809228.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "9048aea5cef11dec",
+      "id": "d5786bf6a6333b9f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "让应用型人才在产业场景中淬炼成长",
-      "url": "http://theory.people.com.cn/n1/2026/1003/c40531-40809078.html",
-      "publishedDate": "2026-10-03"
+      "title": "新时代画卷丨活力中国 和美假期",
+      "url": "http://pic.people.com.cn/n1/2026/1004/c1016-40809213.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "00192ba739c45b7c",
+      "id": "780bd1fb43058e21",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "甲骨文与早期汉字体系的建立",
-      "url": "http://theory.people.com.cn/n1/2026/1003/c40531-40809077.html",
-      "publishedDate": "2026-10-03"
+      "title": "假日坚守建设一线",
+      "url": "http://pic.people.com.cn/n1/2026/1004/c1016-40809369.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "2252ca36d3b8d513",
+      "id": "762088124d95c24d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "居民过节，社区服务不能打烊",
-      "url": "http://dangjian.people.com.cn/n1/2026/1003/c117092-40809101.html",
-      "publishedDate": "2026-10-03"
+      "title": "黄河壶口瀑布景区迎来大客流",
+      "url": "http://pic.people.com.cn/n1/2026/1004/c1016-40809376.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "6d290066524ca7e6",
+      "id": "d797357c025b517c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "长征时期党的廉洁纪律建设及启示",
-      "url": "http://cpc.people.com.cn/n1/2026/1003/c443712-40809080.html",
-      "publishedDate": "2026-10-03"
+      "title": "让这道“风景”永恒",
+      "url": "http://theory.people.com.cn/n1/2026/1004/c40531-40809268.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "938c10723b113064",
+      "id": "93c19cac95d92c02",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "红军长征与抗战格局的塑造",
-      "url": "http://cpc.people.com.cn/n1/2026/1003/c443712-40809081.html",
-      "publishedDate": "2026-10-03"
+      "title": "释放历史经典产业消费潜能",
+      "url": "http://theory.people.com.cn/n1/2026/1004/c40531-40809273.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "0718fc3b6e307024",
+      "id": "a67245551bba7d34",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "红色老区勇闯产业难关",
+      "url": "http://dangjian.people.com.cn/n1/2026/1004/c117092-40809275.html",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "id": "b2515850e4f70c6f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "于出发地，回望岁月寻初心",
+      "url": "http://cpc.people.com.cn/n1/2026/1004/c443712-40809323.html",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "id": "bd7fb92c751e9d84",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "停摆的八音钟见证红军铁纪",
+      "url": "http://cpc.people.com.cn/n1/2026/1004/c443712-40809342.html",
+      "publishedDate": "2026-10-04"
+    },
+    {
+      "id": "344fbd542ca9e982",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "国庆假期第二天全国道路交通总体平稳有序",
-      "url": "http://society.people.com.cn/n1/2026/1003/c1008-40808991.html",
-      "publishedDate": "2026-10-03"
+      "title": "国庆假期第三天全国道路交通平稳有序",
+      "url": "http://society.people.com.cn/n1/2026/1004/c1008-40809188.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "917283dea5f1ccb4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "我国力争2030年饲草总产量达1.3亿吨",
-      "url": "http://society.people.com.cn/n1/2026/1003/c1008-40808993.html",
-      "publishedDate": "2026-10-03"
-    },
-    {
-      "id": "5783abc532fa8b3f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "防控松材线虫，林草部门再开展攻坚行动",
-      "url": "http://society.people.com.cn/n1/2026/1003/c1008-40808994.html",
-      "publishedDate": "2026-10-03"
-    },
-    {
-      "id": "aa40636aee56b775",
+      "id": "d979403972df28c8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国庆假期首日高速公路充电量同比增长60.4%",
-      "url": "http://finance.people.com.cn/n1/2026/1003/c1004-40808996.html",
-      "publishedDate": "2026-10-03"
+      "title": "开创智能网联新能源汽车全球产业合作新局面这样发力",
+      "url": "http://finance.people.com.cn/n1/2026/1004/c1004-40809191.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "eb9febd304efcadf",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "多地多举措护航新能源车国庆假期出行",
-      "url": "http://society.people.com.cn/n1/2026/1003/c1008-40808990.html",
-      "publishedDate": "2026-10-03"
-    },
-    {
-      "id": "939dd65bba14cdae",
+      "id": "02947dfb2249c7cf",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "AI如何“唤醒”宋锦《千里江山图》",
-      "url": "http://politics.people.com.cn/n1/2026/1003/c461001-40809123.html",
-      "publishedDate": "2026-10-03"
+      "title": "红色装点 壮游山河——国庆节假期掀起旅游热潮",
+      "url": "http://politics.people.com.cn/n1/2026/1004/c461001-40809189.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "72a9652c2baf2445",
+      "id": "9e834801814117dc",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "“共同推动构建一个和平、包容的世界”",
-      "url": "http://world.people.com.cn/n1/2026/1003/c1002-40809003.html",
-      "publishedDate": "2026-10-03"
+      "topic": "社会",
+      "title": "合理安排出行！全国易拥堵路段及充电特别繁忙服务区名单发布",
+      "url": "http://society.people.com.cn/n1/2026/1004/c1008-40809196.html",
+      "publishedDate": "2026-10-04"
     },
     {
-      "id": "3583ac696b05d69c",
+      "id": "bbf9062c867819c8",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "西藏措美80兆瓦风电项目首台机组投产发电",
-      "url": "http://finance.people.com.cn/n1/2026/1003/c1004-40808986.html",
-      "publishedDate": "2026-10-03"
-    },
-    {
-      "id": "1f038e0f32ad66f7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "杭州有个机器人学校",
-      "url": "http://finance.people.com.cn/n1/2026/1003/c1004-40809022.html",
-      "publishedDate": "2026-10-03"
+      "topic": "社会",
+      "title": "警惕机票退改签类诈骗，公安机关发布安全提示",
+      "url": "http://society.people.com.cn/n1/2026/1004/c1008-40809195.html",
+      "publishedDate": "2026-10-04"
     }
   ],
   "errors": [
