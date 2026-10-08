@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T02:32:53.078Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T02:47:59.977Z",
   "sources": [
     {
       "id": "people",
@@ -15,337 +15,364 @@
   ],
   "items": [
     {
-      "id": "ed427fb396ea1bc0",
+      "id": "d750530f723302cb",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "文润千载 情系家国——国庆假期文化现象观察",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40809994.html",
-      "publishedDate": "2026-10-07"
+      "title": "太空“行李箱”升级记",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810263.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "fc16debc0a843785",
+      "id": "3f09855acb3c73bf",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "《习近平谈治国理政》第五卷西文版读书交流会在马德里举行",
-      "url": "https://www.qstheory.cn/20261007/df59495a19074730948290938ab1030e/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "习近平文化思想引领文化强国建设迈出坚实步伐",
+      "url": "https://www.qstheory.cn/20261008/40e52bde45ff4d96b2d14a9356c9577b/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "0e582adfbae2db8c",
+      "id": "67e7023871da03a4",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "时政",
-      "title": "为人民群众幸福生活拼搏奉献服务",
-      "url": "http://politics.people.com.cn/n1/2026/1007/c461001-40810082.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "176b95acf4a3c9d6",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "“有文化自信的民族，才能立得住、站得稳、行得远”",
-      "url": "https://www.qstheory.cn/20261007/c7bc94a146a84d74962628006f0c42d4/c.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "93747789fe35feaf",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "崇尚英雄才会产生英雄",
-      "url": "http://politics.people.com.cn/n1/2026/1007/c461001-40810083.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "b28ff92594eab78d",
-      "source": "qiushi",
-      "sourceName": "求是网",
       "topic": "时政",
       "title": "以文化滋养精神家园",
-      "url": "https://www.qstheory.cn/20261007/bd29f43686a34e4e8b62a609cc533155/c.html",
-      "publishedDate": "2026-10-07"
+      "url": "http://politics.people.com.cn/n1/2026/1008/c461001-40810262.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "c9ff418a39db290c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|三株\"草\"长成一片原",
-      "url": "http://politics.people.com.cn/n1/2026/1007/c461001-40809996.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "7c87615b4d2c2e08",
+      "id": "4a5311020b7ed4b0",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "历史经典产业要走好市场化新路",
-      "url": "https://www.qstheory.cn/20261007/ae21d305b28449bf8dbe0a6eddf209f0/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "“习近平主席带领中国人民取得了巨大发展成就”",
+      "url": "https://www.qstheory.cn/20261008/413f2427272446568dcdef0eccde7514/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "bf2d30a6798553e6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "今日谈|节庆品节俭",
-      "url": "http://opinion.people.com.cn/n1/2026/1007/c461529-40809998.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "e22d33c9e45b7483",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-      "url": "https://www.qstheory.cn/20261007/51e1f0e9ab7e4364b3ab2d22bc06ab78/c.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "6756261fb735de90",
+      "id": "0a880c09dbc0b1d3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "进博会观察|众多\"老朋友\"准备拿出\"看家本领\"",
-      "url": "http://world.people.com.cn/n1/2026/1007/c1002-40810003.html",
-      "publishedDate": "2026-10-07"
+      "title": "\"习近平主席带领中国人民取得了巨大发展成就\"",
+      "url": "http://world.people.com.cn/n1/2026/1008/c1002-40810268.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "8df00be8ab19ebbc",
+      "id": "57c55fe25e77e5a3",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "外交部：美方应慎重处理台湾问题",
-      "url": "https://www.qstheory.cn/20261007/b9f3e234319547148bf740e0df15cee5/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "循着总书记足迹探寻中华文脉",
+      "url": "https://www.qstheory.cn/20261008/4afb7f159794430ea8ec0587dac9342b/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "b8ec5bc38ff5a339",
+      "id": "a3a1bfe69fb4a6c7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "成都强化校地合作提升科创动能",
-      "url": "http://politics.people.com.cn/n1/2026/1007/c461001-40809997.html",
-      "publishedDate": "2026-10-07"
+      "title": "幸福都是奋斗出来的",
+      "url": "http://politics.people.com.cn/n1/2026/1008/c461001-40810674.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "8fd2785fa2e218bc",
+      "id": "acd2e600d9ee9a1b",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "我国秋粮收获三成半",
-      "url": "https://www.qstheory.cn/20261007/19c2ee9bd47e462bbdb100e4821f558c/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "“攻坚战”与“持久战”",
+      "url": "https://www.qstheory.cn/20261008/b79a8b4397844614ad47fa9936759001/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "3e65557a673c933b",
+      "id": "a53ec58edbfcab15",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "加快建设社会主义文化强国的根本遵循",
+      "url": "http://opinion.people.com.cn/n1/2026/1008/c461530-40810299.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "a27e075a1a82b0e8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "\"攻坚战\"与\"持久战\"",
+      "url": "http://opinion.people.com.cn/n1/2026/1008/c461529-40810280.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "cfa528c13409e677",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "全国秋粮收获过四成",
+      "url": "https://www.qstheory.cn/20261008/3eaaea9a707a4c63a3e2e11e3716cc91/c.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "d834622b2dbe0e21",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "自驾舒心省心 越来越多游客开始\"奔县游\"",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40809999.html",
-      "publishedDate": "2026-10-07"
+      "title": "山西依托有机旱作发展\"特\"\"优\"农业",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810264.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "3ace4b452388cddd",
+      "id": "cb8e0752e7209c4f",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "多元影片国庆上映 “电影+”释放市场活力",
-      "url": "https://www.qstheory.cn/20261007/c41dfc31e7f3488fa008e64fccdf4c55/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "电力数据看消费：景区亮、文博热、民宿火、车流密",
+      "url": "https://www.qstheory.cn/20261008/c7c39b77740b41509e87cc045741f91f/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "753dea6b85c8a7f2",
+      "id": "1cb160386ae6e3c5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "政策问答·回应关切|养老服务消费券,怎么用得好?",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810265.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "a73404f72eede348",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "一批重大工程刷新“进度条”",
+      "url": "https://www.qstheory.cn/20261008/41219519272c470e8d0274d471930c62/c.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "3fe836f57d3f6013",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "金融活水,如何流进延安苹果园",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810275.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "d1e80cf3bcd82aa7",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "向更精准计时迈进 中国科学家成功研制核光钟",
+      "url": "https://www.qstheory.cn/20261008/06d0a69e75ae44f085aa8fc5391f65dd/c.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "c45a8a139a11af75",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一增一降里的新能源汽车充电新趋势",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810276.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "ecda51aa86fb67de",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "国庆假期全国道路交通总体平稳有序",
+      "url": "https://www.qstheory.cn/20261008/c28d33a81e3449748393d7f473d75f08/c.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "02164a9aa5829f89",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "赓续长征精神 奋进复兴征程|红军树下新事多",
+      "url": "http://politics.people.com.cn/n1/2026/1008/c461001-40810279.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "c80cf8dbd74c96b5",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "投资于人，如何更好惠民生",
+      "url": "https://www.qstheory.cn/20261008/623570d243bb4c56baa8608b943786df/c.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "25a790d5b88976b7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "一只小木雀,镌刻军民鱼水情",
-      "url": "http://society.people.com.cn/n1/2026/1007/c1008-40810001.html",
-      "publishedDate": "2026-10-07"
+      "title": "接住流量留下人心",
+      "url": "http://society.people.com.cn/n1/2026/1008/c1008-40810309.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "69f35b8763ca5538",
+      "id": "3a587e22daf93b79",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "国庆假期一线看旅游市场活力“三重奏”",
-      "url": "https://www.qstheory.cn/20261007/6b3b9aab726b4a1a80776905cf912785/c.html",
-      "publishedDate": "2026-10-07"
+      "title": "第1集：走近鲁迅先生：广博的知识世界",
+      "url": "https://www.qstheory.cn/20261008/3ed1159797d1401b8237cd6dac3d29ca/c.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "e389dd06cfb00e19",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "走进国家考古遗址公园:遗址可观 文明可感",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810011.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "b5aa8dc86eb72c72",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "怎么解决群众急难愁盼问题",
-      "url": "https://www.qstheory.cn/20261007/0f7d1d208fd2451f8a276b2fefe84649/c.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "db4e1135090b3a45",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "一件礼物\"代言\"一座城",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810016.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "857e3530d0c96de6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "云南:把\"看不见的科研\"变成\"摸得着的体验\"",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40810015.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "0cae6d62f1f277a3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国际论坛|推动吉中永久睦邻友好合作迈上新台阶",
-      "url": "http://world.people.com.cn/n1/2026/1007/c1002-40810004.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "9afd38eeb3b44ae9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "美国8月贸易逆差继续升高",
-      "url": "http://world.people.com.cn/n1/2026/1007/c1002-40809992.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "46dd23a5b8e3b7a2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "2032布里斯班奥运会和残奥会会徽揭晓",
-      "url": "http://world.people.com.cn/n1/2026/1007/c1002-40809987.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "f6a42e03787addd2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "韩国考虑废除\"金牌免兵役\"制度",
-      "url": "http://world.people.com.cn/n1/2026/1007/c1002-40809983.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "f797b5af9df236bb",
+      "id": "d4b0c00d88158b50",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "新时代画卷丨坚守的身影 美丽的风景",
-      "url": "http://society.people.com.cn/n1/2026/1007/c1008-40810010.html",
-      "publishedDate": "2026-10-07"
+      "title": "青海祁连县\"很火\"",
+      "url": "http://society.people.com.cn/n1/2026/1008/c1008-40810312.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "b8004c614ed61781",
+      "id": "30e89e38dfcf60e6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "推进碳市场建设助力绿色低碳转型观察",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40809986.html",
-      "publishedDate": "2026-10-07"
+      "title": "日本千叶县东北部发生4.8级地震",
+      "url": "http://world.people.com.cn/n1/2026/1008/c1002-40810247.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "504a16d75fdc6353",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "大食物观里的中国味道",
-      "url": "http://politics.people.com.cn/n1/2026/1007/c461001-40810084.html",
-      "publishedDate": "2026-10-07"
-    },
-    {
-      "id": "e86866ee5bc006ab",
+      "id": "4d650d0aee33cc57",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "东部战区海军某观通站国庆期间坚守战位见闻",
-      "url": "http://military.people.com.cn/n1/2026/1007/c1011-40809980.html",
-      "publishedDate": "2026-10-07"
+      "title": "美\"龙\"飞船载4名宇航员脱离空间站 启程返回地球",
+      "url": "http://world.people.com.cn/n1/2026/1008/c1002-40810246.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "19bf19fea2ed5c69",
+      "id": "c79f2f646bf82bf3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "百年矿井变“地下课堂”，工业遗存这样“活”起来",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40809977.html",
-      "publishedDate": "2026-10-07"
+      "title": "国际能源署成员国同意加快释放1亿桶石油储备",
+      "url": "http://world.people.com.cn/n1/2026/1008/c1002-40810245.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "74de497220b92a0f",
+      "id": "cbdd3ba0c9d151c9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "人文茶座｜博物馆 以创新滋养精神家园",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810012.html",
-      "publishedDate": "2026-10-07"
+      "title": "山西运城：盐湖湿地碱蓬草灿若红霞",
+      "url": "http://pic.people.com.cn/n1/2026/1008/c1016-40810551.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "9ff73e78613c5237",
+      "id": "785ceebe4154dfc5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "湖北省博物馆藏曾侯乙编钟：两千四百多年前的音乐奇迹",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810013.html",
-      "publishedDate": "2026-10-07"
+      "title": "潍宿高铁至青岛连接线无砟箱梁架设收官",
+      "url": "http://pic.people.com.cn/n1/2026/1008/c1016-40810621.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "b5c8d6ea76ae4ff1",
+      "id": "a89bdb65e5c8d248",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "构建“15分钟养老服务圈”“苏适养老”走进日常",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40810000.html",
-      "publishedDate": "2026-10-07"
+      "title": "福建福州：反诈小课堂守护返程平安",
+      "url": "http://pic.people.com.cn/n1/2026/1008/c1016-40810574.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "a3aedb2d0751ca78",
+      "id": "46387ba09cec91a2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "骑行热何以“蹬”出消费新赛道",
-      "url": "http://finance.people.com.cn/n1/2026/1007/c1004-40809976.html",
-      "publishedDate": "2026-10-07"
+      "title": "实现高水平供需良性循环和动态平衡",
+      "url": "http://theory.people.com.cn/n1/2026/1008/c40531-40810504.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "9965a0af80584445",
+      "id": "7b71c5c8b31a35fd",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "看风景、享美食 吉林延吉“值得慢慢走、细细看”",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810014.html",
-      "publishedDate": "2026-10-07"
+      "title": "始终保持党同人民群众的血肉联系",
+      "url": "http://dangjian.people.com.cn/n1/2026/1008/c117092-40810529.html",
+      "publishedDate": "2026-10-08"
     },
     {
-      "id": "45965f4e9ca6e6b8",
+      "id": "c1818e5a8bd5f5d6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "海南十八行村：扇面布局蕴藏同心乡情",
-      "url": "http://ent.people.com.cn/n1/2026/1007/c1012-40810018.html",
-      "publishedDate": "2026-10-07"
+      "title": "北京发布干部任前公示通告",
+      "url": "http://renshi.people.com.cn/n1/2026/1008/c139617-40810618.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "eaec2332a6f0039d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "全面提升农村集体“三资”治理效能",
+      "url": "http://fanfu.people.com.cn/n1/2026/1008/c64371-40810539.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "b83a95251d5a3b8f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "慷慨赴远征 浴血破重围",
+      "url": "http://cpc.people.com.cn/n1/2026/1008/c443712-40810445.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "16122ab7175e8d17",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "国庆假期超21亿人次出行",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810266.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "af8984d179392385",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "全国消费市场总体平稳",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810292.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "7fa2a25a273562ca",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "国庆假期一批重大工程刷新“进度条”",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810290.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "0599d1f6aac94bc8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "前8月电力市场交易电量同比增长19.2%",
+      "url": "http://finance.people.com.cn/n1/2026/1008/c1004-40810267.html",
+      "publishedDate": "2026-10-08"
+    },
+    {
+      "id": "bba1bac0eb974864",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "沙海深处\"追梦人\"",
+      "url": "http://env.people.com.cn/n1/2026/1008/c1010-40810323.html",
+      "publishedDate": "2026-10-08"
     }
   ],
   "errors": []
