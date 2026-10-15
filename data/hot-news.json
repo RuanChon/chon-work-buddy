@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T02:01:20.077Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T01:36:31.933Z",
   "sources": [
     {
       "id": "people",
@@ -15,292 +15,337 @@
   ],
   "items": [
     {
-      "id": "6b987e0b97e69ffb",
+      "id": "7c80499741d24acb",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平出席全国卫生与健康大会并发表重要讲话",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1024-40814000.html",
-      "publishedDate": "2026-10-14"
+      "title": "习近平向第140届中国进出口商品交易会致贺信",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c1024-40814878.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "b9fadcc33bf64108",
+      "id": "20bcc2867f69d4f4",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
-      "url": "https://www.qstheory.cn/20261014/8c7cc8938ed54ab8a524b96172557a50/c.html",
-      "publishedDate": "2026-10-14"
+      "title": "量质齐升 动能积聚",
+      "url": "https://www.qstheory.cn/20261015/5ed91cf2d83e46d1b687d6445b97e26e/c.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "ac6ee8e375b7211d",
+      "id": "b84a097d217ca577",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报评论员：坚定不移走中国特色卫生与健康发展道路",
-      "url": "http://opinion.people.com.cn/n1/2026/1014/c461529-40814005.html",
-      "publishedDate": "2026-10-14"
+      "title": "传递高水平开放强音",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40815168.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "01e0a918982af546",
+      "id": "dd133234f2fc016f",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "积极推动外资境内再投资",
-      "url": "https://www.qstheory.cn/20261014/b4b8a253ad2f4aea8ef8ccb3db01ff2e/c.html",
-      "publishedDate": "2026-10-14"
+      "title": "9月CPI温和回升PPI涨幅扩大，能读出哪些信息",
+      "url": "https://www.qstheory.cn/20261015/c69cd586d19641f8bda93bc852c5f137/c.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "19e688dc32854fce",
+      "id": "24b7f0dddfbe3fb0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平同博茨瓦纳总统会谈",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1024-40814001.html",
-      "publishedDate": "2026-10-14"
+      "title": "“为世界发展繁荣持续注入新动力”",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814881.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "455a9f39e10f135d",
+      "id": "6ce299457198248b",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "第十七届中国食品安全论坛即将在京举办",
+      "url": "https://www.qstheory.cn/20261015/68a6a9f8aec9436385a3d2c4a6a285ed/c.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "5c7bef612c5fb7f9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平会见多哥部长会议主席福雷",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1024-40814002.html",
-      "publishedDate": "2026-10-14"
+      "title": "今日谈丨广交世界 利在天下",
+      "url": "http://opinion.people.com.cn/n1/2026/1015/c461529-40814885.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "c39e6304b447e2e8",
+      "id": "c1189c0a5554eb07",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "中朝新鸭绿江大桥将开通 中方：将进一步促进两国经贸交流和人员往来",
+      "url": "https://www.qstheory.cn/20261015/260b3e3d286a41239b42b7a9b75ae3c3/c.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "697799642d32eb12",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赵乐际分别会见博茨瓦纳总统、多哥部长会议主席",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1024-40814003.html",
-      "publishedDate": "2026-10-14"
+      "title": "人民日报评论员:建成均衡普惠、优质高效的健康中国",
+      "url": "http://opinion.people.com.cn/n1/2026/1015/c461529-40814884.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "03da180357f24c97",
+      "id": "b0f0236df1899c0f",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "前三季度金融数据出炉 多元化融资特征鲜明",
+      "url": "https://www.qstheory.cn/20261015/e83d46421831410f8cf4d3133a2bcb9c/c.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "980c0a2f2819ac4d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "丁薛祥会见清华大学经济管理学院顾问委员会委员代表",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1024-40814004.html",
-      "publishedDate": "2026-10-14"
+      "title": "确保健康中国建设取得决定性进展",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814882.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "6cc8b876c190cc2a",
+      "id": "b93f3242ea0f2014",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "亚信34年互信合作不断深化",
+      "url": "https://www.qstheory.cn/20261015/6cb7e065c7f841708433c2f5c20a4a74/c.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "95b9de11fae95868",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "发展新时代中国特色社会主义文化的科学指引",
-      "url": "http://opinion.people.com.cn/n1/2026/1014/c461530-40814051.html",
-      "publishedDate": "2026-10-14"
+      "title": "走好新时代的长征路|人民之本",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40815202.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "cee0cbf56ccae683",
+      "id": "e5cd95f67484733d",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "我国推动“十五五”期间基本实现地市科技馆全覆盖",
+      "url": "https://www.qstheory.cn/20261015/0fed9e2eee524689b71c9d19c64185ad/c.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "2e7d8db80226ba1d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "以投资优化支撑产业升级",
-      "url": "http://opinion.people.com.cn/n1/2026/1014/c461529-40814006.html",
-      "publishedDate": "2026-10-14"
+      "title": "筑牢全过程人民民主的制度根基",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814883.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "ec53ed45f2bf3a8a",
+      "id": "7c27a3d6db524a29",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|草原兴起研学热",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c461001-40814024.html",
-      "publishedDate": "2026-10-14"
+      "title": "擘画中非合作,两场外交活动照见中国担当",
+      "url": "http://opinion.people.com.cn/n1/2026/1015/c461529-40814898.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "77442c70653d7235",
+      "id": "76c1d7ee2db241a9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "以国际传播格局重构提升中华文明传播力影响力",
+      "url": "http://opinion.people.com.cn/n1/2026/1015/c461530-40814922.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "452a8608ce9859e1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "权威发布|快新优好,外外贸增速近5年同期最快",
+      "url": "http://finance.people.com.cn/n1/2026/1015/c1004-40814888.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "a03bfc260fd7cc8a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "十封书信,读懂\"用命换命的信任\"",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814899.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "82701f23eee78684",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "从三件\"传家宝\"看千年运河",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814889.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "fea96753c6dc8d29",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "银发族解锁悦己消费",
+      "url": "http://finance.people.com.cn/n1/2026/1015/c1004-40814913.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "700032e09812f13d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方呼吁破解利比亚政治僵局",
+      "url": "http://world.people.com.cn/n1/2026/1015/c1002-40814967.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "d285ec27d271bc65",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "伊朗革命卫队称“全天候”监控霍尔木兹海峡",
+      "url": "http://world.people.com.cn/n1/2026/1015/c1002-40814968.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "46fb5b77619403dc",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "古巴外长指责美方施压多国支持其封锁古巴立场",
+      "url": "http://world.people.com.cn/n1/2026/1015/c1002-40814876.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "f15eaa47ef302d8a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "美国9月消费者价格指数涨幅扩大",
+      "url": "http://world.people.com.cn/n1/2026/1015/c1002-40814873.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "3f15d0c1974c1505",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "推动全球人工智能治理制度构建",
+      "url": "http://theory.people.com.cn/n1/2026/1015/c40531-40815126.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "43e39b508e1d1235",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "加强纪律建设是全面从严治党的治本之策",
+      "url": "http://dangjian.people.com.cn/n1/2026/1015/c117092-40815142.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "c0a7ff29da63b2a3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "北京发布干部任前公示通告",
+      "url": "http://renshi.people.com.cn/n1/2026/1015/c139617-40815179.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "f796e951c79fc5ff",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "阳光晒透“三资”账",
+      "url": "http://fanfu.people.com.cn/n1/2026/1015/c64371-40815111.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "b799b5022b5748c7",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "磅礴乌蒙山 回旋走泥丸",
+      "url": "http://cpc.people.com.cn/n1/2026/1015/c443712-40815139.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "def7bd62e8820191",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "阿塞拜疆总统阿利耶夫会见王毅",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c1001-40814896.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "9f9fa18bab9aecda",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "王毅会见俄罗斯外长拉夫罗夫",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c1001-40814875.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "01add8894dccb0f0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "何立峰会见美国桥水投资公司创始人达利欧",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c1001-40815295.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "c594b3d1570f4bea",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "电视纪录片《伟大远征》即将播出",
+      "url": "http://politics.people.com.cn/n1/2026/1015/c461001-40814902.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "3300385ae88d60bd",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "长春大冬会报名人数历届最多 筹备工作有序推进",
+      "url": "http://ent.people.com.cn/n1/2026/1015/c1012-40814909.html",
+      "publishedDate": "2026-10-15"
+    },
+    {
+      "id": "6baa26bdd872e9a4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "权威发布|观云测雨惠民生",
-      "url": "http://society.people.com.cn/n1/2026/1014/c1008-40814012.html",
-      "publishedDate": "2026-10-14"
+      "title": "扎实办案 守护长征红色资源",
+      "url": "http://society.people.com.cn/n1/2026/1015/c1008-40814958.html",
+      "publishedDate": "2026-10-15"
     },
     {
-      "id": "57cfd30f4d816286",
+      "id": "4600f320cf552044",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "海拔3650米的稻香,从一株\"意外\"开始",
-      "url": "http://finance.people.com.cn/n1/2026/1014/c1004-40814013.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "007996cdfbfc923c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "会问,AI时代的硬本领",
-      "url": "http://edu.people.com.cn/n1/2026/1014/c1006-40814061.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "bd267c7618b068bf",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "美丽中国行|在东宁,虎豹被不打扰地\"看\"\"护\"",
-      "url": "http://env.people.com.cn/n1/2026/1014/c1010-40814028.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "911447094360df0e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "俄外交部：日本利用驻俄记者搜集情报将恶化俄日关系",
-      "url": "http://world.people.com.cn/n1/2026/1014/c1002-40814100.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "9914715ff8b34b2b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "15国当选联合国人权理事会成员 其中6国连任",
-      "url": "http://world.people.com.cn/n1/2026/1014/c1002-40813998.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "a33ca263a4258e5a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国科研团队找到原子尺度自旋探测的新方法",
-      "url": "http://finance.people.com.cn/n1/2026/1014/c1004-40814101.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "f9349c29930f53fa",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "洛阳黄河公铁特大桥建设正酣",
-      "url": "http://pic.people.com.cn/n1/2026/1014/c1016-40814406.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "419e62f379b64d96",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "湖北浠水：秸秆回收 变废为宝",
-      "url": "http://pic.people.com.cn/n1/2026/1014/c1016-40814398.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "6beba5660510db47",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "增强宏观政策取向一致性和有效性",
-      "url": "http://theory.people.com.cn/n1/2026/1014/c40531-40814235.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "88bafe40f5bef5e3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "推进作风建设常态化长效化",
-      "url": "http://dangjian.people.com.cn/n1/2026/1014/c117092-40814265.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "3f16ebe0aff28653",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "李柚任贵州省黔东南州代理州长",
-      "url": "http://renshi.people.com.cn/n1/2026/1014/c139617-40814389.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "cc016b9c049f3f6b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "山东：严查涉企执法突出问题",
-      "url": "http://fanfu.people.com.cn/n1/2026/1014/c64371-40814258.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "016c4efe9310e33b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "传承长征精神，凝聚复兴伟力",
-      "url": "http://cpc.people.com.cn/n1/2026/1014/c443712-40814255.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "ef6db86770cb5a38",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王毅会见阿联酋总统中国事务特使哈勒敦",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1001-40814018.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "c120ba7a49d6e00e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "何立峰会见美中关系全国委员会负责人",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c1001-40814019.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "097faf028d206aab",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "全国人大常委会开展无障碍环境建设法执法检查",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c461001-40814033.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "955829e455d72b8f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "外交部：中方支持中美两国民间加强交往",
-      "url": "http://world.people.com.cn/n1/2026/1014/c1002-40814023.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "548c9d4f76c8ebee",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "中央机关及其直属机构2027年度考试录用公务员今起报名",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c461001-40814056.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "0d918d1e69f2497b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "公安网安部门公布4起涉舆情敲诈等类型黑恶犯罪案例",
-      "url": "http://society.people.com.cn/n1/2026/1014/c1008-40814408.html",
-      "publishedDate": "2026-10-14"
-    },
-    {
-      "id": "0b5f2813523b9d16",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "各地广泛开展少先队建队纪念日主题活动",
-      "url": "http://politics.people.com.cn/n1/2026/1014/c461001-40814027.html",
-      "publishedDate": "2026-10-14"
+      "title": "九月份CPI和PPI同比涨幅均扩大",
+      "url": "http://finance.people.com.cn/n1/2026/1015/c1004-40814918.html",
+      "publishedDate": "2026-10-15"
     }
   ],
   "errors": []
