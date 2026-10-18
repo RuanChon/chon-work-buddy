@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T01:23:03.819Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T01:17:23.496Z",
   "sources": [
     {
       "id": "people",
@@ -15,274 +15,211 @@
   ],
   "items": [
     {
-      "id": "00ce7f38ab74ef27",
+      "id": "a7215fe90c92e488",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平在内蒙古乌兰察布考察",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1024-40816343.html",
-      "publishedDate": "2026-10-17"
+      "title": "重要讲话激励广大干部群众锐意进取、奋力拼搏",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816634.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "80fdc09bb7f5618c",
+      "id": "5956a99239e77ae9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "推动数字经济与实体经济深度融合",
-      "url": "http://opinion.people.com.cn/n1/2026/1017/c461529-40816351.html",
-      "publishedDate": "2026-10-17"
+      "title": "一见|从乌兰察布转型记,感悟\"统筹区域发展\"之道",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816636.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "1a5f98563079748c",
+      "id": "e26cbd548083e208",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平致信祝贺湖南大学建校100周年",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1024-40816344.html",
-      "publishedDate": "2026-10-17"
+      "title": "为建设教育强国、推进中国式现代化作出新贡献",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816637.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "e3ae4d50f5a313ef",
+      "id": "1e4400161a811c6a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "李强主持召开国务院常务会议",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1024-40816345.html",
-      "publishedDate": "2026-10-17"
+      "title": "李强会见乌兹别克斯坦总统米尔济约耶夫",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c1024-40816631.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "dc6fc0e8f5e1596e",
+      "id": "d758fc96ee7f25af",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "丁薛祥出席2026年世界职业技术教育发展大会开幕式",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1024-40816346.html",
-      "publishedDate": "2026-10-17"
+      "title": "王沪宁:扎实做好新时代党的民族宗教工作",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c1024-40816635.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "608c466e7abc4fb0",
+      "id": "fff6aed665e832ed",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "和音|让中美友谊在青春相遇中扎根生长",
-      "url": "http://opinion.people.com.cn/n1/2026/1017/c461529-40816352.html",
-      "publishedDate": "2026-10-17"
+      "title": "和音|减贫之路,众行方能致远",
+      "url": "http://opinion.people.com.cn/n1/2026/1018/c461529-40816643.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "93b895455005f740",
+      "id": "826a5431c1c72ce1",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "赓续长征精神 奋进复兴征程|科技进乡间",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c461001-40816362.html",
-      "publishedDate": "2026-10-17"
+      "title": "人民论坛|\"苍凉草原\"变\"智算热土\"的启示",
+      "url": "http://opinion.people.com.cn/n1/2026/1018/c461529-40816651.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "eeb55feb4ac17196",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "权威发布|第九届进博会首发首展首秀品数量创新高",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816347.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "9f9854d47b8f1804",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"我是来见朋友的\"",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816349.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "53848d654dcd8b1f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "\"新产品很多,迫不及待想买一些回国\"",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816350.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "1c4253caa12bc3d2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "@所有人 来军博\"亲历\"长征",
-      "url": "http://ent.people.com.cn/n1/2026/1017/c1012-40816386.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "c551c4c0efaf4f24",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "全谷物食品加快走向千家万户",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816348.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "6e6a7cea2b205f5d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "为\"植物生命之树\"绘制全景图",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816376.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "cfe0ee0314f418f4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "植物科学界的\"大合唱\"",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816377.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "308cbeadf3aa384f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "安理会举行联合国秘书长遴选第六轮意向性投票",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816394.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "ec1f561767b68933",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "朝鲜试射新型鱼雷武器系统",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816395.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "b915e2730549041f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "高市早苗向靖国神社献祭品",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816398.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "8e355a2a7f84b55a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "泽连斯基要求欧盟追加700亿欧元援助",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816332.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "a7f608b9a12594d2",
+      "id": "d59da6ac70aba9fa",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅分别会见巴勒斯坦外长法尔辛、",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1001-40816360.html",
-      "publishedDate": "2026-10-17"
+      "title": "赓续长征精神 奋进复兴征程|\"红军寨\"涌动创业潮",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816646.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "a2b0a28b784ee4ce",
+      "id": "80093f3530b7ac99",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "以色列总统赫尔佐格",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c1001-40816361.html",
-      "publishedDate": "2026-10-17"
+      "title": "运河里的中国智慧",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816645.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "33c7c4abaa4d234c",
+      "id": "ca1e8b241da0164a",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "听,穿越五千年的文明回响",
+      "url": "http://ent.people.com.cn/n1/2026/1018/c1012-40816652.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "481adfbe5b6e016e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "欧洲外交人员在约旦河西岸遭犹太定居者袭击",
+      "url": "http://world.people.com.cn/n1/2026/1018/c1002-40816661.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "3214bae21bd05a36",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "印度东部踩踏事故致17死25伤",
+      "url": "http://world.people.com.cn/n1/2026/1018/c1002-40816629.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "767231c326071556",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "国务院任免国家工作人员",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c461001-40816365.html",
-      "publishedDate": "2026-10-17"
+      "title": "克罗地亚总统米拉诺维奇会见王毅",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c1001-40816644.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "da8713004ae22f65",
+      "id": "d0577910de4e3a54",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "外交部：中国将继续与国际社会一道共促减贫合作",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816358.html",
-      "publishedDate": "2026-10-17"
+      "title": "2026年“一带一路”记者组织论坛举行",
+      "url": "http://media.people.com.cn/n1/2026/1018/c14677-40816647.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "701a06c1685f0d81",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中美青春之约再启新程",
-      "url": "http://world.people.com.cn/n1/2026/1017/c1002-40816353.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "bacfcf622ee23429",
+      "id": "0c947ba09a033ad2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "三部门联合发文 养老服务价格政策将进一步完善",
-      "url": "http://society.people.com.cn/n1/2026/1017/c1008-40816370.html",
-      "publishedDate": "2026-10-17"
+      "title": "2026“铸牢共同体 中华一家亲”主题宣传活动云南集中采访启动",
+      "url": "http://society.people.com.cn/n1/2026/1018/c1008-40816648.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "62a54d5d2df24fa3",
+      "id": "ab8c8bf6c0b34700",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "2026东北亚（沈阳）人才交流大会在沈阳举行",
+      "url": "http://society.people.com.cn/n1/2026/1018/c1008-40816649.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "ffa386fc52e16e1c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "老年学堂把精彩带到家门口",
+      "url": "http://society.people.com.cn/n1/2026/1018/c1008-40816650.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "941c0aa8a06b726f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "世界粮食日，“中国饭碗”成色足",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816392.html",
-      "publishedDate": "2026-10-17"
+      "title": "评论丨历史文化遗产让城市更美好",
+      "url": "http://ent.people.com.cn/n1/2026/1018/c1012-40816653.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "f1507d829dc7c350",
+      "id": "9239531798ae2ad8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "大地长歌丨长征主题美术经典与当代新创",
+      "url": "http://ent.people.com.cn/n1/2026/1018/c1012-40816655.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "aad7d559864f5ae8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "社会",
+      "title": "上海大歌剧院启用",
+      "url": "http://society.people.com.cn/n1/2026/1018/c1008-40816638.html",
+      "publishedDate": "2026-10-18"
+    },
+    {
+      "id": "79afe3f1dc48dfa3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "五名交通领域优秀代表勇当开路先锋的故事",
-      "url": "http://politics.people.com.cn/n1/2026/1017/c461001-40816364.html",
-      "publishedDate": "2026-10-17"
+      "title": "遨游太空的少先队队旗沿长征路接力传递",
+      "url": "http://politics.people.com.cn/n1/2026/1018/c461001-40816628.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "66165928c9136722",
+      "id": "a01366c2a9b4115e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美丽中国行丨“虎豹医院”助力筑牢野生动物保护链",
-      "url": "http://env.people.com.cn/n1/2026/1017/c1010-40816366.html",
-      "publishedDate": "2026-10-17"
+      "title": "23位演员亮相“艺苑撷英——2026年全国优秀青年曲艺人才展演”",
+      "url": "http://ent.people.com.cn/n1/2026/1018/c1012-40816627.html",
+      "publishedDate": "2026-10-18"
     },
     {
-      "id": "faa51b92ebc7ea02",
+      "id": "949453b0b8876e67",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "2025年全国研究与试验发展经费投入突破3.9万亿元",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816333.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "3b47604784b6cb46",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "我国首个百万吨级低浓度CCUS全链条示范工程开工",
-      "url": "http://finance.people.com.cn/n1/2026/1017/c1004-40816375.html",
-      "publishedDate": "2026-10-17"
-    },
-    {
-      "id": "db08598d7f2885ec",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "地质工作者给水井做“胃镜”",
-      "url": "http://env.people.com.cn/n1/2026/1017/c1010-40816367.html",
-      "publishedDate": "2026-10-17"
+      "topic": "社会",
+      "title": "中国运动员正全力备战本届亚残运会",
+      "url": "http://society.people.com.cn/n1/2026/1018/c1008-40816704.html",
+      "publishedDate": "2026-10-18"
     }
   ],
   "errors": [
