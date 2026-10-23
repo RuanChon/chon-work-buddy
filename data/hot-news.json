@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T01:39:34.265Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T01:42:26.124Z",
   "sources": [
     {
       "id": "people",
@@ -15,311 +15,280 @@
   ],
   "items": [
     {
-      "id": "5af5b3575b7f6528",
+      "id": "d3baf203dd41850d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "任仲平：在新长征路上阔步前行",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819177.html",
-      "publishedDate": "2026-10-22"
+      "title": "弘扬伟大长征精神 奋力创造新的辉煌",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819879.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "0bb4531a92fdeb68",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "走好今天的长征路",
-      "url": "https://www.qstheory.cn/20261022/f61bfa28aa4e464e8b7ea08c7c7f795a/c.html",
-      "publishedDate": "2026-10-22"
+      "id": "a88718d025e96504",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“长征的历史从未远去，长征精神就在我们身边”",
+      "url": "http://world.people.com.cn/n1/2026/1023/c1002-40819881.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "933396b7d116bf9f",
+      "id": "19eb7cee562ce57d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报八个整版聚焦长征胜利90周年",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819293.html",
-      "publishedDate": "2026-10-22"
+      "title": "人民日报评论员:在新的长征路上奋力创造新的辉煌",
+      "url": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819932.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "c8994d77695d5794",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "齐心协力走好新的长征路——纪念中国工农红军长征胜利九十周年",
-      "url": "https://www.qstheory.cn/20261022/3377281b3ac0417b889b82e6c1d6d460/c.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "86cb9036f89c9be7",
+      "id": "725f053eb74ab0a9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报社论:齐心协力走好新的长征路",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819174.html",
-      "publishedDate": "2026-10-22"
+      "title": "赵乐际主持召开十四届全国人大常委会委员长会议",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c1024-40819876.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "f7872aee98cbb8ae",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "长征有继 斯路常新——写在中国工农红军长征胜利90周年之际",
-      "url": "https://www.qstheory.cn/20261022/278268c009aa438ba60f9048e96ede2d/c.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "19a4a017b368d1a1",
+      "id": "6ca448a69f450b9c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "为巩固和发展爱国统一战线作出新的更大贡献",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819178.html",
-      "publishedDate": "2026-10-22"
+      "title": "深刻把握习近平党建思想\"十四个坚持\"的科学体系与内在逻辑",
+      "url": "http://opinion.people.com.cn/n1/2026/1023/c461530-40819910.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "6378862f94d1f20e",
+      "id": "38b64e62d5499720",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "李强结束出访回到北京",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c1024-40819308.html",
-      "publishedDate": "2026-10-22"
+      "title": "坚守联合国理想,携手开创人类共同美好未来",
+      "url": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819886.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "4a1a90f82eeec7a0",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "把习近平党建思想贯彻到党的建设全过程各方面",
-      "url": "https://www.qstheory.cn/20261022/85aaa4e7dcd44ffdb1eb66e3a7604d10/c.html",
-      "publishedDate": "2026-10-22"
+      "id": "e460160ee6fc68df",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "权威发布|全力推动商务高质量发展不断取得新成效",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819895.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "e83f45b98750e1ce",
+      "id": "3d2617b82f64ebc3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "长征之歌何以\"歌\"长征",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819193.html",
-      "publishedDate": "2026-10-22"
+      "title": "把革命前辈开创的伟大事业不断推向前进",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819897.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "761cca3d2a0e429a",
+      "id": "03b3fc0a2c5ecc5c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "以坚定的历史自觉\"走自己的路\"",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461530-40819198.html",
-      "publishedDate": "2026-10-22"
+      "title": "重温历史 汲取奋进智慧和力量",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819900.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "88d324d3a7df5b92",
+      "id": "2b0dccca984e8e05",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "任网平:每一代人都有自己的万水千山",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c1003-40819313.html",
-      "publishedDate": "2026-10-22"
+      "title": "英雄史诗 世界回响",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819903.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "c7089729ee00e0bc",
+      "id": "b12290bed375a4a7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "气吞山河的人间奇迹",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819205.html",
-      "publishedDate": "2026-10-22"
+      "title": "精神所在,就是力量所在",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819901.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "d0881359f1201cfc",
+      "id": "d8cb9ecca21f3bcf",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "国际人士:前三季度中国经济发展韧性和活力持续彰显",
+      "url": "http://world.people.com.cn/n1/2026/1023/c1002-40819880.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "85d28b602ce48008",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "乒乓球亚锦赛:国乒男团实现四连冠 女团屈居亚军",
+      "url": "http://ent.people.com.cn/n1/2026/1023/c1012-40819939.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "020e31be89ff0b6c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方:安理会改革要改变发达国家代表性过剩的局面",
+      "url": "http://world.people.com.cn/n1/2026/1023/c1002-40819862.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "4975b93e364235d5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "彪炳史册的伟大壮举",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819207.html",
-      "publishedDate": "2026-10-22"
+      "title": "人民日报纪念中国工农红军长征胜利90周年特别报道",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819934.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "533914f763a8157d",
+      "id": "f3b77427bea3cba6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "薪火相传走好新的长征路",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819206.html",
-      "publishedDate": "2026-10-22"
+      "title": "王毅同刚果（布）外长邦达会谈",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c1001-40819884.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "53cef6b14af87b4f",
+      "id": "d60e305feff12023",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "\"铁心跟党走\"的生动写照",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819208.html",
-      "publishedDate": "2026-10-22"
+      "title": "陈文清会见俄罗斯联邦最高法院院长克拉斯诺夫",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c1001-40819885.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "6bf48b251f7a9c47",
+      "id": "63ff2fdec36f98e2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "出版界推出一批纪念中国工农红军长征胜利九十周年优秀主题图书",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819887.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "aa7435d09060e3e8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "《中国工农红军长征胜利90周年》纪念邮票发行",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819892.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "4fe5fd5d47e395b5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "权威发布|推进应急管理体系和能力现代化建设",
-      "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819189.html",
-      "publishedDate": "2026-10-22"
+      "title": "西藏巴青县地震已造成16人遇难",
+      "url": "http://society.people.com.cn/n1/2026/1023/c1008-40820171.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "6042b4a7e8abe749",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从广交会看中国经济韧性和活力",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819202.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "9ebbcbdcca2a1902",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "以媒:数十架以军战机飞近伊朗边境 模拟对伊打击",
-      "url": "http://world.people.com.cn/n1/2026/1022/c1002-40819226.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "aa331b7fd5fd8a38",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "古巴外长谴责美施压多国干预联大终止对古封锁表决",
-      "url": "http://world.people.com.cn/n1/2026/1022/c1002-40819152.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "d2391d83447e3af6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "日企承认烧到中蒙边境的蒙古国大火是其高管活动引发",
-      "url": "http://world.people.com.cn/n1/2026/1022/c1002-40819227.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "5344cc5f1dce0e9f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王毅会见吉布提外长奥马尔",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c1001-40819182.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "9db1e34831276b23",
+      "id": "4b48f2de2b04daaa",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "《中国应对气候变化的政策与行动2026年度报告》发布",
-      "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819190.html",
-      "publishedDate": "2026-10-22"
+      "title": "自然灾害救助三级应急响应启动",
+      "url": "http://society.people.com.cn/n1/2026/1023/c1008-40820157.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "bccae08f8cf0836c",
+      "id": "295ac120b2b63c8e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》将播出",
-      "url": "http://ent.people.com.cn/n1/2026/1022/c1012-40819191.html",
-      "publishedDate": "2026-10-22"
+      "title": "“十五五”规划纲要为外资企业提供“机遇清单”",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819866.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "b69a05aa46d2c885",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国人民银行将发行中国工农红军长征胜利90周年金银纪念币",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819192.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "72d4404dd500ce75",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国台办：两岸同胞走亲走近、走到一起的大潮流不可阻挡",
-      "url": "http://tw.people.com.cn/n1/2026/1022/c14657-40819163.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "2d65a069ea26a657",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "前三季度 全社会用电量同比增长3.9%",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819159.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "1795370ab52aa86b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "权威发布丨让法治服务发展、惠及百姓",
-      "url": "http://society.people.com.cn/n1/2026/1022/c1008-40819201.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "5440354b8e460bd0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "新兴领域良性循环加快形成",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819179.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "30b74732dcda6fa5",
+      "id": "824e331019abd0c9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "评论丨服务围人转，改革按需走",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819194.html",
-      "publishedDate": "2026-10-22"
+      "title": "评论丨“出产地”何以成“目的地”",
+      "url": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819905.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "6aec8bd9528ddf91",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "理论丨赢得战略主动 既靠精神也靠智慧",
-      "url": "http://opinion.people.com.cn/n1/2026/1022/c461530-40819199.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "0154e93a71973fee",
+      "id": "5ed63b1e30773e19",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "网联平台单日处理支付交易46.4亿笔 创历史新高",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819156.html",
-      "publishedDate": "2026-10-22"
+      "title": "从一条街的论坛到中国金融的一扇窗",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819913.html",
+      "publishedDate": "2026-10-23"
     },
     {
-      "id": "98b92fbb493d01c2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "第十五届中国国际专利技术与产品交易会将举办",
-      "url": "http://finance.people.com.cn/n1/2026/1022/c1004-40819161.html",
-      "publishedDate": "2026-10-22"
-    },
-    {
-      "id": "06d9fee6fb747fc0",
+      "id": "ed1a5e388fdc1b20",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "从微毒野菜到半截皮带 长征路上吃什么",
-      "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819169.html",
-      "publishedDate": "2026-10-22"
+      "title": "在于都东门渡口，感受浓浓军民情",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819888.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "896a342c2f3c9ac9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "一个渡口的文旅启示",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819889.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "77147af52c18fa67",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "走进4个“长征村”",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819921.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "dfa75ef8307c430c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "读一读这5封红军将士家书",
+      "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819872.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "0d683ba45477edfa",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "走好新时代太空探索新长征",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819922.html",
+      "publishedDate": "2026-10-23"
+    },
+    {
+      "id": "6d8f9b4fe8cedca6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "跨越新的“娄山关”“腊子口”",
+      "url": "http://finance.people.com.cn/n1/2026/1023/c1004-40819923.html",
+      "publishedDate": "2026-10-23"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "qiushi",
+      "message": "未找到可用标题"
+    }
+  ]
 }
