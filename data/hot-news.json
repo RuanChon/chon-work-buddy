@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T01:25:50.074Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T02:13:20.451Z",
   "sources": [
     {
       "id": "people",
@@ -15,280 +15,302 @@
   ],
   "items": [
     {
-      "id": "570dbb7c61d2cf0c",
+      "id": "183db1c2bc70b9cd",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "不断开创新时代管党治党、兴党强党新局面",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c1001-40821250.html",
-      "publishedDate": "2026-10-26"
+      "title": "任平：红梢林与红苹果",
+      "url": "http://opinion.people.com.cn/n1/2026/1027/c461529-40822051.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "5d30b3708c5efeb4",
+      "id": "ee73c84533048223",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "坚守初心使命，始终保持党同人民群众的血肉联系",
+      "url": "https://www.qstheory.cn/20261027/67735f0579d04809bc780f16c23f2b6a/c.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "b5a4d6f5496f106a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "总书记为何讲“四知拒金”的故事？",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c461001-40821415.html",
-      "publishedDate": "2026-10-26"
+      "title": "《事业单位登记管理条例》",
+      "url": "http://politics.people.com.cn/n1/2026/1027/c1001-40822014.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "710f2b3ceb217664",
+      "id": "d609ea73b28265db",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "思想如炬，照亮新的赶考路",
+      "url": "https://www.qstheory.cn/20261027/e588ce8051f24e13ab75ea5f68cbae29/c.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "3518b58e3c60323c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "锻造“实现愿景的非凡能力”",
-      "url": "http://opinion.people.com.cn/n1/2026/1026/c461529-40821236.html",
-      "publishedDate": "2026-10-26"
+      "title": "坚持不懈把全面从严治党向纵深推进",
+      "url": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822027.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "472776ae0cf61dc0",
+      "id": "d5c3632e8be9a166",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "任仲平:在新征程上持之以恒推进全面从严治党",
-      "url": "http://opinion.people.com.cn/n1/2026/1026/c461529-40821245.html",
-      "publishedDate": "2026-10-26"
+      "title": "二十届中央第八轮巡视完成进驻",
+      "url": "http://politics.people.com.cn/n1/2026/1027/c1001-40822052.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "152b24f63fe3b23c",
+      "id": "334004a70fb037ae",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "以永远在路上的坚韧和执着推进全面从严治党",
+      "url": "https://www.qstheory.cn/20261027/d207df8119f1491bac5fdc9d9a61a34a/c.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "612759706b614ce4",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "科学认识新时代全面从严治党的伟大成就与重要启示",
-      "url": "http://opinion.people.com.cn/n1/2026/1026/c461530-40821219.html",
-      "publishedDate": "2026-10-26"
+      "title": "前三季度全国纪检监察机关处分68万人",
+      "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822371.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "60872c586a7ddb56",
-      "source": "people",
-      "sourceName": "人民网",
+      "id": "d03fe0e276ed90d7",
+      "source": "qiushi",
+      "sourceName": "求是网",
       "topic": "时政",
-      "title": "二十届中央第七轮巡视完成反馈",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c461001-40821247.html",
-      "publishedDate": "2026-10-26"
+      "title": "读懂长征留给我们的精神密码",
+      "url": "https://www.qstheory.cn/20261027/4f92d896f56742b6adfa218832c635ac/c.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "1a2de948c22cb21a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国家数据集团成立,有何意义",
-      "url": "http://finance.people.com.cn/n1/2026/1026/c1004-40821243.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "0a55556bf85c54f0",
+      "id": "920a30c297a64dbf",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "西藏巴青地震|三个场景,照见生命至上",
-      "url": "http://society.people.com.cn/n1/2026/1026/c1008-40821238.html",
-      "publishedDate": "2026-10-26"
+      "title": "群众身边不正之风和腐败问题集中整治一线观察",
+      "url": "http://society.people.com.cn/n1/2026/1027/c1008-40822017.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "2e093e93115d45ee",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "西湖申遗成功15年交出的独特答卷",
-      "url": "http://ent.people.com.cn/n1/2026/1026/c1012-40821204.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "a5ffe55b2d02d75c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "草原小城\"种Token\"",
-      "url": "http://finance.people.com.cn/n1/2026/1026/c1004-40821213.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "012b19aeac29bb64",
+      "id": "fd78656e7683b72a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "\"娃娃书记\"当家故事",
-      "url": "http://society.people.com.cn/n1/2026/1026/c1008-40821211.html",
-      "publishedDate": "2026-10-26"
+      "title": "西藏巴青地震|稳稳护好每一名伤员",
+      "url": "http://society.people.com.cn/n1/2026/1027/c1008-40822044.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "e69af0167817c1be",
+      "id": "40b6787db821b58b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "罕见\"六虎同框\"背后",
+      "url": "http://env.people.com.cn/n1/2026/1027/c1010-40822030.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "65a748476f08cec0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一位西班牙共产党员的中国见闻与思考",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821984.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "951bb791c262b26e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "凯恩荣膺2026年金球奖",
+      "url": "http://ent.people.com.cn/n1/2026/1027/c1012-40822340.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "ded286022e160e61",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方呼吁通过止战保护儿童",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40822066.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "263fda23886b7522",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "2026中国国际农业机械展览会在天津开幕",
+      "url": "http://pic.people.com.cn/n1/2026/1027/c1016-40822207.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "888b1697156ae511",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "纪念东京审判开庭80周年图片展在纽约联合国总部开展",
+      "url": "http://pic.people.com.cn/n1/2026/1027/c1016-40822277.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "2274be0076ecff8f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "山东：首届CMG世界机器人登泰山大赛排位赛开赛",
+      "url": "http://pic.people.com.cn/n1/2026/1027/c1016-40822355.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "b3e455300dc53859",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "甘肃金塔：草方格织密戈壁防沙网",
+      "url": "http://pic.people.com.cn/n1/2026/1027/c1016-40822348.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "bf3241e7cbf9cd1f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "1至9月立案省部级及以上干部73人",
+      "url": "http://fanfu.people.com.cn/n1/2026/1027/c64371-40822166.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "854d68f8d5db2b32",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "牢牢抓住管党治党责任的“牛鼻子”",
+      "url": "http://dangjian.people.com.cn/n1/2026/1027/c117092-40822212.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "8a9a153c80928195",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "黑龙江发布一批干部任前公示",
+      "url": "http://renshi.people.com.cn/n1/2026/1027/c139617-40822326.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "3495e33d2e5755a9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "毛泽东与农民运动的红色摇篮",
+      "url": "http://cpc.people.com.cn/n1/2026/1027/c443712-40822179.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "587173ea7e65248e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "德国总统施泰因迈尔今起对我国进行国事访问",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821992.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "02e1ac9228dc482c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "2026全球治理论坛（雄安）发布《论坛愿景文件》",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821988.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "8f2c7c936db0bf6e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中朝共同举行中国人民志愿军抗美援朝出国作战76周年纪念活动",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821987.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "0b46500cef8b2031",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "全国人大常委会开展海南自由贸易港法执法检查",
+      "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822035.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "76aeeb6fa55ce465",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "外交部：将同各方携手让外空发展成果更好惠及全人类",
+      "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821986.html",
+      "publishedDate": "2026-10-27"
+    },
+    {
+      "id": "5bca81988604e9a5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "防癌抗癌? 警惕净水器\"坑老\"骗局",
-      "url": "http://society.people.com.cn/n1/2026/1026/c1008-40821220.html",
-      "publishedDate": "2026-10-26"
+      "title": "6部门印发指导意见 改造提升1500个老旧街区厂区",
+      "url": "http://society.people.com.cn/n1/2026/1027/c1008-40822029.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "3866b62c8e35fac2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "卢拉连任巴西总统",
-      "url": "http://world.people.com.cn/n1/2026/1026/c1002-40821385.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "af51e48adb2b5091",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "武契奇承认前进党在塞尔维亚议会选举中败选",
-      "url": "http://world.people.com.cn/n1/2026/1026/c1002-40821217.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "da78aea125d7ea0c",
+      "id": "6d7057c5ab7be712",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "确保中华复兴号巨轮劈波斩浪行稳致远",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c461001-40821426.html",
-      "publishedDate": "2026-10-26"
+      "title": "评论丨草原上的“守护”之重",
+      "url": "http://opinion.people.com.cn/n1/2026/1027/c461529-40822040.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "8734ec9f0e3e27e6",
+      "id": "cdd49e3261b6c996",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "2027年度中央机关公开遴选和公开选调公务员报名即将开始",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c461001-40821226.html",
-      "publishedDate": "2026-10-26"
+      "title": "理论丨汲取我国古代城市建设治理智慧推动城市工作",
+      "url": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822026.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "6f95bb6e41361268",
+      "id": "2bfc65cece13ddd0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "汇智聚力，共谋改革完善全球治理之道",
-      "url": "http://world.people.com.cn/n1/2026/1026/c1002-40821198.html",
-      "publishedDate": "2026-10-26"
+      "title": "央行设立债市非银大额赎回互换便利",
+      "url": "http://finance.people.com.cn/n1/2026/1027/c1004-40822036.html",
+      "publishedDate": "2026-10-27"
     },
     {
-      "id": "7b0d5e9ba092d2b9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "“知识产权是持续投入研发的底气”",
-      "url": "http://finance.people.com.cn/n1/2026/1026/c1004-40821242.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "2982a2087661b6d1",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "评论｜中国发展机遇持续与世界共享",
-      "url": "http://opinion.people.com.cn/n1/2026/1026/c461529-40821240.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "b791accb4d56f67c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "理论｜把握好基层工作的“大”与“小”",
-      "url": "http://opinion.people.com.cn/n1/2026/1026/c461530-40821218.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "a4ad7996c6c3c51e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "文物里的长征故事｜时光无言，镌刻伟大转折",
-      "url": "http://ent.people.com.cn/n1/2026/1026/c1012-40821225.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "7a9ce4b2ea8de27b",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "纪念台湾光复81周年座谈会在福州举办",
-      "url": "http://tw.people.com.cn/n1/2026/1026/c14657-40821221.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "9989f156ea374bad",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "“把先辈的精神传承下去”",
-      "url": "http://tw.people.com.cn/n1/2026/1026/c14657-40821222.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "893134b3aa0491c8",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国驻瑞士大使：深化创新合作 续写中瑞友好",
-      "url": "http://world.people.com.cn/n1/2026/1026/c1002-40821197.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "d62953681d4cb692",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "助力港口货畅其流的“安全管家”",
-      "url": "http://finance.people.com.cn/n1/2026/1026/c1004-40821261.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "860521d4761fa9b9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "财米油盐｜老瓷厂迎来新创客",
-      "url": "http://finance.people.com.cn/n1/2026/1026/c1004-40821179.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "0b05e5d2414a2f88",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "云南持续推动各民族走向共同富裕",
-      "url": "http://politics.people.com.cn/n1/2026/1026/c461001-40821239.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "4a7c7a2993896e71",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "千年揭阳火出圈 不只因为《给阿嬷的情书》",
-      "url": "http://ent.people.com.cn/n1/2026/1026/c1012-40821201.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "0390c192957806c7",
+      "id": "37e9551cc1e5dbfc",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "辽宁营口：违规码头越建越大",
-      "url": "http://society.people.com.cn/n1/2026/1026/c1008-40821208.html",
-      "publishedDate": "2026-10-26"
-    },
-    {
-      "id": "3535ecdb7802a36d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "部分旅行社代购保险暗藏猫腻",
-      "url": "http://society.people.com.cn/n1/2026/1026/c1008-40821209.html",
-      "publishedDate": "2026-10-26"
+      "title": "国家标准将于11月1日实施 让陪诊服务有保障不越界",
+      "url": "http://society.people.com.cn/n1/2026/1027/c1008-40822048.html",
+      "publishedDate": "2026-10-27"
     }
   ],
-  "errors": [
-    {
-      "source": "qiushi",
-      "message": "未找到可用标题"
-    }
-  ]
+  "errors": []
 }
