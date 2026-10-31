@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T02:43:56.696Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T02:34:30.063Z",
   "sources": [
     {
       "id": "people",
@@ -15,391 +15,310 @@
   ],
   "items": [
     {
-      "id": "7bb123ce38792582",
+      "id": "24f6f5baaecfbbd0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "中共二十届五中全会在京举行",
-      "url": "http://politics.people.com.cn/n1/2026/1030/c1001-40824205.html",
-      "publishedDate": "2026-10-30"
+      "title": "党的二十届五中全会侧记",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1001-40824936.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "96824f0799798125",
+      "id": "87d11bcbd634c49b",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "党的二十届五中全会公报一图速览",
-      "url": "https://www.qstheory.cn/20261030/09bbda895b7e4bf78980434e7eaed458/c.html",
-      "publishedDate": "2026-10-30"
+      "title": "“推进新时代党的建设新的伟大工程的纲领性文件”——党的二十届五中全会侧记",
+      "url": "https://www.qstheory.cn/20261031/04ae0669910a41cb9a524da3fea6069c/c.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "a5d6667d6675f38a",
+      "id": "aeee3b8dfb26aeb8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报社论：把我们党建设得更好、更强",
-      "url": "http://opinion.people.com.cn/n1/2026/1030/c461529-40824147.html",
-      "publishedDate": "2026-10-30"
+      "title": "中共中央举行新闻发布会解读党的二十届五中全会精神",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1001-40824947.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "dbc21aeee0662ce8",
+      "id": "d9e6c3619a2553b3",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "中国共产党，不怕远征难！",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c461001-40825099.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "7221f4c587feaf53",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "把我们党建设得更好、更强",
-      "url": "https://www.qstheory.cn/20261030/63f2cafe2ccc4c15914002eec4e3342f/c.html",
-      "publishedDate": "2026-10-30"
+      "title": "与会同志谈贯彻落实党的二十届五中全会精神",
+      "url": "https://www.qstheory.cn/20261031/59c624ee9d7044548d5eab4cf0985f45/c.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "bc5f1f607e0fa262",
+      "id": "e51f62d3cb7188c7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "以党章为根本持之以恒推进全面从严治党",
-      "url": "http://opinion.people.com.cn/n1/2026/1030/c461530-40824177.html",
-      "publishedDate": "2026-10-30"
+      "title": "习近平同德国总统施泰因迈尔会谈",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824934.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "fe70ebadb9200182",
+      "id": "f3a30d8d13fa809b",
       "source": "qiushi",
       "sourceName": "求是网",
-      "topic": "时政",
-      "title": "读懂新时代全面从严治党伟大成就的深刻启示",
-      "url": "https://www.qstheory.cn/20261030/5b7ef11922124b9794c480d923bcc246/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "05f6725254986ce2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "从广交会看中国气派",
-      "url": "http://opinion.people.com.cn/n1/2026/1030/c461529-40824169.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "b48a6a6161c585b8",
-      "source": "people",
-      "sourceName": "人民网",
       "topic": "时政",
       "title": "不断开创新时代管党治党、兴党强党新局面",
-      "url": "http://politics.people.com.cn/n1/2026/1030/c1001-40824150.html",
-      "publishedDate": "2026-10-30"
+      "url": "https://www.qstheory.cn/20261031/a4d5001fcdd74ee88104160e65e0aa79/c.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "c4c5833a6223f4e1",
+      "id": "0f5c29760ccd929b",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平会见瑞士联邦主席帕姆兰",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824935.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "afbe302a4ff0c604",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "强化源头技术供给 构筑产业发展新优势",
-      "url": "https://www.qstheory.cn/20261030/557f748199da40e89173dc0c5817b2d7/c.html",
-      "publishedDate": "2026-10-30"
+      "title": "全面贯彻习近平党建思想——论学习贯彻党的二十届五中全会精神",
+      "url": "https://www.qstheory.cn/20261031/adfa0900231346498aac09319692cfe6/c.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "c185d0c8313c326b",
+      "id": "fd9775dc57c623dd",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李强主持召开国务院党组会议 丁薛祥出席",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824938.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "e0197cfb22d134f4",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "坚定信心、保持定力持之以恒推进全面从严治党",
+      "url": "https://www.qstheory.cn/20261031/22419b9554a94db081e7ca72412a7683/c.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "a1dce5091202e9ee",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "全国人大常委会党组举行会议 赵乐际主持并讲话",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824940.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "6c492fc70fc49640",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "中共全国政协党组召开会议 王沪宁主持并讲话",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824941.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "944bb294e46ac876",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "李希主持召开中央纪委常委会会议",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1024-40824942.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "7abb64b939da4eec",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "人民日报评论员:全面贯彻习近平党建思想",
+      "url": "http://opinion.people.com.cn/n1/2026/1031/c461529-40824937.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "14c243bbe81623ad",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"中国共产党提高长期执政能力的重要经验\"",
-      "url": "http://world.people.com.cn/n1/2026/1030/c1002-40824154.html",
-      "publishedDate": "2026-10-30"
+      "title": "我国铼、金、镍、锆等保有资源量大幅增加",
+      "url": "http://finance.people.com.cn/n1/2026/1031/c1004-40825105.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "06c52dea249a72f5",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "海南自贸港跨境贸易投资便利化水平持续提升",
-      "url": "https://www.qstheory.cn/20261030/d8b36bced92e468dbf3a18074b97dd68/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "732cfe531cb59636",
+      "id": "7ce2b35a1517fe60",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "高质量发展故事汇|AI+,塑造智能经济新形态",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824180.html",
-      "publishedDate": "2026-10-30"
+      "title": "安理会举行联合国秘书长遴选第七轮意向性投票",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824930.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "2231bc72f735480a",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "第33届中国杨凌农高会签约投资总额超329亿元",
-      "url": "https://www.qstheory.cn/20261030/38585b36a8d142efb54356993a812932/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "7c598f8cff6faabe",
+      "id": "55e6a051577ba103",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "西藏巴青地震|\"我期待着回学校\"",
-      "url": "http://society.people.com.cn/n1/2026/1030/c1008-40824163.html",
-      "publishedDate": "2026-10-30"
+      "title": "水利部介绍水资源统一调度工作进展",
+      "url": "http://society.people.com.cn/n1/2026/1031/c1008-40824990.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "e1b0755a7d5a794e",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "长三角381项科技成果拍卖现场成交额超7亿元",
-      "url": "https://www.qstheory.cn/20261030/5adfc03010ac486f8820163d1e187627/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "1def34bfc04da8c5",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "\"我们是一家人\"",
-      "url": "http://society.people.com.cn/n1/2026/1030/c1008-40824164.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "93f6bafc304a3eb5",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "我国“蓝湾行动”获评世界生态恢复旗舰项目",
-      "url": "https://www.qstheory.cn/20261030/b24af52db8604dc98cf70a52c8812f84/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "eb9520ee1ac2ad52",
+      "id": "7563ade552a6afcc",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "高素质农民助力乡村全面振兴",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824173.html",
-      "publishedDate": "2026-10-30"
+      "title": "用好有利条件推动工业经济质效向好",
+      "url": "http://theory.people.com.cn/n1/2026/1031/c40531-40825067.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "8a137edf544e4360",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "11月起，这些新规将影响你我生活",
-      "url": "https://www.qstheory.cn/20261030/67406cd1c5cf4de681216ecd31157ac0/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "c0ae9ca8cb0517d3",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "记者调查|定制农业,如何让供需精准\"握手\"",
-      "url": "http://society.people.com.cn/n1/2026/1030/c1008-40824185.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "d87fc0d2109a05c2",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "国家再次对成品油价格实施调控",
-      "url": "https://www.qstheory.cn/20261030/e4066b44e0e04547961a17bf2057f0a0/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "e9478c538cd10e9c",
+      "id": "85b465e3be802678",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "党建+业务,激发新经济组织活力",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824197.html",
-      "publishedDate": "2026-10-30"
+      "title": "书记领题攻坚 项目落地见效",
+      "url": "http://dangjian.people.com.cn/n1/2026/1031/c117092-40825064.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "5b97b4c7f3edc31e",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "欧洲央行维持三大关键利率不变",
-      "url": "https://www.qstheory.cn/20261030/d145942e365a4f8c8818cedd28fc36eb/c.html",
-      "publishedDate": "2026-10-30"
+      "id": "9ec91828a5604f20",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "谢卫江任湖南省代省长",
+      "url": "http://cpc.people.com.cn/n1/2026/1031/c64387-40825024.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "e1efdf2cea869739",
+      "id": "c453eb272be719af",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "守好村集体“钱袋子”",
+      "url": "http://fanfu.people.com.cn/n1/2026/1031/c64371-40825058.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "c70fdf3357125814",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "“进一步增强了百年大党的稳定性和凝聚力”",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824949.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "9044c94b28ef0823",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "阿曼苏丹海赛姆将对中国进行国事访问",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824951.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "cc748cb0d4195c0f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "奥地利总理施托克尔将访华",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824952.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "8130408eefcdd892",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "警惕\"中国AI跑偏论\"",
-      "url": "http://opinion.people.com.cn/n1/2026/1030/c461529-40824171.html",
-      "publishedDate": "2026-10-30"
+      "title": "全国人大常委会法工委通报拟审议的法律草案情况",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1001-40824943.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "c46f95e5c04dc9db",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
-      "url": "https://www.qstheory.cn/20261030/19e8f0ad70f44f28b64090e82c5da129/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "bdd45fdc5afa9b88",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "点球大战淘汰法国队 中国U17女足首进世界杯八强",
-      "url": "http://ent.people.com.cn/n1/2026/1030/c1012-40824538.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "5a8fe2ba2828cfa9",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "深刻把握中华文明突出的包容性③",
-      "url": "https://www.qstheory.cn/20261030/67e96036d4a1421aa544cc56b27c3c58/c.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "139dec8e884709e9",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中国与非洲国家在世贸组织联合举办贸易投资一体化主题会议",
-      "url": "http://world.people.com.cn/n1/2026/1030/c1002-40824208.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "77fefbab899e14f7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "欧盟多国承诺加快释放4260万桶储油以稳定市场",
-      "url": "http://world.people.com.cn/n1/2026/1030/c1002-40824140.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "9ad9164affab1458",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "加拿大发布20多年来首份国家安全战略",
-      "url": "http://world.people.com.cn/n1/2026/1030/c1002-40824206.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "4eb5f18a5f8d003e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神",
-      "url": "http://pic.people.com.cn/n1/2026/1030/c1016-40824606.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "9b7b25d51d6ac147",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "陕西西安：大雁塔秋景",
-      "url": "http://pic.people.com.cn/n1/2026/1030/c1016-40824578.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "79f05682d6faa2c7",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "上海：文博展览进校园",
-      "url": "http://pic.people.com.cn/n1/2026/1030/c1016-40824506.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "92e64acc41790079",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "以创新开创经济高质量发展新局面",
-      "url": "http://theory.people.com.cn/n1/2026/1030/c40531-40824299.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "5dd2c1f758cf3af0",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "推动“三资”管理透明化制度化",
-      "url": "http://fanfu.people.com.cn/n1/2026/1030/c64371-40824283.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "a451544c239b4111",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "做实案件查办“后半篇文章”",
-      "url": "http://fanfu.people.com.cn/n1/2026/1030/c64371-40824284.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "e0a94fb28037818f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "持之以恒加强党性教育",
-      "url": "http://dangjian.people.com.cn/n1/2026/1030/c117092-40824329.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "39e87898c1b139ea",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "扎西会议：伟大转折的光辉续篇",
-      "url": "http://cpc.people.com.cn/n1/2026/1030/c443712-40824356.html",
-      "publishedDate": "2026-10-30"
-    },
-    {
-      "id": "975635ee7cbc1f3e",
+      "id": "5235b7596691ebb3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅同冰岛外长贡纳尔斯多蒂尔会谈",
-      "url": "http://politics.people.com.cn/n1/2026/1030/c1001-40824162.html",
-      "publishedDate": "2026-10-30"
+      "title": "国务院任免国家工作人员",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c1001-40824944.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "685669ae6593326a",
+      "id": "d7ea7690c1d63901",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中国与瑞士签署自贸协定升级议定书",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824925.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "865f93bd5935269f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议",
-      "url": "http://politics.people.com.cn/n1/2026/1030/c1001-40824148.html",
-      "publishedDate": "2026-10-30"
+      "title": "纪念中国工农红军长征胜利90周年文物联展开幕",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c461001-40824961.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "13e3edead2eefcb0",
+      "id": "51cef52102472f3e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "政策解读丨绿色航运时代正加速到来",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824152.html",
-      "publishedDate": "2026-10-30"
+      "title": "中国驻阿曼大使：开启中国阿曼共同发展繁荣的新篇章",
+      "url": "http://world.people.com.cn/n1/2026/1031/c1002-40824950.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "96469b5e968cffaa",
+      "id": "79342570aaefb37c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "前三季度消费市场规模稳步扩大",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824151.html",
-      "publishedDate": "2026-10-30"
+      "title": "国产卫星互联网打通全球通信“最后的盲区”",
+      "url": "http://finance.people.com.cn/n1/2026/1031/c1004-40824973.html",
+      "publishedDate": "2026-10-31"
     },
     {
-      "id": "f7ebc3715a9a213c",
+      "id": "74221f0a932320eb",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "金融监管总局会同公安部加强警保协同联动",
+      "url": "http://politics.people.com.cn/n1/2026/1031/c461001-40824964.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "23e5ef32e6e2678b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "4部门发文进一步提高海南自贸港贸易自由化便利化水平",
-      "url": "http://finance.people.com.cn/n1/2026/1030/c1004-40824142.html",
-      "publishedDate": "2026-10-30"
+      "title": "前三季度可再生能源发电量增长约8%",
+      "url": "http://finance.people.com.cn/n1/2026/1031/c1004-40824927.html",
+      "publishedDate": "2026-10-31"
+    },
+    {
+      "id": "f6a62b8037415e54",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "我军首型舰载察打一体隐身无人机在四川舰成功起降",
+      "url": "http://military.people.com.cn/n1/2026/1031/c1011-40824967.html",
+      "publishedDate": "2026-10-31"
     }
   ],
   "errors": []
