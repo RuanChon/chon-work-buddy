@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T03:24:53.346Z",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T02:53:58.029Z",
   "sources": [
     {
       "id": "people",
@@ -15,337 +15,337 @@
   ],
   "items": [
     {
-      "id": "de0bf9cdcb1378ff",
+      "id": "8e3c6fd2dfb17dd0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "以高质量党建引领企业高质量发展",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833880.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "0d4979598b41563d",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "习近平总书记重要讲话激励两岸同胞共创民族复兴美好未来",
+      "url": "https://www.qstheory.cn/20261115/3852b09f136d4f73abc9cd25672df3ad/c.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "c0051d93548e6c8a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "构建亚太共同体 共创亚太新未来",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833641.html",
-      "publishedDate": "2026-11-14"
+      "title": "把亚太合作的蛋糕越做越大",
+      "url": "http://world.people.com.cn/n1/2026/1115/c1002-40833893.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "fb3d8999b7119e7f",
+      "id": "2f8223704a7833cd",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话引发强烈共鸣、凝聚奋进力量",
-      "url": "https://www.qstheory.cn/20261114/b30ad45d79524ee0bbff1a318ebb8b47/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "学习手记｜开放是亚太合作的生命线",
+      "url": "https://www.qstheory.cn/20261115/6deb73d2a8f0418c851f57da2df89951/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "b775517a087ae3df",
+      "id": "a471a1ef1522c727",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "外交部介绍中方对深圳APEC领导人非正式会议的期待",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c1024-40833635.html",
-      "publishedDate": "2026-11-14"
+      "title": "李强会见泰国国王哇集拉隆功",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c1024-40833885.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "99151efe4e9e4797",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "习近平主席引领亚太大家庭扬帆前行",
-      "url": "https://www.qstheory.cn/20261114/cab6df432e7e40619dc392a703e19557/c.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "86e03e52c5541fea",
+      "id": "e0a2cb6cbecaf6e5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "一见·缅怀孙中山先生,感悟\"振兴中华\"的必由之路",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c461001-40833780.html",
-      "publishedDate": "2026-11-14"
+      "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c1001-40834068.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "921ed25cbe76a896",
+      "id": "b9e85982fb6e333d",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "2030年全国新型储能装机规模有望达到3亿千瓦",
-      "url": "https://www.qstheory.cn/20261114/045c16f0962045dd9ac786e93af0706f/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+      "url": "https://www.qstheory.cn/20261115/664d2c3496164076abf82b96edbef25c/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "52a4a31863d18a54",
+      "id": "3adca2b49bd66965",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "李强同泰国总理阿努廷会谈",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c1024-40833636.html",
-      "publishedDate": "2026-11-14"
+      "title": "让人民群众切实感受到公平正义就在身边",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833881.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "7d5e685121b06c43",
+      "id": "f065323b4c7f42e0",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "资金流向哪里，结构有何变化——透视10月金融数据",
-      "url": "https://www.qstheory.cn/20261114/927171e0adba4fc3be1143274387d0fa/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "“药篮子”上新！2026年医保商保“双目录”发布",
+      "url": "https://www.qstheory.cn/20261115/f3116910c49741c9a2cd6ac1d57d23a9/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "1cf111f3dc84233d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "韩正出席2026世界中文大会开幕式并致辞",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c1001-40833637.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "b752471a15e5fb5a",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "日本政府拟将未来五年防卫费总额提高至60万亿日元",
-      "url": "https://www.qstheory.cn/20261114/15bbefbaae174ebe8703bc76e50e431f/c.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "30baf725aaeadc75",
+      "id": "7c5f5eb1c36631a6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "和音|相约深圳,续写\"亚太奇迹\"新篇章",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833642.html",
-      "publishedDate": "2026-11-14"
+      "title": "以中美建设性战略稳定促进亚太共同繁荣",
+      "url": "http://world.people.com.cn/n1/2026/1115/c1002-40833895.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "e964b375f8f6cf18",
+      "id": "6cc58e1e5ee8ccfc",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "央行将开展2000亿元买断式逆回购操作",
-      "url": "https://www.qstheory.cn/20261114/d761eeec13734e169726e8fd884e77bd/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "为中奥友好战略伙伴关系注入民生新内涵",
+      "url": "https://www.qstheory.cn/20261115/92b451835f22458d99299cf2ac1da851/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "6e4a8cc39d11d551",
+      "id": "63d3b2aa39d778c0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "中央宣讲团在山西、新疆宣讲",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c461001-40833652.html",
-      "publishedDate": "2026-11-14"
+      "title": "西藏扎实做好民生工作",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833878.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "8b99e3f78e548cac",
+      "id": "6e02d1eba8b971b5",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "我国人工智能驱动生产率增长面临哪些挑战",
-      "url": "https://www.qstheory.cn/20261114/0eec8e93619e45b6aad16d1cb8a8419a/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "近六年我国颠覆性技术产业化指数累计增幅超五成",
+      "url": "https://www.qstheory.cn/20261115/605233ecb606439398800e64bad4e23c/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "d166879460d08e26",
+      "id": "4a03c584625bf058",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "APEC深圳会议各项筹备工作已经就绪",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833818.html",
-      "publishedDate": "2026-11-14"
+      "topic": "时政",
+      "title": "海南推动旅游业高质量发展",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833879.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "2fe6df4cef112ebf",
+      "id": "fa46cd0d314e82e4",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "怎样推动构建更加公正合理的全球海洋治理体系",
-      "url": "https://www.qstheory.cn/20261114/75892478383149609a22784347383f50/c.html",
-      "publishedDate": "2026-11-14"
+      "title": "如何锤炼坚强党性",
+      "url": "https://www.qstheory.cn/20261115/08d7f51e50724de086c84cc09f71eb4d/c.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "a2d70b0cac468096",
+      "id": "80211a0964fb31a5",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "中央宣讲团在江西宣讲",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c1001-40833896.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "edc5d6dab7a2f085",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "老人的脸,不是牟利的筹码",
+      "url": "http://opinion.people.com.cn/n1/2026/1115/c436867-40834044.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "c76176b67fc5952f",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "知识产权专员破解企业\"痛点\"",
-      "url": "http://finance.people.com.cn/n1/2026/1114/c1004-40833647.html",
-      "publishedDate": "2026-11-14"
+      "title": "全美航空运输预计15日晚恢复正常",
+      "url": "http://world.people.com.cn/n1/2026/1115/c1002-40833877.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "c2be12ee488c5c0e",
+      "id": "c9668f3596eb0b70",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "美国全国航班停飞令已致7000架次航班延误或取消",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833685.html",
-      "publishedDate": "2026-11-14"
+      "title": "动力产业四联展在南京举行 新技术集中亮相",
+      "url": "http://pic.people.com.cn/n1/2026/1115/c1016-40834038.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "2c76cdce38b6053c",
+      "id": "ef41e9fec685878e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "欧盟机构及五国将代表欧洲参与乌克兰和平谈判",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833676.html",
-      "publishedDate": "2026-11-14"
+      "title": "安徽黟县：乐享戏曲“大餐”",
+      "url": "http://pic.people.com.cn/n1/2026/1115/c1016-40834039.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "f8edd021102de82e",
+      "id": "5dd00f5eeb198bf1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "176家台企参展第十八届海峡两岸茶博会",
+      "url": "http://pic.people.com.cn/n1/2026/1115/c1016-40834034.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "f314195dd6e36006",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "看清家底找准绿色发展方向",
+      "url": "http://theory.people.com.cn/n1/2026/1115/c40531-40833990.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "dd8b4418fb039a5d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "共建亚太共同体：中国的担当与贡献",
+      "url": "http://theory.people.com.cn/n1/2026/1115/c40531-40833992.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "4a8e53a22a943d7d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "广西南宁：促进监督治理深度融合",
+      "url": "http://fanfu.people.com.cn/n1/2026/1115/c64371-40834014.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "a8dbded444db4fac",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "山东菏泽：化解交通领域廉洁风险",
+      "url": "http://fanfu.people.com.cn/n1/2026/1115/c64371-40834015.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "2c82c602f48ff585",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "两河口会议：维护两大主力红军的团结",
+      "url": "http://cpc.people.com.cn/n1/2026/1115/c443712-40834010.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "f5868d4e1642a2a4",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c1001-40833892.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "16222b76fd3a7237",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "各地深入开展“强国复兴有我”群众性主题宣传教育活动",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833887.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "c73602cb60a1e69e",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+      "url": "http://world.people.com.cn/n1/2026/1115/c1002-40834066.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "5f4ee2bee2e3c3f8",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "纪念孙中山先生诞辰160周年活动嘉宾团晋谒中山陵仪式在南京举行",
+      "url": "http://politics.people.com.cn/n1/2026/1115/c461001-40833888.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "9ec357323c3014a9",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "新疆阿克苏地区库车市发生5.0级地震 暂无人员伤亡报告",
-      "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833626.html",
-      "publishedDate": "2026-11-14"
+      "title": "51个一类新药进医保 创新药惠民“再提速”",
+      "url": "http://society.people.com.cn/n1/2026/1115/c1008-40833872.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "7db8a78b4708cee4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "2026上海国际童书展举行",
-      "url": "http://pic.people.com.cn/n1/2026/1114/c1016-40833810.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "8096c8dc48ddb24c",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "福建：厦金大桥（厦门段）海上主线桥贯通",
-      "url": "http://pic.people.com.cn/n1/2026/1114/c1016-40833809.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "9d0b6be5b59d906a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "安徽亳州：中药材市场交易忙",
-      "url": "http://pic.people.com.cn/n1/2026/1114/c1016-40833813.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "d95da9f90633309a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "山西夏县：黄胡萝卜喜丰收 田间好“丰”景",
-      "url": "http://pic.people.com.cn/n1/2026/1114/c1016-40833811.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "d1de826e3d1c918f",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从伟大长征精神中汲取强大力量",
-      "url": "http://theory.people.com.cn/n1/2026/1114/c40531-40833776.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "f59a4c631e12be58",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从严抓“工程” 贵在持之以恒",
-      "url": "http://dangjian.people.com.cn/n1/2026/1114/c117092-40833774.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "9c69bf6275dfe279",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "南京：推动巡察工作提质增效",
-      "url": "http://fanfu.people.com.cn/n1/2026/1114/c64371-40833778.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "ce4c100bb8deb97d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "上海市市管干部任职前公示",
-      "url": "http://renshi.people.com.cn/n1/2026/1114/c139617-40833790.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "588db486a330b0e2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "中央红军战略转移序章：突破三道封锁线",
-      "url": "http://cpc.people.com.cn/n1/2026/1114/c443712-40833771.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "798cf46b4e12e64e",
+      "id": "2d7469f2b3916d02",
       "source": "people",
       "sourceName": "人民网",
       "topic": "社会",
-      "title": "《中医药传统知识保护条例》自2027年1月1日起施行",
-      "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833658.html",
-      "publishedDate": "2026-11-14"
+      "title": "人力资源社会保障部就中奥社保协定答记者问",
+      "url": "http://society.people.com.cn/n1/2026/1115/c1008-40833874.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "2605daf108f4b6b4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "王毅分别同韩国外长、出席2026中美政党对话美方代表会谈会见",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c1001-40833640.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "6b9035fdccfed548",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "国务院任免国家工作人员",
-      "url": "http://politics.people.com.cn/n1/2026/1114/c461001-40833654.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "7bf40e7e88cd0903",
+      "id": "e01f67a7d404a239",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "外交部：中国坚定敞开大门同世界共享发展机遇",
-      "url": "http://world.people.com.cn/n1/2026/1114/c1002-40833628.html",
-      "publishedDate": "2026-11-14"
+      "title": "台湾渔产品陆续输入大陆",
+      "url": "http://tw.people.com.cn/n1/2026/1115/c14657-40833906.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "e48927e6130e4905",
+      "id": "c7b457ec5686c4b7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "2027年全国硕士研究生招生考试共347万人报名",
-      "url": "http://edu.people.com.cn/n1/2026/1114/c1006-40833657.html",
-      "publishedDate": "2026-11-14"
+      "title": "上了老年大学 越过越有劲头",
+      "url": "http://edu.people.com.cn/n1/2026/1115/c1006-40833899.html",
+      "publishedDate": "2026-11-15"
     },
     {
-      "id": "d540171060747eec",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "全国城市联合招聘秋季活动扎实推进",
-      "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833629.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "f47cb0b7baf4083d",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "国务院安委办对11个市级政府开展安全生产约谈",
-      "url": "http://society.people.com.cn/n1/2026/1114/c1008-40833659.html",
-      "publishedDate": "2026-11-14"
-    },
-    {
-      "id": "12aafe901ca80dec",
+      "id": "c957d4bc7c67c925",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "前10月人民币贷款增加11.42万亿元",
-      "url": "http://finance.people.com.cn/n1/2026/1114/c1004-40833632.html",
-      "publishedDate": "2026-11-14"
+      "title": "学习，“老”有乐趣了！",
+      "url": "http://edu.people.com.cn/n1/2026/1115/c1006-40833900.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "010cc2acdcfbe8f9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "奏响丝路和声 共创美好未来",
+      "url": "http://finance.people.com.cn/n1/2026/1115/c1004-40833907.html",
+      "publishedDate": "2026-11-15"
+    },
+    {
+      "id": "8c8416b37a4882ba",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一台CT机的故事",
+      "url": "http://world.people.com.cn/n1/2026/1115/c1002-40833897.html",
+      "publishedDate": "2026-11-15"
     }
   ],
   "errors": []
