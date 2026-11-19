@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T04:36:37.093Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T04:18:43.944Z",
   "sources": [
     {
       "id": "people",
@@ -15,409 +15,373 @@
   ],
   "items": [
     {
-      "id": "09bfd77448e235b9",
+      "id": "87de61917ae86b17",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "坚定信心、勇毅前行 促进亚太共同繁荣",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40836295.html",
-      "publishedDate": "2026-11-18"
+      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837023.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "da2a380f222d3bdf",
+      "id": "e3a9ab28d52f0dc0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平谈建设亚太共同体",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837022.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "fd555d5bfc8f5028",
       "source": "qiushi",
       "sourceName": "求是网",
+      "topic": "时政",
+      "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+      "url": "https://www.qstheory.cn/20261119/63fad44a6b7545f889fc99d18559aa7f/c.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "f341cf5e7e8be51d",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837021.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "3c438475bf6bbff9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "习近平主持亚太经合组织第三十三次领导人非正式会议",
+      "url": "http://pic.people.com.cn/n1/2026/1119/c426981-40837049.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "b55220eb73bf93d3",
+      "source": "people",
+      "sourceName": "人民网",
       "topic": "时政",
       "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-      "url": "https://www.qstheory.cn/20261118/590e38a3d8d348a0b19d89d4a827a476/c.html",
-      "publishedDate": "2026-11-18"
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836566.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "78d2b37b45772091",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "中方支持成立世界湾区经济合作联盟",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40836296.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "6d02815e61c6f495",
+      "id": "c0db54d200db4bfc",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "一天之内六场会见，习主席开启繁忙APEC时间",
-      "url": "https://www.qstheory.cn/20261118/880d8ea510d847518d5638a97240c4d4/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "携手共创亚太光明未来",
+      "url": "https://www.qstheory.cn/20261119/747f78020fa7487e87214d8bb907232e/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "119cf92b42b760e3",
+      "id": "bc83b6f49a355782",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "“十五五”规划是中国面向全球工商界发出的合作邀约",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40836299.html",
-      "publishedDate": "2026-11-18"
+      "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836567.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "c7501d52f0a4c7e4",
+      "id": "d50997cc44132363",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "习近平总书记重要指示激励法院队伍在新征程上砥砺前行",
-      "url": "https://www.qstheory.cn/20261118/db9939f788594af5aed29d592764ae20/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "习主席向全球工商界阐释中国机遇新内涵",
+      "url": "https://www.qstheory.cn/20261119/bbbef61768124f8287d617d68c1986ea/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "05576abed3f5bce1",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "世界越变，中国为何越开放？",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40835993.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "2b6642eba70d5b0f",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "深化党建引领基层治理和基层政权建设",
-      "url": "https://www.qstheory.cn/20261118/8fb8fa8d69614918abbd8010d04b992d/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "28ce4ff45629afcb",
+      "id": "5e9ffc4400dc18f3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "习近平会见俄罗斯总统普京",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40836356.html",
-      "publishedDate": "2026-11-18"
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836568.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "6f77165720e5fd3b",
+      "id": "42baaa78ad21dc2e",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "科学把握推进制度型开放的战略意义和实践要求",
-      "url": "https://www.qstheory.cn/20261118/0fce60d7574d47c6b3ffeeb4aab93a13/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "携手建设亚太共同体 促进亚太共同繁荣",
+      "url": "https://www.qstheory.cn/20261119/3e85f2773e4b4a82990141c7eb2f641c/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "2ff9a9085fe39c9c",
+      "id": "a9318c1be7f34f56",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "习近平迎接美国总统特朗普",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836569.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "8cc832ec8025570d",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "APEC合作如何惠及百姓生活",
+      "url": "https://www.qstheory.cn/20261119/101e1dda35c24ad79177d38d2db66277/c.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "95d642940f3fc60a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
       "title": "习近平会见韩国总统李在明",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40836312.html",
-      "publishedDate": "2026-11-18"
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836570.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "4fb401ebf321d90d",
+      "id": "3d19afb551b90069",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "外交部：深圳见证了亚太区域经济一体化的发展",
-      "url": "https://www.qstheory.cn/20261118/0e5dd39331c643ed9f8fa72be166c359/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "中国向全球工商界发出合作“邀请函”",
+      "url": "https://www.qstheory.cn/20261119/c6cbb93f056244c8b34f6410c4bb51a8/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "33ef7c458c0f1c9e",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "元首外交\"深圳时间\"开启 密集会晤聚焦哪些重要话题?",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836341.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "b7c4a43cb0c03fd6",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "商务部：中加同意将初步联合安排的相关豁免措施延长2年",
-      "url": "https://www.qstheory.cn/20261118/940a3c7bf1a147949602d5ebb70d8f96/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "bfd4adfd21f045fd",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "经纬线·习近平主席的APEC主张落地有声",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836127.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "fd742a8d6377f992",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "《地理标志保护和运用“十五五”规划》印发",
-      "url": "https://www.qstheory.cn/20261118/c660188c9de24a83b9a030e0493920eb/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "302b955291ca8907",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "同习主席会见时,他们为什么都提到了这一点",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836332.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "3a3c7a2205f000e2",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "促进回收行业高质量发展——多部门详解深入推进再生资源回收体系建设",
-      "url": "https://www.qstheory.cn/20261118/9af3c727a1bc4f819210c85291c6209c/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "331c1d601a238a42",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "印度尼西亚总统抵达深圳",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836358.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "aa9ba946eb4ae2ba",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "自然科学基金委新规明确划定经费管理使用“红线”",
-      "url": "https://www.qstheory.cn/20261118/df2e125660184c5cb25f6d6a5cc22eb0/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "e825c0520f4b9427",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "泰国总理抵达深圳",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836325.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "4c3d63495dd63b21",
-      "source": "qiushi",
-      "sourceName": "求是网",
-      "topic": "时政",
-      "title": "神舟二十四号计划近日择机实施发射 船箭组合体转运至发射区",
-      "url": "https://www.qstheory.cn/20261118/9d4bf2370b3e421398523cf6c45e9385/c.html",
-      "publishedDate": "2026-11-18"
-    },
-    {
-      "id": "ab4c2d44b2eae6f8",
+      "id": "4955c19762dc7332",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国与亚太经济体合作故事",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835823.html",
-      "publishedDate": "2026-11-18"
+      "title": "从庆州到深圳,推动中韩友好合作迈上新台阶",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836578.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "5a9e6fbddc20e2fc",
+      "id": "a3651e4d3e1038bf",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "护航全生命周期健康 我国将逐步实现疫苗处方全覆盖",
-      "url": "https://www.qstheory.cn/20261118/a7241b7fce204dedad8ee13ce776dca4/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "我国成功发射实践二十四号卫星",
+      "url": "https://www.qstheory.cn/20261119/11f396eb7bb14a0793611c4596ba7557/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "f0efc8f099efbf2c",
+      "id": "3a4b1de7ecf368f5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "\"APEC故事·共赢链\"",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835841.html",
-      "publishedDate": "2026-11-18"
+      "title": "2026年亚太经合组织工商领导人峰会深圳倡议",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836575.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "c7c8db456693ab03",
+      "id": "cb68bd86a542f6d9",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "碳排放权交易市场开放联盟通过《COP31宣言》",
-      "url": "https://www.qstheory.cn/20261118/a229b2409aca427abf2ead00997d9b62/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "商务部：中韩自贸协定第二阶段谈判实质性完成",
+      "url": "https://www.qstheory.cn/20261119/8ea87396d42140f9895979de0e9c9587/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "c72c8db44e7b2af0",
+      "id": "b46b2be9bf3d9b0b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "国际人士积极评价中国推动APEC务实合作",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835793.html",
-      "publishedDate": "2026-11-18"
+      "title": "\"看五十年的中国就来深圳\"",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836576.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "ffbbd27835496fb5",
+      "id": "4c6d41c12fd845aa",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "王毅《求是》发文：高举亚太共同体旗帜 迈向共同繁荣愿景",
-      "url": "https://www.qstheory.cn/20261118/d0e688dc3d42466b9120146d8505cf39/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "2025年全球专利申请量创新高 中国大幅领先",
+      "url": "https://www.qstheory.cn/20261119/c475349db2584d3cbcb60b3dc4b51abb/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "0764a2a6c455cab5",
+      "id": "65481a18939065f3",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "促进普惠包容发展 共享亚太合作成果",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835788.html",
-      "publishedDate": "2026-11-18"
+      "title": "APEC\"中国年\",亚太共同体建设启新程",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836586.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "b99ccda7e4143eab",
+      "id": "b220c8aa5e1ae385",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "看深圳APEC，先看华强北的“7天速度”",
-      "url": "https://www.qstheory.cn/20261118/0ec0e346009b439d842eb5960dfc6698/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "国家文物局发布4项长江文明溯源最新考古成果",
+      "url": "https://www.qstheory.cn/20261119/40d1b6bd2b414850a0fcb0948329912d/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "707bf792037aa9af",
+      "id": "64d2a7e76618cfd9",
       "source": "people",
       "sourceName": "人民网",
-      "topic": "综合",
-      "title": "从车间到市集,亚太合作惠企利民",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835799.html",
-      "publishedDate": "2026-11-18"
+      "topic": "时政",
+      "title": "和音|回答时代课题 共创光明未来",
+      "url": "http://opinion.people.com.cn/n1/2026/1119/c461529-40836587.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "918b72172c16bdb0",
+      "id": "83cd893519c83d2b",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "3次东道主——中国这样与亚太同行",
-      "url": "https://www.qstheory.cn/20261118/ab92b477535548308984d3945a124ebc/c.html",
-      "publishedDate": "2026-11-18"
+      "title": "亚太向何处去？深圳APEC牵动未来",
+      "url": "https://www.qstheory.cn/20261119/ce11404d186242a885516a4f893e39d8/c.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "08bd64d4cf8d847c",
+      "id": "eac911527eb6f18a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "新加坡总理:新中携手,共创开放互联的未来",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835789.html",
-      "publishedDate": "2026-11-18"
+      "title": "多位APEC经济体领导人共绘区域合作蓝图",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836577.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "0f3696e7bbfe8416",
+      "id": "ef1abd929cf88c16",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中泰携手前行,开拓亚太繁荣新前景",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835790.html",
-      "publishedDate": "2026-11-18"
+      "title": "前10月我国与APEC其他经济体贸易增长25.4%",
+      "url": "http://finance.people.com.cn/n1/2026/1119/c1004-40836585.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "56ac2baed50b419d",
+      "id": "4e0183826e2ed2ba",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "人民论坛|\"创新优势\"从何而来",
+      "url": "http://opinion.people.com.cn/n1/2026/1119/c461529-40836584.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "66978cf5e03f8949",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "以人文交流夯实亚太合作根基",
-      "url": "http://world.people.com.cn/n1/2026/1118/c1002-40835791.html",
-      "publishedDate": "2026-11-18"
+      "title": "青年对话|\"我们共享同一片蔚蓝海洋\"",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836562.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "42aa43277d62039f",
+      "id": "f7b387d9a7c2b797",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "APEC工商领导人峰会这一选址有何深意?",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40836095.html",
-      "publishedDate": "2026-11-18"
+      "title": "习近平对老龄工作作出重要指示",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837051.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "0856c6d217fbba68",
+      "id": "d7a372d7292ac354",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "为凝聚侨心侨力、推进中国式现代化作出新贡献",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40835785.html",
-      "publishedDate": "2026-11-18"
+      "title": "持续增强人民群众对司法公正的获得感",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836573.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "be4342f4731f8066",
+      "id": "0befa8244f3e98a0",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平对人民法院工作作出重要指示",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40835782.html",
-      "publishedDate": "2026-11-18"
+      "title": "赵乐际在云南调研",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836581.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "3244aeb95ff77c5a",
+      "id": "238b1840e83ee562",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "《习近平法治思想干部读本》出版发行",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c1024-40835780.html",
-      "publishedDate": "2026-11-18"
+      "title": "丁薛祥在江西调研",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40836582.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "483a21e0fe099eda",
+      "id": "449a00e04917a3e7",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平在广东中山考察纪实",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40835783.html",
-      "publishedDate": "2026-11-18"
+      "title": "以党的政治建设为统领持之以恒推进全面从严治党",
+      "url": "http://opinion.people.com.cn/n1/2026/1119/c461530-40836619.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "7d658179054d727f",
+      "id": "a6dcad40876ed0bc",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "鼓舞人心、催人奋进",
-      "url": "http://politics.people.com.cn/n1/2026/1118/c461001-40835784.html",
-      "publishedDate": "2026-11-18"
+      "title": "抢抓协同发展的机遇",
+      "url": "http://opinion.people.com.cn/n1/2026/1119/c461529-40836601.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "23e4074611fe20f9",
+      "id": "c93ee363e72f3ca8",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "科学把握推进制度型开放的战略意义",
-      "url": "http://opinion.people.com.cn/n1/2026/1118/c461530-40835820.html",
-      "publishedDate": "2026-11-18"
+      "title": "常态化整治群众身边不正之风和腐败问题",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836588.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "2e83346e0a0d7689",
+      "id": "c3428d8da306fe5c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "坚持守正创新,永葆先进性纯洁性",
-      "url": "http://opinion.people.com.cn/n1/2026/1118/c461529-40835804.html",
-      "publishedDate": "2026-11-18"
+      "title": "增强党在新兴领域号召力凝聚力影响力",
+      "url": "http://politics.people.com.cn/n1/2026/1119/c461001-40836583.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "354b4b1a84f2d1be",
+      "id": "f730f89f3e3a1592",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "新型电网,新在哪?",
-      "url": "http://finance.people.com.cn/n1/2026/1118/c1004-40835831.html",
-      "publishedDate": "2026-11-18"
+      "title": "黑龙江宝清:矿坑里\"长\"出好风景",
+      "url": "http://env.people.com.cn/n1/2026/1119/c1010-40836591.html",
+      "publishedDate": "2026-11-19"
     },
     {
-      "id": "4103d0863e6ca455",
+      "id": "7b9e20bedfe0870a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "海底隧道这样穿越胶州湾",
-      "url": "http://env.people.com.cn/n1/2026/1118/c1010-40835827.html",
-      "publishedDate": "2026-11-18"
+      "title": "广东三所高校将\"藏书楼\"变成\"第二思政课堂\"",
+      "url": "http://ent.people.com.cn/n1/2026/1119/c1012-40836597.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "b3699aa169812bb0",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "委内瑞拉同美国签署协议恢复军事技术合作",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836650.html",
+      "publishedDate": "2026-11-19"
+    },
+    {
+      "id": "023c0ba653a6ba1f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中方强调国际司法机制不应受政治因素干扰",
+      "url": "http://world.people.com.cn/n1/2026/1119/c1002-40836649.html",
+      "publishedDate": "2026-11-19"
     }
   ],
   "errors": []
