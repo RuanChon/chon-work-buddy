@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T04:06:22.735Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T04:06:04.855Z",
   "sources": [
     {
       "id": "people",
@@ -15,292 +15,328 @@
   ],
   "items": [
     {
-      "id": "7ca6d9781749f1d3",
+      "id": "184a55a0c419d098",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "微观察·中俄美元首首次会晤：历史性的一页",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837281.html",
-      "publishedDate": "2026-11-20"
+      "title": "习近平主席的深圳APEC时间",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40837956.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "c8f54f313aa51e2c",
+      "id": "a7142dacf9a4eb28",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "为建设亚太共同体汇聚强大合力",
-      "url": "https://www.qstheory.cn/20261120/d91a3d723d1246178336edb1f698c8bb/c.html",
-      "publishedDate": "2026-11-20"
+      "title": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+      "url": "https://www.qstheory.cn/20261121/613f00b68f05474ba757c4c27b67f32c/c.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "8883f9edec70fe73",
+      "id": "542e8aba26d49ec2",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平主持中俄美元首会晤",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837273.html",
-      "publishedDate": "2026-11-20"
+      "title": "习主席出席亚太经合组织深圳会议及相关活动纪实",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40838110.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "e7262783440987f5",
+      "id": "59b52d4252af028d",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "强化对党忠诚教育",
-      "url": "https://www.qstheory.cn/20261120/70512d011a124cc09029a505dc87bce6/c.html",
-      "publishedDate": "2026-11-20"
+      "title": "为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响",
+      "url": "https://www.qstheory.cn/20261121/4d2278d5969c443a900aa221982c8758/c.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "5cbdd4c6779861dd",
+      "id": "8176e107586dee3e",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "中俄美元首和平宣言",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837277.html",
-      "publishedDate": "2026-11-20"
+      "title": "一见·两张历史性同框照，为何在中国定格？",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40838108.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "9784959fe4693afb",
+      "id": "13aea6210b1f9b61",
       "source": "qiushi",
       "sourceName": "求是网",
       "topic": "时政",
-      "title": "深刻把握“坚持服务使命任务”的原则",
-      "url": "https://www.qstheory.cn/20261120/cf4826d789cb49cc9b3a31d118a1a0c8/c.html",
-      "publishedDate": "2026-11-20"
+      "title": "中俄美三国最高领导人有史以来首次聚首",
+      "url": "https://www.qstheory.cn/20261121/6bcfb270eec643b781cc4fd6e47f2648/c.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "6f0cff707ad614f5",
+      "id": "cc3df180253f29bb",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平会见印度尼西亚总统普拉博沃",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837668.html",
-      "publishedDate": "2026-11-20"
+      "title": "推动亚太合作迈出新步伐 开创新局面",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40838101.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "98e4e5dfd94b5939",
+      "id": "6726271315adaebe",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "特写：大国外交的“深圳时刻”",
+      "url": "https://www.qstheory.cn/20261121/e13303a48a0647d68682b5062a0f4925/c.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "7537f7e1d8bf9342",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平会见泰国总理阿努廷",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837746.html",
-      "publishedDate": "2026-11-20"
+      "title": "国际人士：中俄美元首会晤为世界和平与稳定注入信心和动力",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40838107.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "8fb04a8f9dbf8dfd",
+      "id": "0bc19d99bb2671b7",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "担当大国责任，共建美好世界",
+      "url": "https://www.qstheory.cn/20261121/458cd0e6d40049bd81e757ee1d1de780/c.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "1cfe6898c11f9a7d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平会见新加坡总理黄循财",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837727.html",
-      "publishedDate": "2026-11-20"
+      "title": "习近平分别会见澳大利亚总理、",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1024-40837949.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "a700248c0f4eb368",
+      "id": "9529a92be01db022",
+      "source": "qiushi",
+      "sourceName": "求是网",
+      "topic": "时政",
+      "title": "扛起大国责任，共同为世界和平托底",
+      "url": "https://www.qstheory.cn/20261121/ab2ff7049cc6494aa2cfc03801f09b2d/c.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "15ec0cb886e88e21",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平会见澳大利亚总理阿尔巴尼斯",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837707.html",
-      "publishedDate": "2026-11-20"
+      "title": "习近平分别会见泰国总理、",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1024-40837951.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "146f73a9e5915d3b",
+      "id": "1df0fce6c642e7e5",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "此行间·多位APEC经济体领导人盛赞习主席引领中国发展",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837666.html",
-      "publishedDate": "2026-11-20"
+      "title": "习近平总书记重要指示指引新征程老龄事业高质量发展",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40837957.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "c153f0be03a20ca3",
+      "id": "ffc825ef56485d40",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民论坛|在和合共生中携手同行",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837289.html",
-      "publishedDate": "2026-11-20"
+      "title": "李强同澳大利亚总理举行第十一轮中澳总理年度会晤",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1024-40837953.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "2db5c78f2d03394c",
+      "id": "c339ab7b7360c38d",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "和音|共同将建设亚太共同体的愿景变为现实",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837311.html",
-      "publishedDate": "2026-11-20"
+      "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1024-40837954.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "70de0d4354b62a8e",
+      "id": "21fd8f0f3b9fe501",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1001-40837280.html",
-      "publishedDate": "2026-11-20"
+      "title": "丁薛祥将访问新加坡并主持中新双边合作机制会议",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1024-40837955.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "bac1031d000ae203",
+      "id": "0621fdf35a0df9f2",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "时政",
+      "title": "钟声|扛起大国责任,共同为世界和平托底",
+      "url": "http://opinion.people.com.cn/n1/2026/1121/c461529-40837960.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "a0552caad56a847b",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "广东:携手亚太,点亮\"新\"光",
-      "url": "http://finance.people.com.cn/n1/2026/1120/c1004-40837310.html",
-      "publishedDate": "2026-11-20"
+      "title": "秘鲁发生地震 首都利马震感强烈",
+      "url": "http://world.people.com.cn/n1/2026/1121/c1002-40838096.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "973246d515ae1e2a",
+      "id": "120808fabe7a717c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "综合",
-      "title": "中国空调串起亚太\"智造\"链条",
-      "url": "http://world.people.com.cn/n1/2026/1120/c1002-40837267.html",
-      "publishedDate": "2026-11-20"
+      "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+      "url": "http://world.people.com.cn/n1/2026/1121/c1002-40837947.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "4b3bd4c640cd511a",
+      "id": "c84516d13ec85691",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "日媒:日本研究引进核潜艇及为\"无核三原则\"设例外",
+      "url": "http://world.people.com.cn/n1/2026/1121/c1002-40837946.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "07a3cbc96d9bab1f",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "黑龙江漠河：列车穿越林海雪原",
+      "url": "http://pic.people.com.cn/n1/2026/1121/c1016-40838131.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "07dbbd3785d953c6",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "第800艘LNG船靠泊山东青岛",
+      "url": "http://pic.people.com.cn/n1/2026/1121/c1016-40838132.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "5436da639e30742c",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "新疆阿勒泰：牛羊转场 奔赴萨吾尔山冬牧场",
+      "url": "http://pic.people.com.cn/n1/2026/1121/c1016-40838129.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "d0ccc7689b01e5b4",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "西藏米林：南迦巴瓦峰现“日照金山”景观",
+      "url": "http://pic.people.com.cn/n1/2026/1121/c1016-40838130.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "5c8ac668bbf5d4d9",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "安徽宣城：落羽杉色彩旖旎醉游人",
+      "url": "http://pic.people.com.cn/n1/2026/1121/c1016-40838128.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "f9405e9101f800ed",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "多维发力打通生态修复堵点",
+      "url": "http://theory.people.com.cn/n1/2026/1121/c40531-40838043.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "deb2819c6918b287",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "一张网“兜”起万家事",
+      "url": "http://dangjian.people.com.cn/n1/2026/1121/c117092-40838121.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "442dfae2a215c676",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "织密医保基金防护网",
+      "url": "http://fanfu.people.com.cn/n1/2026/1121/c64371-40838046.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "5252eb1ffaf497e1",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "规范农村集体“三资”管理",
+      "url": "http://fanfu.people.com.cn/n1/2026/1121/c64371-40838045.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "3dfb87eedaab3f72",
+      "source": "people",
+      "sourceName": "人民网",
+      "topic": "综合",
+      "title": "中央苏区时期的红色体育运动",
+      "url": "http://cpc.people.com.cn/n1/2026/1121/c443712-40838086.html",
+      "publishedDate": "2026-11-21"
+    },
+    {
+      "id": "608b8a526143daf6",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "人民日报评论员：深入实施积极应对人口老龄化国家战略",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837284.html",
-      "publishedDate": "2026-11-20"
+      "title": "刘国中会见国际合作社联盟主席加尔科",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1001-40837962.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "fbcfd67ea6ee7f24",
+      "id": "35746e58ca8a446c",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平对老龄工作作出重要指示",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837275.html",
-      "publishedDate": "2026-11-20"
+      "title": "第三届兰花奖颁奖典礼在京举行",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1001-40837965.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "f974463069c09bb7",
+      "id": "9245ef2414273693",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "习近平总书记重要指示为扎实做好老龄工作指明努力方向注入持久力量",
-      "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837264.html",
-      "publishedDate": "2026-11-20"
+      "title": "张国清出席国际丝绸组织成立大会并致辞",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c1001-40837966.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "cd4a1cd2a24c71e3",
+      "id": "384ddedc264eeaec",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "坚持以上率下,抓住\"关键少数\"",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837290.html",
-      "publishedDate": "2026-11-20"
+      "title": "全国人大常委会办公厅对新任县级人大常委会主任开展履职培训",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40837968.html",
+      "publishedDate": "2026-11-21"
     },
     {
-      "id": "25c8d8f91e2711f0",
+      "id": "60a47a98f0b0635a",
       "source": "people",
       "sourceName": "人民网",
       "topic": "时政",
-      "title": "锤炼坚强党性 保持政治本色",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461530-40837307.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "369d583bdba819aa",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "呵护群众参与监督的心气",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837291.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "6c64d9a716910943",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "产销、改装、回收 汽车消费全链条发力",
-      "url": "http://finance.people.com.cn/n1/2026/1120/c1004-40837300.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "4dbbf9cbaad47cdd",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "AI全程\"站岗\",食品安全治理关口前移",
-      "url": "http://society.people.com.cn/n1/2026/1120/c1008-40837323.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "86c810eaae631c8a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "为大象\"添丁\" 云南能有多拼?",
-      "url": "http://env.people.com.cn/n1/2026/1120/c1010-40837316.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "6390a92f7e10b4ae",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "社会",
-      "title": "贵州毕节:193万人外出务工 没有后顾之忧",
-      "url": "http://society.people.com.cn/n1/2026/1120/c1008-40837296.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "b4f9c3cbdf1d61e5",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "时政",
-      "title": "从\"换脸\"到\"融脸\",边界怎么守?",
-      "url": "http://opinion.people.com.cn/n1/2026/1120/c436867-40837597.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "59bec0e75a4450ea",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "新一期贷款市场报价利率未作调整",
-      "url": "http://finance.people.com.cn/n1/2026/1120/c1004-40837706.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "f885b61680d1205a",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "国际金价跌破3700美元",
-      "url": "http://world.people.com.cn/n1/2026/1120/c1002-40837680.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "d63e9f7b0fe2e9f2",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "特朗普表示不会在新年前\"仓促\"决定对伊行动",
-      "url": "http://world.people.com.cn/n1/2026/1120/c1002-40837271.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "7617ad902560d6a4",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "新时代画卷丨方寸拾光 万影成章",
-      "url": "http://pic.people.com.cn/n1/2026/1120/c1016-40837321.html",
-      "publishedDate": "2026-11-20"
-    },
-    {
-      "id": "9fc335eb9da344d6",
-      "source": "people",
-      "sourceName": "人民网",
-      "topic": "综合",
-      "title": "第七届长三角文博会举行",
-      "url": "http://pic.people.com.cn/n1/2026/1120/c1016-40837556.html",
-      "publishedDate": "2026-11-20"
+      "title": "“网络文明大讲堂·数字里的文化遗产”专场活动举办",
+      "url": "http://politics.people.com.cn/n1/2026/1121/c461001-40837970.html",
+      "publishedDate": "2026-11-21"
     }
   ],
   "errors": []
